@@ -1,15 +1,26 @@
 # ghl-api-extended
 
-Typed wrapper around GoHighLevel's internal search-v2 endpoints — the same
-filtering the GHL UI itself uses for Contacts, Opportunities, and
-Appointments/Calendar — plus a self-contained OAuth token store, so you're
-not tied into any other project's auth.
+A drop-in replacement for [`@gohighlevel/api-client`](https://www.npmjs.com/package/@gohighlevel/api-client)'s
+`HighLevel` class — same constructor, every official route unchanged
+(`.contacts`, `.opportunities`, `.calendars`, `.oauth`, ...) — plus the
+internal search-v2 endpoints GHL's own UI uses for Contacts, Opportunities,
+and Appointments/Calendar filtering, which aren't in the public SDK or docs
+at all.
 
-These endpoints aren't in GHL's public API docs; the field/operator behavior
-in `docs/filters-reference.md` and the per-endpoint docs was reverse-engineered
-by probing a live account. See those files before filtering on anything not
-already covered by `fetchContactsByDateRange` / `fetchOpportunitiesByDateRange`
-/ `fetchAppointmentsByDateRange` below.
+If you're already using `@gohighlevel/api-client`, switching is a one-line
+import change — everything you call today keeps working, you just gain the
+extra routes. You don't need `@gohighlevel/api-client` installed separately;
+this package depends on it internally.
+
+```diff
+- import { HighLevel } from '@gohighlevel/api-client';
++ import { HighLevel } from 'ghl-api-extended';
+```
+
+These search-v2 endpoints aren't in GHL's public API docs; the field/operator
+behavior in `docs/filters-reference.md` and the per-endpoint docs was
+reverse-engineered by probing a live account. Check those before filtering on
+anything not already covered by the `fetch*ByDateRange` helpers below.
 
 ## Install
 
@@ -17,9 +28,67 @@ already covered by `fetchContactsByDateRange` / `fetchOpportunitiesByDateRange`
 npm install ghl-api-extended
 ```
 
-## Authorize
+## Usage
 
-Copy `.env.example` to `.env` and fill in your GHL marketplace app's
+`HighLevel` works exactly like the official SDK class — construct it however
+you already do (private integration token, agency/location access token, your
+own `SessionStorage`) — with the new methods available directly on the instance:
+
+```ts
+import { HighLevel } from 'ghl-api-extended';
+
+const ghl = new HighLevel({
+  clientId: process.env.GHL_CLIENT_ID,
+  clientSecret: process.env.GHL_CLIENT_SECRET,
+  locationAccessToken, // however you already obtain it
+});
+
+// Official SDK routes, unchanged:
+await ghl.contacts.getContact({ contactId });
+
+// New: filter + auto-paginate the way the GHL UI's Contacts tab does.
+const contacts = await ghl.fetchContactsByDateRange({
+  locationId,
+  startDate: '2026-01-01',
+  endDate: '2026-01-31',
+  filters: [{ field: 'tags', operator: 'contains', value: ['confirmed'] }],
+});
+
+const opportunities = await ghl.fetchOpportunitiesByDateRange({
+  locationId,
+  dateField: 'last_stage_change_date', // default: date_added
+  startDate: '2026-01-01',
+  endDate: '2026-01-31',
+  filters: [{ field: 'pipeline_id', operator: 'eq', value: [pipelineId] }],
+});
+
+const appointments = await ghl.fetchAppointmentsByDateRange({
+  locationId,
+  startDate: '2026-01-01', // ranges over startTime by default
+  endDate: '2026-01-31',
+  filters: [{ field: 'appoinmentStatus', operator: 'eq', value: 'confirmed' }],
+});
+```
+
+The `fetch*ByDateRange` methods auto-paginate to exhaustion, same as
+scrolling a filtered list in the GHL UI — no separate page-loop needed. Each
+accepts `maxResults`/`maxPages`/`pageLimit` if you want to bound that. For a
+single page, or full control over sort/pagination/aggregations, use
+`ghl.searchContacts(...)` / `ghl.searchOpportunities(...)` /
+`ghl.searchAppointments(...)` directly.
+
+The same methods are also exported as standalone functions
+(`searchContacts(client, params)`, `fetchContactsByDateRange(client, params)`,
+...) that take any `HighLevel`-compatible client as their first argument —
+useful if you'd rather keep constructing the official SDK's class yourself
+and only pull in this package's search functions.
+
+## No existing auth? Use the built-in OAuth flow
+
+If you don't already have a token source, this package ships a self-contained
+one — a local JSON file token store, no external infra:
+
+Copy `.env.example` to `.env`, fill in your GHL marketplace app's
 `GHL_CLIENT_ID` / `GHL_CLIENT_SECRET` / `GHL_REDIRECT_URI`, then:
 
 ```bash
@@ -28,52 +97,14 @@ npm run authorize
 
 This opens the GHL OAuth consent screen, catches the redirect on a local
 server, and saves the company session to `.tokens.json` (gitignored). Location
-tokens are minted and cached automatically as you use them — no separate step.
-
-## Usage
+tokens are minted and cached automatically as you use them.
 
 ```ts
-import { findMostRecentCompanyId, getAuthorizedLocationClient, fetchContactsByDateRange } from 'ghl-api-extended';
+import { findMostRecentCompanyId, getAuthorizedLocationClient } from 'ghl-api-extended';
 
 const companyId = await findMostRecentCompanyId();
-const client = await getAuthorizedLocationClient({ companyId, locationId });
-
-const contacts = await fetchContactsByDateRange(client, {
-  locationId,
-  startDate: '2026-01-01',
-  endDate: '2026-01-31',
-  filters: [{ field: 'tags', operator: 'contains', value: ['confirmed'] }],
-});
+const ghl = await getAuthorizedLocationClient({ companyId, locationId }); // a HighLevel instance
 ```
-
-The `fetch*ByDateRange` helpers auto-paginate to exhaustion, same as scrolling
-a filtered list in the GHL UI — no separate page-loop needed. Each accepts
-`maxResults`/`maxPages`/`pageLimit` if you want to bound that.
-
-For opportunities and appointments:
-
-```ts
-import { fetchOpportunitiesByDateRange, fetchAppointmentsByDateRange } from 'ghl-api-extended';
-
-const opportunities = await fetchOpportunitiesByDateRange(client, {
-  locationId,
-  dateField: 'last_stage_change_date', // default: date_added
-  startDate: '2026-01-01',
-  endDate: '2026-01-31',
-  filters: [{ field: 'pipeline_id', operator: 'eq', value: [pipelineId] }],
-});
-
-const appointments = await fetchAppointmentsByDateRange(client, {
-  locationId,
-  startDate: '2026-01-01', // ranges over startTime by default
-  endDate: '2026-01-31',
-  filters: [{ field: 'appoinmentStatus', operator: 'eq', value: 'confirmed' }],
-});
-```
-
-For a single page, or full control over sort/pagination/aggregations, use the
-lower-level `searchContacts` / `searchOpportunities` / `searchAppointments`
-directly.
 
 ## Filters
 

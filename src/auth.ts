@@ -1,5 +1,6 @@
-import { HighLevel, Logger, type LogLevelType } from '@gohighlevel/api-client';
+import { Logger, type LogLevelType } from '@gohighlevel/api-client';
 import { FileSessionStorage } from './storage';
+import { HighLevel } from './client';
 
 function requireEnv(name: string): string {
   const value = process.env[name];
@@ -89,8 +90,8 @@ async function getCompanyHighLevelClient(companyId: string): Promise<HighLevel> 
     clientSecret,
     agencyAccessToken: session.access_token,
     logLevel,
-    storage,
-  } as any);
+    sessionStorage: storage,
+  });
 }
 
 /**

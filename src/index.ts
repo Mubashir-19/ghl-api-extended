@@ -1,6 +1,7 @@
 export * from './types';
 export * from './filters';
 export * from './storage';
+export * from './client';
 export * from './auth';
 export * from './pagination';
 export * from './dateRange';
