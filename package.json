@@ -1,17 +1,51 @@
 {
   "name": "ghl-api-extended",
   "version": "0.1.0",
-  "description": "Typed wrapper around GoHighLevel's internal search-v2 endpoints (contacts, opportunities, appointments) with its own OAuth token store.",
+  "description": "Typed wrapper around GoHighLevel's internal search-v2 endpoints (contacts, opportunities, appointments) — filter the way the GHL UI does, with date-range fetch helpers and its own OAuth token store.",
   "license": "Apache-2.0",
+  "author": "Mubashir",
   "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mubashir-19/ghl-api-extended.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mubashir-19/ghl-api-extended/issues"
+  },
+  "homepage": "https://github.com/Mubashir-19/ghl-api-extended#readme",
+  "keywords": [
+    "gohighlevel",
+    "ghl",
+    "highlevel",
+    "crm",
+    "api",
+    "sdk"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "sideEffects": false,
   "files": [
     "dist",
-    "docs"
+    "docs",
+    "README.md",
+    "LICENSE"
   ],
   "scripts": {
     "build": "tsc -p tsconfig.json",
+    "prepublishOnly": "npm run build",
     "authorize": "tsx src/cli/authorize.ts",
     "test:contacts": "tsx scripts/test-contacts-search-2.ts",
     "test:opportunities": "tsx scripts/test-opportunities-search.ts",

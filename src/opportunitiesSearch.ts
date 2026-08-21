@@ -1,6 +1,8 @@
 import type { HighLevel } from '@gohighlevel/api-client';
 import type { Filter, FilterGroup, SortField } from './types';
 import { OPPORTUNITIES_FIELDS, classifyGhlSearchError, validateFilterTree } from './filters';
+import { dateRangeFilter } from './dateRange';
+import { paginateAll, type PaginateOptions } from './pagination';
 
 export interface OpportunityAggregation {
   name: string;
@@ -30,8 +32,9 @@ export interface OpportunitiesSearchParams {
 
 export interface OpportunitiesSearchResponse {
   opportunities: any[];
-  meta?: { total?: number; [key: string]: unknown };
-  aggregations?: Record<string, unknown>;
+  total?: number;
+  topRelations?: Array<{ recordId: string; totalRelations: number; associations: unknown[] }>;
+  stageAggregations?: unknown[];
   [key: string]: unknown;
 }
 
@@ -69,4 +72,53 @@ export async function searchOpportunities(
   } catch (err) {
     throw classifyGhlSearchError(err);
   }
+}
+
+export interface OpportunitiesByDateRangeParams extends PaginateOptions {
+  locationId: string;
+  /** Which date field to range over. Defaults to `date_added` (when the opportunity was created). */
+  dateField?: 'date_added' | 'date_updated' | 'last_stage_change_date' | 'last_status_change_date';
+  startDate?: string | number | Date;
+  endDate?: string | number | Date;
+  timeZone?: string;
+  /** Extra conditions, ANDed with the date-range filter — same as adding more filter rows in the GHL UI. */
+  filters?: Array<Filter | FilterGroup>;
+  sort?: SortField[];
+}
+
+/**
+ * Fetch every opportunity matching a date range (+ optional extra filters),
+ * auto-paginating to exhaustion — the same result set the Opportunities/
+ * Pipeline view in the GHL UI would show for that date-range + filter combination.
+ */
+export async function fetchOpportunitiesByDateRange(
+  client: HighLevel,
+  params: OpportunitiesByDateRangeParams
+): Promise<any[]> {
+  const filters: Array<Filter | FilterGroup> = [];
+  if (params.startDate !== undefined || params.endDate !== undefined) {
+    filters.push(
+      dateRangeFilter({
+        field: params.dateField ?? 'date_added',
+        startDate: params.startDate,
+        endDate: params.endDate,
+        timeZone: params.timeZone,
+      })
+    );
+  }
+  filters.push(...(params.filters ?? []));
+
+  return paginateAll(
+    async (page, pageLimit) => {
+      const data = await searchOpportunities(client, {
+        locationId: params.locationId,
+        filters,
+        sort: params.sort,
+        page,
+        limit: pageLimit,
+      });
+      return { items: data.opportunities ?? [], total: data.total };
+    },
+    { pageLimit: params.pageLimit, maxResults: params.maxResults, maxPages: params.maxPages }
+  );
 }

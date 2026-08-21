@@ -88,7 +88,7 @@ async function main() {
     fs.writeFileSync(outPath, JSON.stringify(data, null, 2));
     console.log(`Saved response to ${outPath}`);
     console.log('Top-level keys:', Object.keys(data || {}));
-    console.log(`Opportunities returned: ${data?.opportunities?.length}, total: ${data?.meta?.total}`);
+    console.log(`Opportunities returned: ${data?.opportunities?.length}, total: ${data?.total}`);
 }
 
 main().catch((err) => {
