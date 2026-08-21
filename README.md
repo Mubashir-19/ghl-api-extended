@@ -17,10 +17,10 @@ this package depends on it internally.
 + import { HighLevel } from 'ghl-api-extended';
 ```
 
-These search-v2 endpoints aren't in GHL's public API docs; the field/operator
-behavior in `docs/filters-reference.md` and the per-endpoint docs was
-reverse-engineered by probing a live account. Check those before filtering on
-anything not already covered by the `fetch*ByDateRange` helpers below.
+These search-v2 endpoints aren't in GHL's public API docs, so
+`docs/filters-reference.md` and the per-endpoint docs cover the field/operator
+behavior directly. Check those before filtering on anything not already
+covered by the `fetch*ByDateRange` helpers below.
 
 ## Install
 
