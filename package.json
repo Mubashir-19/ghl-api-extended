@@ -1,0 +1,29 @@
+{
+  "name": "ghl-api-extended",
+  "version": "0.1.0",
+  "description": "Typed wrapper around GoHighLevel's internal search-v2 endpoints (contacts, opportunities, appointments) with its own OAuth token store.",
+  "license": "Apache-2.0",
+  "private": false,
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "docs"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "authorize": "tsx src/cli/authorize.ts",
+    "test:contacts": "tsx scripts/test-contacts-search-2.ts",
+    "test:opportunities": "tsx scripts/test-opportunities-search.ts",
+    "test:appointments": "tsx scripts/test-appointments-search.ts"
+  },
+  "dependencies": {
+    "@gohighlevel/api-client": "^2.2.2",
+    "dotenv": "^17.2.3"
+  },
+  "devDependencies": {
+    "@types/node": "^25",
+    "tsx": "^4.21.0",
+    "typescript": "^5"
+  }
+}

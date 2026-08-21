@@ -1,0 +1,3966 @@
+{
+  "contacts": [
+    {
+      "id": "FbNpK2LDlcY6OYTiaYtJ",
+      "phoneLabel": null,
+      "country": "US",
+      "address": null,
+      "source": "VSL (4/9) - B \"Split test\"",
+      "type": "lead",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "website": null,
+      "dnd": true,
+      "state": null,
+      "businessName": null,
+      "customFields": [
+        {
+          "id": "dkhU1aP5gTQyJEEtEDHC",
+          "value": "The leads don't show up"
+        },
+        {
+          "id": "hpyxlLQ46IIXVDdih5TT",
+          "value": "Feast or famine"
+        },
+        {
+          "id": "miaO1fjhGZIFGn9Erg7t",
+          "value": "gfgfgfg"
+        },
+        {
+          "id": "pUrwusNqMhW6HTNcQdF6",
+          "value": "I've been burned before"
+        },
+        {
+          "id": "un5wc8d1TCM8DLvctnAD",
+          "value": "1-5"
+        },
+        {
+          "id": "2F5L20ZQotpme72wDiUm",
+          "value": "GA1.1.1826372558.1787092715"
+        },
+        {
+          "id": "5efeLnl1vEZ4mnUcuyiW",
+          "value": "https://l.facebook.com"
+        },
+        {
+          "id": "95aOAwBhY778PuK127iG",
+          "value": "IwY2xjawTxvihwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMVpRREJiZndJc29lZGt0MUdzcnRjBmFwcF9pZA81NDE2Mzk0OTM4ODkwMjUAAR4OO_7O4Usmerf9jcuq0jjWdmJ7wKfJclewA92nCA7Rymhno_epGzDhS7RJ8A_aem_OZkK21HbHVZWzXWUe5Ishg"
+        },
+        {
+          "id": "FHOIEE78GmyueDOf4jKe",
+          "value": "https://l.facebook.com"
+        },
+        {
+          "id": "PXzF3Qod6brdZLC1tRiR",
+          "value": "GA1.1.1826372558.1787092715"
+        },
+        {
+          "id": "SXl7nQQ56IRmGdlUk0jA",
+          "value": "Social media"
+        },
+        {
+          "id": "TmIbipPKmOTfjC2zwpx3",
+          "value": "IwY2xjawTxvihwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMVpRREJiZndJc29lZGt0MUdzcnRjBmFwcF9pZA81NDE2Mzk0OTM4ODkwMjUAAR4OO_7O4Usmerf9jcuq0jjWdmJ7wKfJclewA92nCA7Rymhno_epGzDhS7RJ8A_aem_OZkK21HbHVZWzXWUe5Ishg"
+        },
+        {
+          "id": "U5ZBWkkjASjje237GQNI",
+          "value": "https://demo.theimplantengine.com/lp-vsl-a?fbclid=IwY2xjawTxvihwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMVpRREJiZndJc29lZGt0MUdzcnRjBmFwcF9pZA81NDE2Mzk0OTM4ODkwMjUAAR4OO_7O4Usmerf9jcuq0jjWdmJ7wKfJclewA92nCA7Rymhno_epGzDhS7RJ8A_aem_OZkK21HbHVZWzXWUe5Ishg&fbclid=IwY2xjawTxvihwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMVpRREJiZndJc29lZGt0MUdzcnRjBmFwcF9pZA81NDE2Mzk0OTM4ODkwMjUAAR4OO_7O4Usmerf9jcuq0jjWdmJ7wKfJclewA92nCA7Rymhno_epGzDhS7RJ8A_aem_OZkK21HbHVZWzXWUe5Ishg"
+        },
+        {
+          "id": "X4SAHwW4j0ptgLYsopES",
+          "value": "Social media"
+        },
+        {
+          "id": "cibbwAH7ENrZustRHi21",
+          "value": "https://demo.theimplantengine.com/lp-vsl-a?fbclid=IwY2xjawTxvihwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMVpRREJiZndJc29lZGt0MUdzcnRjBmFwcF9pZA81NDE2Mzk0OTM4ODkwMjUAAR4OO_7O4Usmerf9jcuq0jjWdmJ7wKfJclewA92nCA7Rymhno_epGzDhS7RJ8A_aem_OZkK21HbHVZWzXWUe5Ishg&fbclid=IwY2xjawTxvihwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMVpRREJiZndJc29lZGt0MUdzcnRjBmFwcF9pZA81NDE2Mzk0OTM4ODkwMjUAAR4OO_7O4Usmerf9jcuq0jjWdmJ7wKfJclewA92nCA7Rymhno_epGzDhS7RJ8A_aem_OZkK21HbHVZWzXWUe5Ishg"
+        },
+        {
+          "id": "aCkfj1knKFM6ncldcvws",
+          "value": "1vjy9oLb0A7d3BCoEn2m"
+        }
+      ],
+      "tags": [
+        "custom role",
+        "vsl-sms-sent",
+        "funnel",
+        "junk lead",
+        "junk-confirmed"
+      ],
+      "dateAdded": "2026-08-18T22:50:08.623Z",
+      "additionalEmails": [],
+      "phone": "+543445554545",
+      "companyName": null,
+      "additionalPhones": [],
+      "dateUpdated": "2026-08-18T22:56:36.950Z",
+      "city": null,
+      "dateOfBirth": null,
+      "firstNameLowerCase": "ggfg",
+      "lastNameLowerCase": "fgfgfg",
+      "firstName": "ggfg",
+      "lastName": "fgfgfg",
+      "contactName": "ggfg fgfgfg",
+      "email": "tgtgtg@ghghg.vom",
+      "assignedTo": null,
+      "followers": [],
+      "validEmail": null,
+      "dndSettings": {
+        "Call": {
+          "message": "Updated from workflow_f6fc0c8b-e38d-4e01-a123-3f7b577a9796",
+          "status": "active"
+        },
+        "Email": {
+          "message": "Updated from workflow_f6fc0c8b-e38d-4e01-a123-3f7b577a9796",
+          "status": "active"
+        },
+        "SMS": {
+          "message": "Updated from workflow_f6fc0c8b-e38d-4e01-a123-3f7b577a9796",
+          "status": "active"
+        },
+        "FB": {
+          "message": "Updated from workflow_f6fc0c8b-e38d-4e01-a123-3f7b577a9796",
+          "status": "active"
+        },
+        "GMB": {
+          "message": "Updated from workflow_f6fc0c8b-e38d-4e01-a123-3f7b577a9796",
+          "status": "active"
+        },
+        "WhatsApp": {
+          "message": "Updated from workflow_f6fc0c8b-e38d-4e01-a123-3f7b577a9796",
+          "status": "active"
+        }
+      },
+      "opportunities": [
+        {
+          "pipelineId": "iv0V9Sacl6njcBsOpZSg",
+          "id": "XrQXivZ2qs39qS27jfBK",
+          "monetaryValue": 0,
+          "pipelineStageId": "4aef6c88-618d-4244-9086-dc4a242e04eb",
+          "status": "lost"
+        }
+      ],
+      "postalCode": null,
+      "businessId": null,
+      "searchAfter": [
+        1787093408623,
+        "FbNpK2LDlcY6OYTiaYtJ"
+      ],
+      "timezone": "America/Buenos_Aires",
+      "inboundDndSettings": {},
+      "attributionSource": {
+        "sessionSource": "Social media",
+        "medium": "survey",
+        "mediumId": "1vjy9oLb0A7d3BCoEn2m",
+        "fbclid": "IwY2xjawTxvihwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMVpRREJiZndJc29lZGt0MUdzcnRjBmFwcF9pZA81NDE2Mzk0OTM4ODkwMjUAAR4OO_7O4Usmerf9jcuq0jjWdmJ7wKfJclewA92nCA7Rymhno_epGzDhS7RJ8A_aem_OZkK21HbHVZWzXWUe5Ishg",
+        "referrer": "https://l.facebook.com",
+        "fbc": "fb.1.1787092715192.IwY2xjawTxvihwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMVpRREJiZndJc29lZGt0MUdzcnRjBmFwcF9pZA81NDE2Mzk0OTM4ODkwMjUAAR4OO_7O4Usmerf9jcuq0jjWdmJ7wKfJclewA92nCA7Rymhno_epGzDhS7RJ8A_aem_OZkK21HbHVZWzXWUe5Ishg",
+        "fbp": "fb.1.1787092714507.1316595651",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+        "ip": "190.245.180.149",
+        "gaClientId": "GA1.1.1826372558.1787092715",
+        "url": "https://demo.theimplantengine.com/lp-vsl-a?fbclid=IwY2xjawTxvihwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMVpRREJiZndJc29lZGt0MUdzcnRjBmFwcF9pZA81NDE2Mzk0OTM4ODkwMjUAAR4OO_7O4Usmerf9jcuq0jjWdmJ7wKfJclewA92nCA7Rymhno_epGzDhS7RJ8A_aem_OZkK21HbHVZWzXWUe5Ishg&fbclid=IwY2xjawTxvihwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMVpRREJiZndJc29lZGt0MUdzcnRjBmFwcF9pZA81NDE2Mzk0OTM4ODkwMjUAAR4OO_7O4Usmerf9jcuq0jjWdmJ7wKfJclewA92nCA7Rymhno_epGzDhS7RJ8A_aem_OZkK21HbHVZWzXWUe5Ishg"
+      },
+      "lastAttributionSource": {
+        "sessionSource": "Social media",
+        "medium": "survey",
+        "mediumId": "1vjy9oLb0A7d3BCoEn2m",
+        "fbclid": "IwY2xjawTxvihwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMVpRREJiZndJc29lZGt0MUdzcnRjBmFwcF9pZA81NDE2Mzk0OTM4ODkwMjUAAR4OO_7O4Usmerf9jcuq0jjWdmJ7wKfJclewA92nCA7Rymhno_epGzDhS7RJ8A_aem_OZkK21HbHVZWzXWUe5Ishg",
+        "referrer": "https://l.facebook.com",
+        "fbc": "fb.1.1787092715192.IwY2xjawTxvihwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMVpRREJiZndJc29lZGt0MUdzcnRjBmFwcF9pZA81NDE2Mzk0OTM4ODkwMjUAAR4OO_7O4Usmerf9jcuq0jjWdmJ7wKfJclewA92nCA7Rymhno_epGzDhS7RJ8A_aem_OZkK21HbHVZWzXWUe5Ishg",
+        "fbp": "fb.1.1787092714507.1316595651",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+        "ip": "190.245.180.149",
+        "gaClientId": "GA1.1.1826372558.1787092715",
+        "url": "https://demo.theimplantengine.com/lp-vsl-a?fbclid=IwY2xjawTxvihwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMVpRREJiZndJc29lZGt0MUdzcnRjBmFwcF9pZA81NDE2Mzk0OTM4ODkwMjUAAR4OO_7O4Usmerf9jcuq0jjWdmJ7wKfJclewA92nCA7Rymhno_epGzDhS7RJ8A_aem_OZkK21HbHVZWzXWUe5Ishg&fbclid=IwY2xjawTxvihwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMVpRREJiZndJc29lZGt0MUdzcnRjBmFwcF9pZA81NDE2Mzk0OTM4ODkwMjUAAR4OO_7O4Usmerf9jcuq0jjWdmJ7wKfJclewA92nCA7Rymhno_epGzDhS7RJ8A_aem_OZkK21HbHVZWzXWUe5Ishg"
+      }
+    },
+    {
+      "id": "cOOu0ypDmsUnaKj1OF8L",
+      "phoneLabel": null,
+      "country": "US",
+      "address": null,
+      "source": "facebook",
+      "type": "lead",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "website": null,
+      "dnd": false,
+      "state": null,
+      "businessName": null,
+      "customFields": [
+        {
+          "id": "dkhU1aP5gTQyJEEtEDHC",
+          "value": "I don't have enough leads"
+        },
+        {
+          "id": "hpyxlLQ46IIXVDdih5TT",
+          "value": "Feast or famine"
+        },
+        {
+          "id": "miaO1fjhGZIFGn9Erg7t",
+          "value": "Fort Dental"
+        },
+        {
+          "id": "pUrwusNqMhW6HTNcQdF6",
+          "value": "Haven't tried it yet"
+        },
+        {
+          "id": "un5wc8d1TCM8DLvctnAD",
+          "value": "6-10"
+        },
+        {
+          "id": "2F5L20ZQotpme72wDiUm",
+          "value": "GA1.1.527476068.1787088653"
+        },
+        {
+          "id": "5efeLnl1vEZ4mnUcuyiW",
+          "value": "https://schedule.theimplantengine.com"
+        },
+        {
+          "id": "95aOAwBhY778PuK127iG",
+          "value": "PAcGRvZgJmZGlkFlDL-P-7-LqvAX37GqRwOb-LB3uDXSBleHRuA2FlbQEwAGFkaWQBqzbpccB8DHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp5vKXmIV3NI42qxglc1VaZAMMUb3JbgCCTHxBLafdBNjdbKd6EbW5bupKFZI_aem_I0TIJD9VEzmCjEMR4-n6Jw"
+        },
+        {
+          "id": "BhtCH1z4T0IXsUBk10PA",
+          "value": "tie__d2c__cwh__schedule__071326"
+        },
+        {
+          "id": "EbBlEyRgtrHrEsSiHo4z",
+          "value": "tie__d2c__cwh__schedule__071326"
+        },
+        {
+          "id": "FHOIEE78GmyueDOf4jKe",
+          "value": "https://instagram.com"
+        },
+        {
+          "id": "PDUjg8Yoo8N5MGhw5GUG",
+          "value": "120250191280260060"
+        },
+        {
+          "id": "PXzF3Qod6brdZLC1tRiR",
+          "value": "GA1.1.527476068.1787088653"
+        },
+        {
+          "id": "SXl7nQQ56IRmGdlUk0jA",
+          "value": "Social media"
+        },
+        {
+          "id": "U5ZBWkkjASjje237GQNI",
+          "value": "https://demo.theimplantengine.com/watch-vsl?form_source=vsl_redirect&form_source=vsl_redirect"
+        },
+        {
+          "id": "WuBg5PACmmRzi5OBQq4j",
+          "value": "2026.06.25_ER_CM_TIESupercut01_4x5__angles__d2c_campaign_2026__062726 - Copy 3"
+        },
+        {
+          "id": "X4SAHwW4j0ptgLYsopES",
+          "value": "Referral"
+        },
+        {
+          "id": "aEIngOYdRVc7EXIkXP4D",
+          "value": "120250191280260060"
+        },
+        {
+          "id": "cibbwAH7ENrZustRHi21",
+          "value": "https://demo.theimplantengine.com/lp-vsl-a?utm_medium=LLA_mix__mid_markets_states__d2c_2026__cwh__schedule__072926&utm_campaign=tie__d2c__cwh__schedule__071326&utm_content=2026.06.25_ER_CM_TIESupercut01_4x5__angles__d2c_campaign_2026__062726+-+Copy+3&campaign_id=120249802962400060&ad_group_id=120250191280260060&ad_id=120250191296030060&utm_source=ig&utm_id=120250191280260060_v2_s02&utm_term=120250191280260060&fbclid=PAcGRvZgJmZGlkFlDL-P-7-LqvAX37GqRwOb-LB3uDXSBleHRuA2FlbQEwAGFkaWQBqzbpccB8DHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp5vKXmIV3NI42qxglc1VaZAMMUb3JbgCCTHxBLafdBNjdbKd6EbW5bupKFZI_aem_I0TIJD9VEzmCjEMR4-n6Jw"
+        },
+        {
+          "id": "oI9wTYiQByScLSPOzi7E",
+          "value": "ig"
+        },
+        {
+          "id": "sNtYKW0KJK24wVy7rM2j",
+          "value": "120249802962400060"
+        },
+        {
+          "id": "srEqQ3BBJ7ntnj6ihe5C",
+          "value": "120250191296030060"
+        },
+        {
+          "id": "v3UQTznH52fc3qLpsXSU",
+          "value": "LLA_mix__mid_markets_states__d2c_2026__cwh__schedule__072926"
+        },
+        {
+          "id": "3HhsGAjnFcsleaCVmcoY",
+          "value": "Facebook"
+        },
+        {
+          "id": "aCkfj1knKFM6ncldcvws",
+          "value": "Hii5KTq6sknHCC4HLnqM"
+        },
+        {
+          "id": "Gxs8PeIik24ymWSmYkTb",
+          "value": "cc563703-4e62-4dfd-9f80-3b0a7ef2b040"
+        },
+        {
+          "id": "e5dtV5vhjLLGpdkyjXWd",
+          "value": "Instagram Ad"
+        },
+        {
+          "id": "fp8F8SswCkwHIh3ThRUs",
+          "value": "0"
+        },
+        {
+          "id": "jsNRVPtELPDZtqtyg0p0",
+          "value": "vsl_redirect"
+        },
+        {
+          "id": "M6bjcTTwyhssogp1yP8u",
+          "value": "Jessica Bueno"
+        },
+        {
+          "id": "EMry84dErun3fDHa3MWU",
+          "value": "(801) 457-1767"
+        },
+        {
+          "id": "dy6q5JIjMRRweetjaHlN",
+          "value": "jessica"
+        },
+        {
+          "id": "z9rSoBwqmJ5vZwxYdCxx",
+          "value": "Jessica"
+        },
+        {
+          "id": "ETcg04fquXWQnjko11wh",
+          "value": "Chris"
+        }
+      ],
+      "tags": [
+        "vsl-sms-sent",
+        "custom role",
+        "paid",
+        "facebook",
+        "funnel",
+        "disco-booked"
+      ],
+      "dateAdded": "2026-08-18T21:31:40.420Z",
+      "additionalEmails": [],
+      "phone": "+18308229100",
+      "companyName": "Fort Dental",
+      "additionalPhones": [],
+      "dateUpdated": "2026-08-18T23:00:31.458Z",
+      "city": null,
+      "dateOfBirth": null,
+      "firstNameLowerCase": "chris",
+      "lastNameLowerCase": "thorburn",
+      "firstName": "Chris",
+      "lastName": "Thorburn",
+      "contactName": "chris thorburn",
+      "email": "thorburndds@gmail.com",
+      "assignedTo": "l3yZMOcJLNBTaynbCNU7",
+      "followers": [],
+      "validEmail": true,
+      "dndSettings": {},
+      "opportunities": [
+        {
+          "pipelineId": "iv0V9Sacl6njcBsOpZSg",
+          "id": "maoS3aSb6IDZw5M6uCFT",
+          "monetaryValue": 0,
+          "pipelineStageId": "4ba82c05-af7b-45ba-9df2-e89e90637546",
+          "status": "open"
+        }
+      ],
+      "postalCode": null,
+      "businessId": null,
+      "searchAfter": [
+        1787088700420,
+        "cOOu0ypDmsUnaKj1OF8L"
+      ],
+      "timezone": "America/Chicago",
+      "inboundDndSettings": {},
+      "attributionSource": {
+        "utmSource": "ig",
+        "utmTerm": "120250191280260060",
+        "sessionSource": "Social media",
+        "medium": "survey",
+        "mediumId": "1vjy9oLb0A7d3BCoEn2m",
+        "campaign": "tie__d2c__cwh__schedule__071326",
+        "utmMedium": "LLA_mix__mid_markets_states__d2c_2026__cwh__schedule__072926",
+        "utmContent": "2026.06.25_ER_CM_TIESupercut01_4x5__angles__d2c_campaign_2026__062726 - Copy 3",
+        "fbclid": "PAcGRvZgJmZGlkFlDL-P-7-LqvAX37GqRwOb-LB3uDXSBleHRuA2FlbQEwAGFkaWQBqzbpccB8DHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp5vKXmIV3NI42qxglc1VaZAMMUb3JbgCCTHxBLafdBNjdbKd6EbW5bupKFZI_aem_I0TIJD9VEzmCjEMR4-n6Jw",
+        "campaignId": "120249802962400060",
+        "adId": "120250191296030060",
+        "adGroupId": "120250191280260060",
+        "referrer": "https://instagram.com",
+        "fbc": "fb.1.1787088652602.PAcGRvZgJmZGlkFlDL-P-7-LqvAX37GqRwOb-LB3uDXSBleHRuA2FlbQEwAGFkaWQBqzbpccB8DHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp5vKXmIV3NI42qxglc1VaZAMMUb3JbgCCTHxBLafdBNjdbKd6EbW5bupKFZI_aem_I0TIJD9VEzmCjEMR4-n6Jw",
+        "fbp": "fb.1.1787088652436.1733913152",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23G71 Instagram 442.0.0.22.64 (iPhone16,2; iOS 26_6; en_US; en; scale=3.00; 1290x2796; IABMV/1; 1035455812) Safari/604.1",
+        "ip": "23.122.195.249",
+        "gaClientId": "GA1.1.527476068.1787088653",
+        "url": "https://demo.theimplantengine.com/lp-vsl-a?utm_medium=LLA_mix__mid_markets_states__d2c_2026__cwh__schedule__072926&utm_campaign=tie__d2c__cwh__schedule__071326&utm_content=2026.06.25_ER_CM_TIESupercut01_4x5__angles__d2c_campaign_2026__062726+-+Copy+3&campaign_id=120249802962400060&ad_group_id=120250191280260060&ad_id=120250191296030060&utm_source=ig&utm_id=120250191280260060_v2_s02&utm_term=120250191280260060&fbclid=PAcGRvZgJmZGlkFlDL-P-7-LqvAX37GqRwOb-LB3uDXSBleHRuA2FlbQEwAGFkaWQBqzbpccB8DHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp5vKXmIV3NI42qxglc1VaZAMMUb3JbgCCTHxBLafdBNjdbKd6EbW5bupKFZI_aem_I0TIJD9VEzmCjEMR4-n6Jw"
+      },
+      "lastAttributionSource": {
+        "sessionSource": "Referral",
+        "medium": "calendar",
+        "mediumId": "Hii5KTq6sknHCC4HLnqM",
+        "referrer": "https://schedule.theimplantengine.com",
+        "fbc": "fb.1.1787088652602.PAcGRvZgJmZGlkFlDL-P-7-LqvAX37GqRwOb-LB3uDXSBleHRuA2FlbQEwAGFkaWQBqzbpccB8DHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp5vKXmIV3NI42qxglc1VaZAMMUb3JbgCCTHxBLafdBNjdbKd6EbW5bupKFZI_aem_I0TIJD9VEzmCjEMR4-n6Jw",
+        "fbp": "fb.1.1787088652436.1733913152",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23G71 Instagram 442.0.0.22.64 (iPhone16,2; iOS 26_6; en_US; en; scale=3.00; 1290x2796; IABMV/1; 1035455812) Safari/604.1",
+        "ip": "23.122.195.249",
+        "gaClientId": "GA1.1.527476068.1787088653",
+        "url": "https://demo.theimplantengine.com/watch-vsl?form_source=vsl_redirect&form_source=vsl_redirect"
+      }
+    },
+    {
+      "id": "pVr7asxlNahDZzXVu1AD",
+      "phoneLabel": null,
+      "country": "US",
+      "address": null,
+      "source": "facebook",
+      "type": "lead",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "website": null,
+      "dnd": false,
+      "state": null,
+      "businessName": null,
+      "customFields": [
+        {
+          "id": "dkhU1aP5gTQyJEEtEDHC",
+          "value": "The leads can't afford treatment"
+        },
+        {
+          "id": "hpyxlLQ46IIXVDdih5TT",
+          "value": "Pretty consistent"
+        },
+        {
+          "id": "miaO1fjhGZIFGn9Erg7t",
+          "value": "Donald"
+        },
+        {
+          "id": "pUrwusNqMhW6HTNcQdF6",
+          "value": "Haven't tried it yet"
+        },
+        {
+          "id": "un5wc8d1TCM8DLvctnAD",
+          "value": "1-5"
+        },
+        {
+          "id": "0TMDaX28baH1HFuvgqQL",
+          "value": "tie__vsl_2026__lead__tof__080526"
+        },
+        {
+          "id": "5efeLnl1vEZ4mnUcuyiW",
+          "value": "http://m.facebook.com"
+        },
+        {
+          "id": "8NymIPoQlOANae5evfTo",
+          "value": "120250452888700060"
+        },
+        {
+          "id": "99T8Lary3O0eJ7RV8RMr",
+          "value": "fb"
+        },
+        {
+          "id": "GhnwhpANDL5xYTHvsf5L",
+          "value": "120250346942870060"
+        },
+        {
+          "id": "PXzF3Qod6brdZLC1tRiR",
+          "value": "GA1.1.1169930194.1787068898"
+        },
+        {
+          "id": "SEcCAtbZ9zzUoJ6g9Wct",
+          "value": "vsl__LLA__Dentists__images__lead__cwh__081026"
+        },
+        {
+          "id": "TmIbipPKmOTfjC2zwpx3",
+          "value": "IwcGRvZgFleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHuNx8H5ND4kJtemN3WZ3nE8XEeGFmFDaqAkf_fKh-59rTcfWY9o_rtymqnKN_aem_oqgFCwPdBcEUHpcNQ-4hSw"
+        },
+        {
+          "id": "U5ZBWkkjASjje237GQNI",
+          "value": "https://demo.theimplantengine.com/lp-vsl-b?utm_medium=vsl__LLA__Dentists__images__lead__cwh__081026&utm_campaign=tie__vsl_2026__lead__tof__080526&utm_content=Carousel_jam__VSL+teaser+2__angle_custom_by_jam__081026&campaign_id=120250346942870060&ad_group_id=120250452888700060&ad_id=120250453005870060&fbclid=IwcGRvZgFleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHuNx8H5ND4kJtemN3WZ3nE8XEeGFmFDaqAkf_fKh-59rTcfWY9o_rtymqnKN_aem_oqgFCwPdBcEUHpcNQ-4hSw&utm_source=fb&utm_id=120250452888700060_v2_s04&utm_term=120250452888700060"
+        },
+        {
+          "id": "UVzXKSFkSgcOpD1oW6Tv",
+          "value": "tie__vsl_2026__lead__tof__080526"
+        },
+        {
+          "id": "X4SAHwW4j0ptgLYsopES",
+          "value": "Social media"
+        },
+        {
+          "id": "aCkfj1knKFM6ncldcvws",
+          "value": "1vjy9oLb0A7d3BCoEn2m"
+        },
+        {
+          "id": "uqJGabIylbNXHUj6L0ew",
+          "value": "120250453005870060"
+        },
+        {
+          "id": "xJHccRKfJdis1OUtJuTA",
+          "value": "Carousel_jam__VSL teaser 2__angle_custom_by_jam__081026"
+        },
+        {
+          "id": "yNN749xwndr3J0gt5nYe",
+          "value": "120250452888700060"
+        },
+        {
+          "id": "2F5L20ZQotpme72wDiUm",
+          "value": "GA1.1.1169930194.1787068898"
+        },
+        {
+          "id": "95aOAwBhY778PuK127iG",
+          "value": "IwcGRvZgFleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHuNx8H5ND4kJtemN3WZ3nE8XEeGFmFDaqAkf_fKh-59rTcfWY9o_rtymqnKN_aem_oqgFCwPdBcEUHpcNQ-4hSw"
+        },
+        {
+          "id": "BEhuU20baeEEGcoiHlQI",
+          "value": "120250452888700060"
+        },
+        {
+          "id": "BhtCH1z4T0IXsUBk10PA",
+          "value": "Tie__vsl_2026__lead__tof__080526"
+        },
+        {
+          "id": "EbBlEyRgtrHrEsSiHo4z",
+          "value": "Tie__vsl_2026__lead__tof__080526"
+        },
+        {
+          "id": "FHOIEE78GmyueDOf4jKe",
+          "value": "http://m.facebook.com"
+        },
+        {
+          "id": "IUSpcfKHFzSJZVS3cJkb",
+          "value": "Carousel_jam__VSL teaser 2__angle_custom_by_jam__081026"
+        },
+        {
+          "id": "PDUjg8Yoo8N5MGhw5GUG",
+          "value": "120250452888700060"
+        },
+        {
+          "id": "SXl7nQQ56IRmGdlUk0jA",
+          "value": "Social media"
+        },
+        {
+          "id": "WuBg5PACmmRzi5OBQq4j",
+          "value": "Carousel_jam__VSL teaser 2__angle_custom_by_jam__081026"
+        },
+        {
+          "id": "aEIngOYdRVc7EXIkXP4D",
+          "value": "120250452888700060"
+        },
+        {
+          "id": "cibbwAH7ENrZustRHi21",
+          "value": "https://demo.theimplantengine.com/lp-vsl-b?utm_medium=vsl__LLA__Dentists__images__lead__cwh__081026&utm_campaign=tie__vsl_2026__lead__tof__080526&utm_content=Carousel_jam__VSL+teaser+2__angle_custom_by_jam__081026&campaign_id=120250346942870060&ad_group_id=120250452888700060&ad_id=120250453005870060&fbclid=IwcGRvZgFleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHuNx8H5ND4kJtemN3WZ3nE8XEeGFmFDaqAkf_fKh-59rTcfWY9o_rtymqnKN_aem_oqgFCwPdBcEUHpcNQ-4hSw&utm_source=fb&utm_id=120250452888700060_v2_s04&utm_term=120250452888700060"
+        },
+        {
+          "id": "oI9wTYiQByScLSPOzi7E",
+          "value": "fb"
+        },
+        {
+          "id": "sNtYKW0KJK24wVy7rM2j",
+          "value": "120250346942870060"
+        },
+        {
+          "id": "srEqQ3BBJ7ntnj6ihe5C",
+          "value": "120250453005870060"
+        },
+        {
+          "id": "v3UQTznH52fc3qLpsXSU",
+          "value": "vsl__LLA__Dentists__images__lead__cwh__081026"
+        },
+        {
+          "id": "3HhsGAjnFcsleaCVmcoY",
+          "value": "facebook"
+        }
+      ],
+      "tags": [
+        "custom role",
+        "vsl-sms-sent",
+        "paid",
+        "facebook",
+        "funnel",
+        "contacted"
+      ],
+      "dateAdded": "2026-08-18T16:03:02.462Z",
+      "additionalEmails": [],
+      "phone": "+13373293624",
+      "companyName": null,
+      "additionalPhones": [],
+      "dateUpdated": "2026-08-18T17:53:34.740Z",
+      "city": null,
+      "dateOfBirth": null,
+      "firstNameLowerCase": "donald",
+      "lastNameLowerCase": "harless",
+      "firstName": "Donald",
+      "lastName": "Harless",
+      "contactName": "donald harless",
+      "email": "jim.harless1987@gmail.com",
+      "assignedTo": null,
+      "followers": [],
+      "validEmail": null,
+      "dndSettings": {},
+      "opportunities": [
+        {
+          "pipelineId": "iv0V9Sacl6njcBsOpZSg",
+          "id": "9QgtWoXzaQ2m7t5UUBe2",
+          "monetaryValue": 4000,
+          "pipelineStageId": "328cac35-037c-4805-a6c7-3b5d84e36650",
+          "status": "open"
+        }
+      ],
+      "postalCode": null,
+      "businessId": null,
+      "searchAfter": [
+        1787068982462,
+        "pVr7asxlNahDZzXVu1AD"
+      ],
+      "timezone": "America/Chicago",
+      "inboundDndSettings": {},
+      "attributionSource": {
+        "utmSource": "fb",
+        "utmKeyword": "120250452888700060",
+        "utmTerm": "120250452888700060",
+        "sessionSource": "Social media",
+        "medium": "survey",
+        "mediumId": "1vjy9oLb0A7d3BCoEn2m",
+        "campaign": "Tie__vsl_2026__lead__tof__080526",
+        "utmMedium": "vsl__LLA__Dentists__images__lead__cwh__081026",
+        "utmContent": "Carousel_jam__VSL teaser 2__angle_custom_by_jam__081026",
+        "fbclid": "IwcGRvZgFleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHuNx8H5ND4kJtemN3WZ3nE8XEeGFmFDaqAkf_fKh-59rTcfWY9o_rtymqnKN_aem_oqgFCwPdBcEUHpcNQ-4hSw",
+        "campaignId": "120250346942870060",
+        "adId": "120250453005870060",
+        "adGroupId": "120250452888700060",
+        "referrer": "http://m.facebook.com",
+        "fbc": "fb.1.1787068897921.IwcGRvZgFleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHuNx8H5ND4kJtemN3WZ3nE8XEeGFmFDaqAkf_fKh-59rTcfWY9o_rtymqnKN_aem_oqgFCwPdBcEUHpcNQ-4hSw",
+        "fbp": "fb.1.1787068897173.2143853564",
+        "userAgent": "Mozilla/5.0 (Linux; Android 14; moto g play - 2024 Build/U1TFS34.100-35-14-1-18) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/151.0.7922.134 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/574.0.0.40.71;IABMV/1;]",
+        "ip": "2600:6c63:13f0:8f30:9ee3:5fac:a486:5348",
+        "gaClientId": "GA1.1.1169930194.1787068898",
+        "url": "https://demo.theimplantengine.com/lp-vsl-b?utm_medium=vsl__LLA__Dentists__images__lead__cwh__081026&utm_campaign=tie__vsl_2026__lead__tof__080526&utm_content=Carousel_jam__VSL+teaser+2__angle_custom_by_jam__081026&campaign_id=120250346942870060&ad_group_id=120250452888700060&ad_id=120250453005870060&fbclid=IwcGRvZgFleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHuNx8H5ND4kJtemN3WZ3nE8XEeGFmFDaqAkf_fKh-59rTcfWY9o_rtymqnKN_aem_oqgFCwPdBcEUHpcNQ-4hSw&utm_source=fb&utm_id=120250452888700060_v2_s04&utm_term=120250452888700060"
+      },
+      "lastAttributionSource": {
+        "utmSource": "fb",
+        "utmTerm": "120250452888700060",
+        "sessionSource": "Social media",
+        "medium": "survey",
+        "mediumId": "1vjy9oLb0A7d3BCoEn2m",
+        "campaign": "tie__vsl_2026__lead__tof__080526",
+        "utmMedium": "vsl__LLA__Dentists__images__lead__cwh__081026",
+        "utmContent": "Carousel_jam__VSL teaser 2__angle_custom_by_jam__081026",
+        "fbclid": "IwcGRvZgFleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHuNx8H5ND4kJtemN3WZ3nE8XEeGFmFDaqAkf_fKh-59rTcfWY9o_rtymqnKN_aem_oqgFCwPdBcEUHpcNQ-4hSw",
+        "campaignId": "120250346942870060",
+        "adId": "120250453005870060",
+        "adGroupId": "120250452888700060",
+        "referrer": "http://m.facebook.com",
+        "fbc": "fb.1.1787068897921.IwcGRvZgFleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHuNx8H5ND4kJtemN3WZ3nE8XEeGFmFDaqAkf_fKh-59rTcfWY9o_rtymqnKN_aem_oqgFCwPdBcEUHpcNQ-4hSw",
+        "fbp": "fb.1.1787068897173.2143853564",
+        "userAgent": "Mozilla/5.0 (Linux; Android 14; moto g play - 2024 Build/U1TFS34.100-35-14-1-18) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/151.0.7922.134 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/574.0.0.40.71;IABMV/1;]",
+        "ip": "2600:6c63:13f0:8f30:9ee3:5fac:a486:5348",
+        "gaClientId": "GA1.1.1169930194.1787068898",
+        "url": "https://demo.theimplantengine.com/lp-vsl-b?utm_medium=vsl__LLA__Dentists__images__lead__cwh__081026&utm_campaign=tie__vsl_2026__lead__tof__080526&utm_content=Carousel_jam__VSL+teaser+2__angle_custom_by_jam__081026&campaign_id=120250346942870060&ad_group_id=120250452888700060&ad_id=120250453005870060&fbclid=IwcGRvZgFleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHuNx8H5ND4kJtemN3WZ3nE8XEeGFmFDaqAkf_fKh-59rTcfWY9o_rtymqnKN_aem_oqgFCwPdBcEUHpcNQ-4hSw&utm_source=fb&utm_id=120250452888700060_v2_s04&utm_term=120250452888700060"
+      }
+    },
+    {
+      "id": "KsJKPGtaBiGvOLs2PLsn",
+      "phoneLabel": null,
+      "country": "US",
+      "address": null,
+      "source": "Schedule a Demo",
+      "type": "lead",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "website": null,
+      "dnd": false,
+      "state": null,
+      "businessName": null,
+      "customFields": [
+        {
+          "id": "0TIQzoCDQ38Q6XwSDlwi",
+          "value": "I work in a dental practice"
+        },
+        {
+          "id": "e5dtV5vhjLLGpdkyjXWd",
+          "value": "Instagram Ad"
+        },
+        {
+          "id": "fp8F8SswCkwHIh3ThRUs",
+          "value": "20+"
+        },
+        {
+          "id": "miaO1fjhGZIFGn9Erg7t",
+          "value": "Stubbs Dental "
+        },
+        {
+          "id": "un5wc8d1TCM8DLvctnAD",
+          "value": "20+"
+        },
+        {
+          "id": "2F5L20ZQotpme72wDiUm",
+          "value": "GA1.1.980229534.1787061362"
+        },
+        {
+          "id": "PXzF3Qod6brdZLC1tRiR",
+          "value": "GA1.1.980229534.1787061362"
+        },
+        {
+          "id": "SXl7nQQ56IRmGdlUk0jA",
+          "value": "Direct traffic"
+        },
+        {
+          "id": "U5ZBWkkjASjje237GQNI",
+          "value": "https://theimplantengine.com/"
+        },
+        {
+          "id": "X4SAHwW4j0ptgLYsopES",
+          "value": "Direct traffic"
+        },
+        {
+          "id": "cibbwAH7ENrZustRHi21",
+          "value": "https://theimplantengine.com/"
+        },
+        {
+          "id": "aCkfj1knKFM6ncldcvws",
+          "value": "Hii5KTq6sknHCC4HLnqM"
+        },
+        {
+          "id": "3HhsGAjnFcsleaCVmcoY",
+          "value": "Direct Traffic (Google)"
+        },
+        {
+          "id": "M6bjcTTwyhssogp1yP8u",
+          "value": "Jessica Bueno"
+        },
+        {
+          "id": "EMry84dErun3fDHa3MWU",
+          "value": "(801) 457-1767"
+        },
+        {
+          "id": "dy6q5JIjMRRweetjaHlN",
+          "value": "jessica"
+        },
+        {
+          "id": "z9rSoBwqmJ5vZwxYdCxx",
+          "value": "Jessica"
+        },
+        {
+          "id": "ETcg04fquXWQnjko11wh",
+          "value": "Alicia"
+        }
+      ],
+      "tags": [
+        "search_organic",
+        "website",
+        "work in dental practice",
+        "disco-cc"
+      ],
+      "dateAdded": "2026-08-18T13:57:46.628Z",
+      "additionalEmails": [],
+      "phone": "+13853425021",
+      "companyName": "Stubbs Dental",
+      "additionalPhones": [],
+      "dateUpdated": "2026-08-18T15:01:34.871Z",
+      "city": null,
+      "dateOfBirth": null,
+      "firstNameLowerCase": "alicia",
+      "lastNameLowerCase": "robinson",
+      "firstName": "Alicia",
+      "lastName": "Robinson",
+      "contactName": "alicia robinson",
+      "email": "marketing@stubbsdental.com",
+      "assignedTo": "l3yZMOcJLNBTaynbCNU7",
+      "followers": [],
+      "validEmail": true,
+      "dndSettings": {},
+      "opportunities": [
+        {
+          "pipelineId": "iv0V9Sacl6njcBsOpZSg",
+          "id": "Md3r8ivl65eQgXzHB1ar",
+          "monetaryValue": 0,
+          "pipelineStageId": "a31558fd-aff3-4b09-b1ff-bee6aba37537",
+          "status": "open"
+        }
+      ],
+      "postalCode": null,
+      "businessId": null,
+      "searchAfter": [
+        1787061466628,
+        "KsJKPGtaBiGvOLs2PLsn"
+      ],
+      "timezone": "America/Denver",
+      "inboundDndSettings": {},
+      "attributionSource": {
+        "sessionSource": "Direct traffic",
+        "medium": "calendar",
+        "mediumId": "Hii5KTq6sknHCC4HLnqM",
+        "fbp": "fb.1.1787061361991.8590764373",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+        "ip": "2601:681:8500:4f00:9115:1cfa:2621:cca6",
+        "gaClientId": "GA1.1.980229534.1787061362",
+        "url": "https://theimplantengine.com/"
+      },
+      "lastAttributionSource": {
+        "sessionSource": "Direct traffic",
+        "medium": "calendar",
+        "mediumId": "Hii5KTq6sknHCC4HLnqM",
+        "fbp": "fb.1.1787061361991.8590764373",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+        "ip": "2601:681:8500:4f00:9115:1cfa:2621:cca6",
+        "gaClientId": "GA1.1.980229534.1787061362",
+        "url": "https://theimplantengine.com/"
+      }
+    },
+    {
+      "id": "EpEjJMaEB3DaC1oLngxS",
+      "phoneLabel": null,
+      "country": "US",
+      "address": null,
+      "source": "VSL (4/9) - B \"Split test\"",
+      "type": "lead",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "website": null,
+      "dnd": true,
+      "state": null,
+      "businessName": null,
+      "customFields": [
+        {
+          "id": "dkhU1aP5gTQyJEEtEDHC",
+          "value": "The leads can't afford treatment"
+        },
+        {
+          "id": "hpyxlLQ46IIXVDdih5TT",
+          "value": "Feast or famine"
+        },
+        {
+          "id": "miaO1fjhGZIFGn9Erg7t",
+          "value": "Stubbs Dental"
+        },
+        {
+          "id": "pUrwusNqMhW6HTNcQdF6",
+          "value": "I've been burned before"
+        },
+        {
+          "id": "un5wc8d1TCM8DLvctnAD",
+          "value": "20+"
+        },
+        {
+          "id": "SXl7nQQ56IRmGdlUk0jA",
+          "value": "Direct traffic"
+        },
+        {
+          "id": "U5ZBWkkjASjje237GQNI",
+          "value": "https://demo.theimplantengine.com/watch-vsl?form_source=vsl_redirect"
+        },
+        {
+          "id": "X4SAHwW4j0ptgLYsopES",
+          "value": "Referral"
+        },
+        {
+          "id": "cibbwAH7ENrZustRHi21",
+          "value": "https://demo.theimplantengine.com/lp-vsl-b"
+        },
+        {
+          "id": "aCkfj1knKFM6ncldcvws",
+          "value": "1vjy9oLb0A7d3BCoEn2m"
+        },
+        {
+          "id": "0TIQzoCDQ38Q6XwSDlwi",
+          "value": "I am a dentist"
+        },
+        {
+          "id": "Gxs8PeIik24ymWSmYkTb",
+          "value": "d603dbd1-9708-44fc-95b9-fc3ab7457be0"
+        },
+        {
+          "id": "e5dtV5vhjLLGpdkyjXWd",
+          "value": "Facebook Ad"
+        },
+        {
+          "id": "fp8F8SswCkwHIh3ThRUs",
+          "value": "20+"
+        },
+        {
+          "id": "M6bjcTTwyhssogp1yP8u",
+          "value": "Jessica Bueno"
+        },
+        {
+          "id": "3HhsGAjnFcsleaCVmcoY",
+          "value": "Direct Traffic (Google)"
+        },
+        {
+          "id": "EMry84dErun3fDHa3MWU",
+          "value": "(801) 457-1767"
+        },
+        {
+          "id": "dy6q5JIjMRRweetjaHlN",
+          "value": "jessica"
+        },
+        {
+          "id": "z9rSoBwqmJ5vZwxYdCxx",
+          "value": "Jessica"
+        },
+        {
+          "id": "5efeLnl1vEZ4mnUcuyiW",
+          "value": "https://schedule.theimplantengine.com"
+        },
+        {
+          "id": "ETcg04fquXWQnjko11wh",
+          "value": "Dr. Stubbs"
+        }
+      ],
+      "tags": [
+        "custom role",
+        "vsl-sms-sent",
+        "dentist",
+        "disco-booked",
+        "agreement sent",
+        "sold"
+      ],
+      "dateAdded": "2026-08-18T08:30:39.678Z",
+      "additionalEmails": [],
+      "phone": "+18013900701",
+      "companyName": "Stubbs Dental",
+      "additionalPhones": [],
+      "dateUpdated": "2026-08-18T22:49:32.201Z",
+      "city": null,
+      "dateOfBirth": null,
+      "firstNameLowerCase": "david",
+      "lastNameLowerCase": "stubbs",
+      "firstName": "David",
+      "lastName": "Stubbs",
+      "contactName": "david stubbs",
+      "email": "dds2010@gmail.com",
+      "assignedTo": "cVaCcwpDKmpnIx0mXyWN",
+      "followers": [],
+      "validEmail": true,
+      "dndSettings": {
+        "Call": {
+          "message": "Updated from workflow_c08c74bf-692e-4dcc-93d0-86f40acc25e1",
+          "status": "active"
+        },
+        "Email": {
+          "message": "Updated from workflow_c08c74bf-692e-4dcc-93d0-86f40acc25e1",
+          "status": "active"
+        },
+        "SMS": {
+          "message": "Updated from workflow_c08c74bf-692e-4dcc-93d0-86f40acc25e1",
+          "status": "active"
+        },
+        "FB": {
+          "message": "Updated from workflow_c08c74bf-692e-4dcc-93d0-86f40acc25e1",
+          "status": "active"
+        },
+        "GMB": {
+          "message": "Updated from workflow_c08c74bf-692e-4dcc-93d0-86f40acc25e1",
+          "status": "active"
+        },
+        "WhatsApp": {
+          "message": "Updated from workflow_c08c74bf-692e-4dcc-93d0-86f40acc25e1",
+          "status": "active"
+        }
+      },
+      "opportunities": [
+        {
+          "pipelineId": "iv0V9Sacl6njcBsOpZSg",
+          "id": "uv8cJf4jWSL5jgIwM835",
+          "monetaryValue": 4000,
+          "pipelineStageId": "6ede866f-682e-43e7-8b62-7343e53d070b",
+          "status": "won"
+        }
+      ],
+      "postalCode": null,
+      "businessId": null,
+      "searchAfter": [
+        1787041839678,
+        "EpEjJMaEB3DaC1oLngxS"
+      ],
+      "timezone": "America/Denver",
+      "inboundDndSettings": {},
+      "attributionSource": {
+        "sessionSource": "Direct traffic",
+        "medium": "survey",
+        "mediumId": "1vjy9oLb0A7d3BCoEn2m",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Mobile/15E148 Safari/604.1",
+        "ip": "67.164.249.39",
+        "url": "https://demo.theimplantengine.com/lp-vsl-b"
+      },
+      "lastAttributionSource": {
+        "sessionSource": "Referral",
+        "medium": "calendar",
+        "mediumId": "Hii5KTq6sknHCC4HLnqM",
+        "referrer": "https://schedule.theimplantengine.com",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Mobile/15E148 Safari/604.1",
+        "ip": "67.164.249.39",
+        "url": "https://demo.theimplantengine.com/watch-vsl?form_source=vsl_redirect"
+      }
+    },
+    {
+      "id": "9805sauuBtmFXsfwoRmK",
+      "phoneLabel": null,
+      "country": "US",
+      "address": null,
+      "source": "facebook",
+      "type": "lead",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "website": null,
+      "dnd": false,
+      "state": null,
+      "businessName": null,
+      "customFields": [
+        {
+          "id": "2F5L20ZQotpme72wDiUm",
+          "value": "GA1.1.391394194.1759989502"
+        },
+        {
+          "id": "95aOAwBhY778PuK127iG",
+          "value": "IwcGRvZgVleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHiX0EFIrMaXdYMjL_7UoCqbxEv91diiCDF0GZJhxzP8zJikZbOW4FGdOV8D8_aem_XkGTmVqylCO3XOoD7YZ6BQ"
+        },
+        {
+          "id": "BEhuU20baeEEGcoiHlQI",
+          "value": "120250452888700060"
+        },
+        {
+          "id": "BhtCH1z4T0IXsUBk10PA",
+          "value": "Tie__vsl_2026__lead__tof__080526"
+        },
+        {
+          "id": "EbBlEyRgtrHrEsSiHo4z",
+          "value": "Tie__vsl_2026__lead__tof__080526"
+        },
+        {
+          "id": "FHOIEE78GmyueDOf4jKe",
+          "value": "http://m.facebook.com"
+        },
+        {
+          "id": "PDUjg8Yoo8N5MGhw5GUG",
+          "value": "120250452888700060"
+        },
+        {
+          "id": "PXzF3Qod6brdZLC1tRiR",
+          "value": "GA1.1.391394194.1759989502"
+        },
+        {
+          "id": "SXl7nQQ56IRmGdlUk0jA",
+          "value": "Social media"
+        },
+        {
+          "id": "U5ZBWkkjASjje237GQNI",
+          "value": "https://demo.theimplantengine.com/privacy-policy"
+        },
+        {
+          "id": "WuBg5PACmmRzi5OBQq4j",
+          "value": "Carousel_jam__VSL teaser 2__angle_custom_by_jam__081026"
+        },
+        {
+          "id": "X4SAHwW4j0ptgLYsopES",
+          "value": "Direct traffic"
+        },
+        {
+          "id": "aEIngOYdRVc7EXIkXP4D",
+          "value": "120250452888700060"
+        },
+        {
+          "id": "cibbwAH7ENrZustRHi21",
+          "value": "https://demo.theimplantengine.com/lp-vsl-a?utm_medium=vsl__LLA__Dentists__images__lead__cwh__081026&utm_campaign=tie__vsl_2026__lead__tof__080526&utm_content=Carousel_jam__VSL+teaser+2__angle_custom_by_jam__081026&campaign_id=120250346942870060&ad_group_id=120250452888700060&ad_id=120250453005870060&fbclid=IwcGRvZgVleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHiX0EFIrMaXdYMjL_7UoCqbxEv91diiCDF0GZJhxzP8zJikZbOW4FGdOV8D8_aem_XkGTmVqylCO3XOoD7YZ6BQ&utm_source=fb&utm_id=120250452888700060_v2_s01&utm_term=120250452888700060"
+        },
+        {
+          "id": "oI9wTYiQByScLSPOzi7E",
+          "value": "fb"
+        },
+        {
+          "id": "sNtYKW0KJK24wVy7rM2j",
+          "value": "120250346942870060"
+        },
+        {
+          "id": "srEqQ3BBJ7ntnj6ihe5C",
+          "value": "120250453005870060"
+        },
+        {
+          "id": "v3UQTznH52fc3qLpsXSU",
+          "value": "vsl__LLA__Dentists__images__lead__cwh__081026"
+        },
+        {
+          "id": "3HhsGAjnFcsleaCVmcoY",
+          "value": "facebook"
+        }
+      ],
+      "tags": [
+        "paid",
+        "facebook",
+        "funnel"
+      ],
+      "dateAdded": "2026-08-18T02:04:21.764Z",
+      "additionalEmails": [],
+      "phone": "+14013595782",
+      "companyName": null,
+      "additionalPhones": [],
+      "dateUpdated": "2026-08-18T04:08:07.061Z",
+      "city": null,
+      "dateOfBirth": null,
+      "firstNameLowerCase": "maria",
+      "lastNameLowerCase": "da silva",
+      "firstName": "Maria",
+      "lastName": "Da Silva",
+      "contactName": "maria da silva",
+      "email": null,
+      "assignedTo": null,
+      "followers": [],
+      "validEmail": null,
+      "dndSettings": {},
+      "postalCode": null,
+      "businessId": null,
+      "searchAfter": [
+        1787018661764,
+        "9805sauuBtmFXsfwoRmK"
+      ],
+      "timezone": null,
+      "inboundDndSettings": {},
+      "attributionSource": {
+        "utmSource": "fb",
+        "utmKeyword": "120250452888700060",
+        "utmTerm": "120250452888700060",
+        "sessionSource": "Social media",
+        "medium": "chat_widget",
+        "campaign": "Tie__vsl_2026__lead__tof__080526",
+        "utmMedium": "vsl__LLA__Dentists__images__lead__cwh__081026",
+        "utmContent": "Carousel_jam__VSL teaser 2__angle_custom_by_jam__081026",
+        "fbclid": "IwcGRvZgVleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHiX0EFIrMaXdYMjL_7UoCqbxEv91diiCDF0GZJhxzP8zJikZbOW4FGdOV8D8_aem_XkGTmVqylCO3XOoD7YZ6BQ",
+        "campaignId": "120250346942870060",
+        "adId": "120250453005870060",
+        "adGroupId": "120250452888700060",
+        "referrer": "http://m.facebook.com",
+        "fbc": "fb.1.1787018394005.IwY2xjawTwm9twZG9mBWV4dG4DYWVtAzEwMABzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR7e1RxWqwtQRfZW5Wz1w_1aXz7k5DdpwIWl3TU0f4OMzo2TitWeLHBAOAR3hA_aem_Qphf-1DEguUwDW6Ok172tQ",
+        "fbp": "fb.1.1786865256836.8282189411",
+        "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A326U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/150.0.7871.181 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/557.0.0.59.72;IABMV/1;]",
+        "ip": "2607:fb90:3c2e:a8d4:ad2:3f51:67a3:3f92",
+        "gaClientId": "GA1.1.391394194.1759989502",
+        "url": "https://demo.theimplantengine.com/lp-vsl-a?utm_medium=vsl__LLA__Dentists__images__lead__cwh__081026&utm_campaign=tie__vsl_2026__lead__tof__080526&utm_content=Carousel_jam__VSL+teaser+2__angle_custom_by_jam__081026&campaign_id=120250346942870060&ad_group_id=120250452888700060&ad_id=120250453005870060&fbclid=IwcGRvZgVleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHiX0EFIrMaXdYMjL_7UoCqbxEv91diiCDF0GZJhxzP8zJikZbOW4FGdOV8D8_aem_XkGTmVqylCO3XOoD7YZ6BQ&utm_source=fb&utm_id=120250452888700060_v2_s01&utm_term=120250452888700060"
+      },
+      "lastAttributionSource": {
+        "sessionSource": "Direct traffic",
+        "medium": "chat_widget",
+        "fbc": "fb.1.1787018394005.IwY2xjawTwm9twZG9mBWV4dG4DYWVtAzEwMABzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR7e1RxWqwtQRfZW5Wz1w_1aXz7k5DdpwIWl3TU0f4OMzo2TitWeLHBAOAR3hA_aem_Qphf-1DEguUwDW6Ok172tQ",
+        "fbp": "fb.1.1786865256836.8282189411",
+        "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A326U Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/150.0.7871.181 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/557.0.0.59.72;IABMV/1;]",
+        "ip": "2607:fb90:3c2e:a8d4:ad2:3f51:67a3:3f92",
+        "gaClientId": "GA1.1.391394194.1759989502",
+        "url": "https://demo.theimplantengine.com/privacy-policy"
+      }
+    },
+    {
+      "id": "EgYk796gjhDzLgke48Lm",
+      "phoneLabel": null,
+      "country": "US",
+      "address": null,
+      "source": "facebook",
+      "type": "lead",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "website": null,
+      "dnd": false,
+      "state": null,
+      "businessName": null,
+      "customFields": [
+        {
+          "id": "dkhU1aP5gTQyJEEtEDHC",
+          "value": "My team isn't closing them"
+        },
+        {
+          "id": "hpyxlLQ46IIXVDdih5TT",
+          "value": "Feast or famine"
+        },
+        {
+          "id": "miaO1fjhGZIFGn9Erg7t",
+          "value": "DSO"
+        },
+        {
+          "id": "pUrwusNqMhW6HTNcQdF6",
+          "value": "Haven't tried it yet"
+        },
+        {
+          "id": "un5wc8d1TCM8DLvctnAD",
+          "value": "6-10"
+        },
+        {
+          "id": "2F5L20ZQotpme72wDiUm",
+          "value": "GA1.1.1856676919.1786999517"
+        },
+        {
+          "id": "95aOAwBhY778PuK127iG",
+          "value": "IwY2xjawTwUipwZG9mA2V4dG4DYWVtATAAYWRpZAGrNwYHiyEcdXNybQAAAAAAAAAXc3J0YwZhcHBfaWQPMjQ1NzkwODE4OTU1ODY4AAEeXkchbwpwSfkQqxuBOD_x2j9b3El77feo90D1ltjRu6Kup-Z3nM545LDC9Wc_aem__2LBRlmdkD_-ZQQFEwozTw"
+        },
+        {
+          "id": "BEhuU20baeEEGcoiHlQI",
+          "value": "120250314049490060"
+        },
+        {
+          "id": "BhtCH1z4T0IXsUBk10PA",
+          "value": "Tie__d2c__cwh__schedule__071326"
+        },
+        {
+          "id": "EbBlEyRgtrHrEsSiHo4z",
+          "value": "Tie__d2c__cwh__schedule__071326"
+        },
+        {
+          "id": "FHOIEE78GmyueDOf4jKe",
+          "value": "https://l.facebook.com"
+        },
+        {
+          "id": "IUSpcfKHFzSJZVS3cJkb",
+          "value": "2026.07.02_ER_CM_TIESupercut03.4_9x16__angles_old_mix__072926"
+        },
+        {
+          "id": "PDUjg8Yoo8N5MGhw5GUG",
+          "value": "120250314049490060"
+        },
+        {
+          "id": "SXl7nQQ56IRmGdlUk0jA",
+          "value": "Social media"
+        },
+        {
+          "id": "U5ZBWkkjASjje237GQNI",
+          "value": "https://schedule.theimplantengine.com/widget/bookings/jessica-disco"
+        },
+        {
+          "id": "WuBg5PACmmRzi5OBQq4j",
+          "value": "2026.07.02_ER_CM_TIESupercut03.4_9x16__angles_old_mix__072926"
+        },
+        {
+          "id": "X4SAHwW4j0ptgLYsopES",
+          "value": "Direct traffic"
+        },
+        {
+          "id": "aEIngOYdRVc7EXIkXP4D",
+          "value": "120250314049490060"
+        },
+        {
+          "id": "cibbwAH7ENrZustRHi21",
+          "value": "https://demo.theimplantengine.com/lp-vsl-b?utm_medium=LLA__US__d2c_2026__cwh__schedule__071326+-+Copy&utm_campaign=tie__d2c__cwh__schedule__071326&utm_content=2026.07.02_ER_CM_TIESupercut03.4_9x16__angles_old_mix__072926&campaign_id=120249802962400060&ad_group_id=120250314049490060&ad_id=120250314049100060&utm_source=an&utm_id=120250314049490060_v2_s04&utm_term=120250314049490060&fbclid=IwY2xjawTwUipwZG9mA2V4dG4DYWVtATAAYWRpZAGrNwYHiyEcdXNybQAAAAAAAAAXc3J0YwZhcHBfaWQPMjQ1NzkwODE4OTU1ODY4AAEeXkchbwpwSfkQqxuBOD_x2j9b3El77feo90D1ltjRu6Kup-Z3nM545LDC9Wc_aem__2LBRlmdkD_-ZQQFEwozTw"
+        },
+        {
+          "id": "oI9wTYiQByScLSPOzi7E",
+          "value": "an"
+        },
+        {
+          "id": "sNtYKW0KJK24wVy7rM2j",
+          "value": "120249802962400060"
+        },
+        {
+          "id": "srEqQ3BBJ7ntnj6ihe5C",
+          "value": "120250314049100060"
+        },
+        {
+          "id": "v3UQTznH52fc3qLpsXSU",
+          "value": "LLA__US__d2c_2026__cwh__schedule__071326 - Copy"
+        },
+        {
+          "id": "aCkfj1knKFM6ncldcvws",
+          "value": "o7UCzGGqAJR6HDnhra2v"
+        },
+        {
+          "id": "3HhsGAjnFcsleaCVmcoY",
+          "value": "facebook"
+        },
+        {
+          "id": "Gxs8PeIik24ymWSmYkTb",
+          "value": "b88d712d-f90a-48b6-af78-d0d5f45e13cf"
+        },
+        {
+          "id": "0TIQzoCDQ38Q6XwSDlwi",
+          "value": "I work in a dental practice"
+        },
+        {
+          "id": "e5dtV5vhjLLGpdkyjXWd",
+          "value": "ChatGPT"
+        },
+        {
+          "id": "fp8F8SswCkwHIh3ThRUs",
+          "value": "1-5"
+        }
+      ],
+      "tags": [
+        "vsl-sms-sent",
+        "custom role",
+        "paid",
+        "facebook",
+        "funnel",
+        "contacted",
+        "unsubscribed",
+        "email dnd"
+      ],
+      "dateAdded": "2026-08-17T20:50:53.946Z",
+      "additionalEmails": [],
+      "phone": "+19038062212",
+      "companyName": null,
+      "additionalPhones": [],
+      "dateUpdated": "2026-08-18T11:55:22.309Z",
+      "city": null,
+      "dateOfBirth": null,
+      "firstNameLowerCase": "linda",
+      "lastNameLowerCase": "stewart",
+      "firstName": "Linda",
+      "lastName": "Stewart",
+      "contactName": "linda stewart",
+      "email": "javatime1959@yahoo.com",
+      "assignedTo": "l3yZMOcJLNBTaynbCNU7",
+      "followers": [],
+      "validEmail": true,
+      "dndSettings": {
+        "Email": {
+          "message": "Updated from workflow_dca826c7-edc0-4e34-9d49-2dff4c2ae940",
+          "status": "active"
+        }
+      },
+      "opportunities": [
+        {
+          "pipelineId": "iv0V9Sacl6njcBsOpZSg",
+          "id": "rSN1f2w8VedeIrt9X97b",
+          "monetaryValue": 4000,
+          "pipelineStageId": "328cac35-037c-4805-a6c7-3b5d84e36650",
+          "status": "open"
+        }
+      ],
+      "postalCode": null,
+      "businessId": null,
+      "searchAfter": [
+        1786999853946,
+        "EgYk796gjhDzLgke48Lm"
+      ],
+      "timezone": "America/Chicago",
+      "inboundDndSettings": {},
+      "attributionSource": {
+        "utmSource": "an",
+        "utmKeyword": "120250314049490060",
+        "utmTerm": "120250314049490060",
+        "sessionSource": "Social media",
+        "medium": "survey",
+        "mediumId": "1vjy9oLb0A7d3BCoEn2m",
+        "campaign": "Tie__d2c__cwh__schedule__071326",
+        "utmMedium": "LLA__US__d2c_2026__cwh__schedule__071326 - Copy",
+        "utmContent": "2026.07.02_ER_CM_TIESupercut03.4_9x16__angles_old_mix__072926",
+        "fbclid": "IwY2xjawTwUipwZG9mA2V4dG4DYWVtATAAYWRpZAGrNwYHiyEcdXNybQAAAAAAAAAXc3J0YwZhcHBfaWQPMjQ1NzkwODE4OTU1ODY4AAEeXkchbwpwSfkQqxuBOD_x2j9b3El77feo90D1ltjRu6Kup-Z3nM545LDC9Wc_aem__2LBRlmdkD_-ZQQFEwozTw",
+        "campaignId": "120249802962400060",
+        "adId": "120250314049100060",
+        "adGroupId": "120250314049490060",
+        "referrer": "https://l.facebook.com",
+        "fbc": "fb.1.1786999517279.IwY2xjawTwUipwZG9mA2V4dG4DYWVtATAAYWRpZAGrNwYHiyEcdXNybQAAAAAAAAAXc3J0YwZhcHBfaWQPMjQ1NzkwODE4OTU1ODY4AAEeXkchbwpwSfkQqxuBOD_x2j9b3El77feo90D1ltjRu6Kup-Z3nM545LDC9Wc_aem__2LBRlmdkD_-ZQQFEwozTw",
+        "fbp": "fb.1.1786999517010.4785830069",
+        "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S948U Build/BP4A.251205.006; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/150.0.7871.181 Mobile Safari/537.36",
+        "ip": "2607:fb91:93e:480a:a56d:dbdd:932d:1881",
+        "gaClientId": "GA1.1.1856676919.1786999517",
+        "url": "https://demo.theimplantengine.com/lp-vsl-b?utm_medium=LLA__US__d2c_2026__cwh__schedule__071326+-+Copy&utm_campaign=tie__d2c__cwh__schedule__071326&utm_content=2026.07.02_ER_CM_TIESupercut03.4_9x16__angles_old_mix__072926&campaign_id=120249802962400060&ad_group_id=120250314049490060&ad_id=120250314049100060&utm_source=an&utm_id=120250314049490060_v2_s04&utm_term=120250314049490060&fbclid=IwY2xjawTwUipwZG9mA2V4dG4DYWVtATAAYWRpZAGrNwYHiyEcdXNybQAAAAAAAAAXc3J0YwZhcHBfaWQPMjQ1NzkwODE4OTU1ODY4AAEeXkchbwpwSfkQqxuBOD_x2j9b3El77feo90D1ltjRu6Kup-Z3nM545LDC9Wc_aem__2LBRlmdkD_-ZQQFEwozTw"
+      },
+      "lastAttributionSource": {
+        "sessionSource": "Direct traffic",
+        "medium": "calendar",
+        "mediumId": "o7UCzGGqAJR6HDnhra2v",
+        "fbp": "fb.1.1787053723456.6501778516",
+        "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
+        "ip": "2607:fb91:93e:480a:a56d:dbdd:932d:1881",
+        "url": "https://schedule.theimplantengine.com/widget/bookings/jessica-disco"
+      }
+    },
+    {
+      "id": "jLxcQgfnqW3cBYcGPBMD",
+      "phoneLabel": null,
+      "country": "US",
+      "address": null,
+      "source": "Schedule a Demo",
+      "type": "lead",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "website": null,
+      "dnd": false,
+      "state": null,
+      "businessName": null,
+      "customFields": [
+        {
+          "id": "0TIQzoCDQ38Q6XwSDlwi",
+          "value": "I am a dentist"
+        },
+        {
+          "id": "e5dtV5vhjLLGpdkyjXWd",
+          "value": "Current Client"
+        },
+        {
+          "id": "fp8F8SswCkwHIh3ThRUs",
+          "value": "1-5"
+        },
+        {
+          "id": "miaO1fjhGZIFGn9Erg7t",
+          "value": "Chandler Dentistry - American Dental Companies"
+        },
+        {
+          "id": "un5wc8d1TCM8DLvctnAD",
+          "value": "6-10"
+        },
+        {
+          "id": "2F5L20ZQotpme72wDiUm",
+          "value": "GA1.1.1392331845.1786997243"
+        },
+        {
+          "id": "PXzF3Qod6brdZLC1tRiR",
+          "value": "GA1.1.1392331845.1786997243"
+        },
+        {
+          "id": "SXl7nQQ56IRmGdlUk0jA",
+          "value": "Direct traffic"
+        },
+        {
+          "id": "U5ZBWkkjASjje237GQNI",
+          "value": "https://theimplantengine.com/"
+        },
+        {
+          "id": "X4SAHwW4j0ptgLYsopES",
+          "value": "Direct traffic"
+        },
+        {
+          "id": "cibbwAH7ENrZustRHi21",
+          "value": "https://theimplantengine.com/"
+        },
+        {
+          "id": "3HhsGAjnFcsleaCVmcoY",
+          "value": "Direct Traffic (Google)"
+        },
+        {
+          "id": "M6bjcTTwyhssogp1yP8u",
+          "value": "Jessica Bueno"
+        },
+        {
+          "id": "EMry84dErun3fDHa3MWU",
+          "value": "(801) 457-1767"
+        },
+        {
+          "id": "dy6q5JIjMRRweetjaHlN",
+          "value": "jessica"
+        },
+        {
+          "id": "z9rSoBwqmJ5vZwxYdCxx",
+          "value": "Jessica"
+        },
+        {
+          "id": "ETcg04fquXWQnjko11wh",
+          "value": "Dr. Wessels"
+        }
+      ],
+      "tags": [
+        "search_organic",
+        "website",
+        "dentist",
+        "disco-booked"
+      ],
+      "dateAdded": "2026-08-17T20:11:41.203Z",
+      "additionalEmails": [],
+      "phone": "+14806875656",
+      "companyName": "Chandler Dentistry - American Dental Companies",
+      "additionalPhones": [],
+      "dateUpdated": "2026-08-18T22:25:32.556Z",
+      "city": null,
+      "dateOfBirth": null,
+      "firstNameLowerCase": "brenna",
+      "lastNameLowerCase": "wessels",
+      "firstName": "Brenna",
+      "lastName": "Wessels",
+      "contactName": "brenna wessels",
+      "email": "brenna.wessels@ameridentco.com",
+      "assignedTo": "l3yZMOcJLNBTaynbCNU7",
+      "followers": [],
+      "validEmail": true,
+      "dndSettings": {},
+      "opportunities": [
+        {
+          "pipelineId": "iv0V9Sacl6njcBsOpZSg",
+          "id": "Ux40x7BnoGyh8c2gGXZp",
+          "monetaryValue": 0,
+          "pipelineStageId": "4ba82c05-af7b-45ba-9df2-e89e90637546",
+          "status": "open"
+        }
+      ],
+      "postalCode": null,
+      "businessId": null,
+      "searchAfter": [
+        1786997501203,
+        "jLxcQgfnqW3cBYcGPBMD"
+      ],
+      "timezone": "America/Phoenix",
+      "inboundDndSettings": {},
+      "attributionSource": {
+        "sessionSource": "Direct traffic",
+        "medium": "calendar",
+        "mediumId": "Hii5KTq6sknHCC4HLnqM",
+        "fbp": "fb.1.1786997242492.3608131400",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+        "ip": "70.163.125.173",
+        "gaClientId": "GA1.1.1392331845.1786997243",
+        "url": "https://theimplantengine.com/"
+      },
+      "lastAttributionSource": {
+        "sessionSource": "Direct traffic",
+        "medium": "calendar",
+        "mediumId": "Hii5KTq6sknHCC4HLnqM",
+        "fbp": "fb.1.1786997242492.3608131400",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+        "ip": "70.163.125.173",
+        "gaClientId": "GA1.1.1392331845.1786997243",
+        "url": "https://theimplantengine.com/"
+      }
+    },
+    {
+      "id": "wyHo3S3AF01D6XDk7nX5",
+      "phoneLabel": null,
+      "country": "US",
+      "address": null,
+      "source": "sms",
+      "type": "lead",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "website": null,
+      "dnd": false,
+      "state": null,
+      "businessName": null,
+      "customFields": [
+        {
+          "id": "2F5L20ZQotpme72wDiUm",
+          "value": "GA1.1.346184374.1758035186"
+        },
+        {
+          "id": "5efeLnl1vEZ4mnUcuyiW",
+          "value": "https://page-builder.leadconnectorhq.com"
+        },
+        {
+          "id": "BhtCH1z4T0IXsUBk10PA",
+          "value": "Vsl-optin"
+        },
+        {
+          "id": "EbBlEyRgtrHrEsSiHo4z",
+          "value": "Vsl-optin"
+        },
+        {
+          "id": "FHOIEE78GmyueDOf4jKe",
+          "value": "https://schedule.theimplantengine.com"
+        },
+        {
+          "id": "PXzF3Qod6brdZLC1tRiR",
+          "value": "GA1.1.346184374.1758035186"
+        },
+        {
+          "id": "SXl7nQQ56IRmGdlUk0jA",
+          "value": "Referral"
+        },
+        {
+          "id": "U5ZBWkkjASjje237GQNI",
+          "value": "https://demo.theimplantengine.com/implant_elevate"
+        },
+        {
+          "id": "X4SAHwW4j0ptgLYsopES",
+          "value": "Referral"
+        },
+        {
+          "id": "cibbwAH7ENrZustRHi21",
+          "value": "https://demo.theimplantengine.com/watch-vsl?form_source=vsl_redirect&utm_source=sms&utm_medium=nurture&utm_campaign=vsl-optin"
+        },
+        {
+          "id": "oI9wTYiQByScLSPOzi7E",
+          "value": "sms"
+        },
+        {
+          "id": "v3UQTznH52fc3qLpsXSU",
+          "value": "nurture"
+        },
+        {
+          "id": "3HhsGAjnFcsleaCVmcoY",
+          "value": "sms"
+        }
+      ],
+      "tags": [
+        "sms",
+        "funnel"
+      ],
+      "dateAdded": "2026-08-17T17:23:12.069Z",
+      "additionalEmails": [],
+      "phone": "+212619043854",
+      "companyName": null,
+      "additionalPhones": [],
+      "dateUpdated": "2026-08-17T17:23:27.973Z",
+      "city": null,
+      "dateOfBirth": null,
+      "firstNameLowerCase": "younes",
+      "lastNameLowerCase": "test",
+      "firstName": "Younes",
+      "lastName": "test",
+      "contactName": "younes test",
+      "email": "test@theimplantengine.com",
+      "assignedTo": null,
+      "followers": [],
+      "validEmail": null,
+      "dndSettings": {},
+      "postalCode": null,
+      "businessId": null,
+      "searchAfter": [
+        1786987392069,
+        "wyHo3S3AF01D6XDk7nX5"
+      ],
+      "timezone": "Africa/Casablanca",
+      "inboundDndSettings": {},
+      "attributionSource": {
+        "utmSource": "sms",
+        "sessionSource": "Referral",
+        "medium": "calendar",
+        "mediumId": "ehojvzWneM3bq9WNYgJh",
+        "campaign": "Vsl-optin",
+        "utmMedium": "nurture",
+        "referrer": "https://schedule.theimplantengine.com",
+        "fbc": "fb.1.1784925665030.IwcGRvZgVmZGlkFlCxMxVIsmq1BEEktS3A4e-yWFvXCKNleHRuA2FlbQEwAGFkaWQBqzbFwWGoLHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR5Ndrqv8rmVp5eH-L2i9eWP7S9EbaPVu-V7Kb0vP1p17Ej3aFucXNapT0CD6g_aem_ogoVwqkt3F46CeXk3iPLQw",
+        "fbp": "fb.1.1758825370581.6024911302",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+        "ip": "160.176.107.98",
+        "gaClientId": "GA1.1.346184374.1758035186",
+        "url": "https://demo.theimplantengine.com/watch-vsl?form_source=vsl_redirect&utm_source=sms&utm_medium=nurture&utm_campaign=vsl-optin"
+      },
+      "lastAttributionSource": {
+        "sessionSource": "Referral",
+        "medium": "calendar",
+        "mediumId": "ehojvzWneM3bq9WNYgJh",
+        "referrer": "https://page-builder.leadconnectorhq.com",
+        "fbc": "fb.1.1784925665030.IwcGRvZgVmZGlkFlCxMxVIsmq1BEEktS3A4e-yWFvXCKNleHRuA2FlbQEwAGFkaWQBqzbFwWGoLHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR5Ndrqv8rmVp5eH-L2i9eWP7S9EbaPVu-V7Kb0vP1p17Ej3aFucXNapT0CD6g_aem_ogoVwqkt3F46CeXk3iPLQw",
+        "fbp": "fb.1.1758825370581.6024911302",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+        "ip": "160.176.107.98",
+        "gaClientId": "GA1.1.346184374.1758035186",
+        "url": "https://demo.theimplantengine.com/implant_elevate"
+      }
+    },
+    {
+      "id": "wvPPnfItoJzR2DZ9n5bs",
+      "phoneLabel": "Mobile",
+      "country": "US",
+      "address": null,
+      "source": null,
+      "type": "lead",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "website": null,
+      "dnd": false,
+      "state": null,
+      "businessName": null,
+      "customFields": [
+        {
+          "id": "SXl7nQQ56IRmGdlUk0jA",
+          "value": "CRM UI"
+        },
+        {
+          "id": "6DUbhk3Ugu1xiS3OsWxr",
+          "value": "Hyde Park Dentistry"
+        },
+        {
+          "id": "e5dtV5vhjLLGpdkyjXWd",
+          "value": "None of the above"
+        },
+        {
+          "id": "miaO1fjhGZIFGn9Erg7t",
+          "value": "Hyde Park Dentistry"
+        },
+        {
+          "id": "wSvd1gevX9476GAlJJ9A",
+          "value": "https://www.dentistnoblesville.com/"
+        }
+      ],
+      "tags": [
+        "funnel"
+      ],
+      "dateAdded": "2026-08-17T15:35:01.119Z",
+      "additionalEmails": [],
+      "phone": "+18127745044",
+      "companyName": "Hyde Park Dentistry",
+      "additionalPhones": [
+        {
+          "phone": "+13176769418",
+          "phoneLabel": "Work"
+        }
+      ],
+      "dateUpdated": "2026-08-18T22:26:15.724Z",
+      "city": null,
+      "dateOfBirth": null,
+      "firstNameLowerCase": "greg",
+      "lastNameLowerCase": "hopkinson",
+      "firstName": "Greg",
+      "lastName": "Hopkinson",
+      "contactName": "greg hopkinson",
+      "email": "gbhopkin@gmail.com",
+      "assignedTo": "l3yZMOcJLNBTaynbCNU7",
+      "followers": [],
+      "validEmail": true,
+      "dndSettings": {},
+      "opportunities": [
+        {
+          "pipelineId": "iv0V9Sacl6njcBsOpZSg",
+          "id": "G6PzAVCViJdeqexkXNpG",
+          "monetaryValue": 0,
+          "pipelineStageId": "3161a188-53cc-47d0-b2af-b8b6519b50d9",
+          "status": "open"
+        }
+      ],
+      "postalCode": null,
+      "businessId": null,
+      "searchAfter": [
+        1786980901119,
+        "wvPPnfItoJzR2DZ9n5bs"
+      ],
+      "timezone": "US/East-Indiana",
+      "inboundDndSettings": {},
+      "attributionSource": {
+        "sessionSource": "CRM UI",
+        "medium": "manual"
+      },
+      "lastAttributionSource": {}
+    },
+    {
+      "id": "RwiT6lDjX3Yu2NxrJ5Cw",
+      "phoneLabel": null,
+      "country": "US",
+      "address": null,
+      "source": "facebook",
+      "type": "lead",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "website": null,
+      "dnd": false,
+      "state": null,
+      "businessName": null,
+      "customFields": [
+        {
+          "id": "dkhU1aP5gTQyJEEtEDHC",
+          "value": "The leads can't afford treatment"
+        },
+        {
+          "id": "hpyxlLQ46IIXVDdih5TT",
+          "value": "Some good months, some dead ones"
+        },
+        {
+          "id": "miaO1fjhGZIFGn9Erg7t",
+          "value": "Moark dental and implants "
+        },
+        {
+          "id": "pUrwusNqMhW6HTNcQdF6",
+          "value": "I've been burned before"
+        },
+        {
+          "id": "un5wc8d1TCM8DLvctnAD",
+          "value": "20+"
+        },
+        {
+          "id": "0TMDaX28baH1HFuvgqQL",
+          "value": "tie__d2c__cwh__schedule__071326"
+        },
+        {
+          "id": "2F5L20ZQotpme72wDiUm",
+          "value": "GA1.1.2055058768.1785426459"
+        },
+        {
+          "id": "5efeLnl1vEZ4mnUcuyiW",
+          "value": "https://schedule.theimplantengine.com"
+        },
+        {
+          "id": "8NymIPoQlOANae5evfTo",
+          "value": "120250314049490060"
+        },
+        {
+          "id": "95aOAwBhY778PuK127iG",
+          "value": "IwcGRvZgVmZGlkFlDKpFj3KeObyOlwteecsZUYMeuTog9leHRuA2FlbQEwAGFkaWQBqzcGB4shHHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR6THz_6KM997XvKyyLJx3ontfaK1eHbvCwHq3IAonzYYenx86N83MlcyfdNzg_aem_caELyxYx7w6neluJci6D3A"
+        },
+        {
+          "id": "99T8Lary3O0eJ7RV8RMr",
+          "value": "fb"
+        },
+        {
+          "id": "BEhuU20baeEEGcoiHlQI",
+          "value": "120250314049490060"
+        },
+        {
+          "id": "BhtCH1z4T0IXsUBk10PA",
+          "value": "Tie__d2c__cwh__schedule__071326"
+        },
+        {
+          "id": "EbBlEyRgtrHrEsSiHo4z",
+          "value": "Tie__d2c__cwh__schedule__071326"
+        },
+        {
+          "id": "FHOIEE78GmyueDOf4jKe",
+          "value": "https://facebook.com"
+        },
+        {
+          "id": "GhnwhpANDL5xYTHvsf5L",
+          "value": "120249802962400060"
+        },
+        {
+          "id": "IUSpcfKHFzSJZVS3cJkb",
+          "value": "2026.07.02_ER_CM_TIESupercut03.4_9x16__angles_old_mix__072926"
+        },
+        {
+          "id": "PDUjg8Yoo8N5MGhw5GUG",
+          "value": "120250314049490060"
+        },
+        {
+          "id": "PXzF3Qod6brdZLC1tRiR",
+          "value": "GA1.1.2055058768.1785426459"
+        },
+        {
+          "id": "SEcCAtbZ9zzUoJ6g9Wct",
+          "value": "LLA__US__d2c_2026__cwh__schedule__071326 - Copy"
+        },
+        {
+          "id": "SXl7nQQ56IRmGdlUk0jA",
+          "value": "Social media"
+        },
+        {
+          "id": "TmIbipPKmOTfjC2zwpx3",
+          "value": "IwcGRvZgVmZGlkFlDKpFj3KeObyOlwteecsZUYMeuTog9leHRuA2FlbQEwAGFkaWQBqzcGB4shHHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR6THz_6KM997XvKyyLJx3ontfaK1eHbvCwHq3IAonzYYenx86N83MlcyfdNzg_aem_caELyxYx7w6neluJci6D3A"
+        },
+        {
+          "id": "U5ZBWkkjASjje237GQNI",
+          "value": "https://demo.theimplantengine.com/watch-vsl?form_source=vsl_redirect&utm_medium=LLA__US__d2c_2026__cwh__schedule__071326+-+Copy&utm_campaign=tie__d2c__cwh__schedule__071326&utm_content=2026.07.02_ER_CM_TIESupercut03.4_9x16__angles_old_mix__072926&utm_source=fb&utm_id=120250314049490060_v2_s02&utm_term=120250314049490060&campaign_id=120249802962400060&ad_group_id=120250314049490060&ad_id=120250314049100060&fbclid=IwcGRvZgVmZGlkFlDKpFj3KeObyOlwteecsZUYMeuTog9leHRuA2FlbQEwAGFkaWQBqzcGB4shHHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR6THz_6KM997XvKyyLJx3ontfaK1eHbvCwHq3IAonzYYenx86N83MlcyfdNzg_aem_caELyxYx7w6neluJci6D3A"
+        },
+        {
+          "id": "UVzXKSFkSgcOpD1oW6Tv",
+          "value": "tie__d2c__cwh__schedule__071326"
+        },
+        {
+          "id": "WuBg5PACmmRzi5OBQq4j",
+          "value": "2026.07.02_ER_CM_TIESupercut03.4_9x16__angles_old_mix__072926"
+        },
+        {
+          "id": "X4SAHwW4j0ptgLYsopES",
+          "value": "Social media"
+        },
+        {
+          "id": "aEIngOYdRVc7EXIkXP4D",
+          "value": "120250314049490060"
+        },
+        {
+          "id": "cibbwAH7ENrZustRHi21",
+          "value": "https://demo.theimplantengine.com/lp-vsl-a?utm_medium=LLA__US__d2c_2026__cwh__schedule__071326+-+Copy&utm_campaign=tie__d2c__cwh__schedule__071326&utm_content=2026.07.02_ER_CM_TIESupercut03.4_9x16__angles_old_mix__072926&campaign_id=120249802962400060&ad_group_id=120250314049490060&ad_id=120250314049100060&fbclid=IwcGRvZgVmZGlkFlDKpFj3KeObyOlwteecsZUYMeuTog9leHRuA2FlbQEwAGFkaWQBqzcGB4shHHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR6THz_6KM997XvKyyLJx3ontfaK1eHbvCwHq3IAonzYYenx86N83MlcyfdNzg_aem_caELyxYx7w6neluJci6D3A&utm_source=fb&utm_id=120250314049490060_v2_s02&utm_term=120250314049490060"
+        },
+        {
+          "id": "oI9wTYiQByScLSPOzi7E",
+          "value": "fb"
+        },
+        {
+          "id": "sNtYKW0KJK24wVy7rM2j",
+          "value": "120249802962400060"
+        },
+        {
+          "id": "srEqQ3BBJ7ntnj6ihe5C",
+          "value": "120250314049100060"
+        },
+        {
+          "id": "uqJGabIylbNXHUj6L0ew",
+          "value": "120250314049100060"
+        },
+        {
+          "id": "v3UQTznH52fc3qLpsXSU",
+          "value": "LLA__US__d2c_2026__cwh__schedule__071326 - Copy"
+        },
+        {
+          "id": "xJHccRKfJdis1OUtJuTA",
+          "value": "2026.07.02_ER_CM_TIESupercut03.4_9x16__angles_old_mix__072926"
+        },
+        {
+          "id": "yNN749xwndr3J0gt5nYe",
+          "value": "120250314049490060"
+        },
+        {
+          "id": "3HhsGAjnFcsleaCVmcoY",
+          "value": "Facebook"
+        },
+        {
+          "id": "Gxs8PeIik24ymWSmYkTb",
+          "value": "31debbb6-8652-4d3e-9911-3cb9571f98f7"
+        },
+        {
+          "id": "e5dtV5vhjLLGpdkyjXWd",
+          "value": "Facebook Ad"
+        },
+        {
+          "id": "fp8F8SswCkwHIh3ThRUs",
+          "value": "20+"
+        },
+        {
+          "id": "jsNRVPtELPDZtqtyg0p0",
+          "value": "vsl_redirect"
+        },
+        {
+          "id": "M6bjcTTwyhssogp1yP8u",
+          "value": "Jessica Bueno"
+        },
+        {
+          "id": "EMry84dErun3fDHa3MWU",
+          "value": "(801) 457-1767"
+        },
+        {
+          "id": "dy6q5JIjMRRweetjaHlN",
+          "value": "jessica"
+        },
+        {
+          "id": "z9rSoBwqmJ5vZwxYdCxx",
+          "value": "Jessica"
+        },
+        {
+          "id": "ETcg04fquXWQnjko11wh",
+          "value": "Samir"
+        },
+        {
+          "id": "7s7zAaeXHznF4Jic698Y",
+          "value": "Monday, August 24, 2026 12:00 AM"
+        }
+      ],
+      "tags": [
+        "custom role",
+        "vsl-sms-sent",
+        "paid",
+        "facebook",
+        "funnel",
+        "disco-booked",
+        "confirmed",
+        "follow up booked"
+      ],
+      "dateAdded": "2026-08-17T13:16:34.829Z",
+      "additionalEmails": [],
+      "phone": "+14048197487",
+      "companyName": "Moark dental and implants",
+      "additionalPhones": [],
+      "dateUpdated": "2026-08-18T17:38:25.325Z",
+      "city": null,
+      "dateOfBirth": null,
+      "firstNameLowerCase": "samir",
+      "lastNameLowerCase": "patel",
+      "firstName": "Samir",
+      "lastName": "Patel",
+      "contactName": "samir patel",
+      "email": "sampatel33@gmail.com",
+      "assignedTo": "l3yZMOcJLNBTaynbCNU7",
+      "followers": [],
+      "validEmail": true,
+      "dndSettings": {},
+      "opportunities": [
+        {
+          "pipelineId": "iv0V9Sacl6njcBsOpZSg",
+          "id": "JJGCSJtRpN5BbW3YVlxy",
+          "monetaryValue": 0,
+          "pipelineStageId": "051927e7-6dc4-4e20-82c2-90710bcf2476",
+          "status": "open"
+        }
+      ],
+      "postalCode": null,
+      "businessId": null,
+      "searchAfter": [
+        1786972594829,
+        "RwiT6lDjX3Yu2NxrJ5Cw"
+      ],
+      "timezone": "America/Chicago",
+      "inboundDndSettings": {},
+      "attributionSource": {
+        "utmSource": "fb",
+        "utmKeyword": "120250314049490060",
+        "utmTerm": "120250314049490060",
+        "sessionSource": "Social media",
+        "medium": "survey",
+        "mediumId": "1vjy9oLb0A7d3BCoEn2m",
+        "campaign": "Tie__d2c__cwh__schedule__071326",
+        "utmMedium": "LLA__US__d2c_2026__cwh__schedule__071326 - Copy",
+        "utmContent": "2026.07.02_ER_CM_TIESupercut03.4_9x16__angles_old_mix__072926",
+        "fbclid": "IwcGRvZgVmZGlkFlDKpFj3KeObyOlwteecsZUYMeuTog9leHRuA2FlbQEwAGFkaWQBqzcGB4shHHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR6THz_6KM997XvKyyLJx3ontfaK1eHbvCwHq3IAonzYYenx86N83MlcyfdNzg_aem_caELyxYx7w6neluJci6D3A",
+        "campaignId": "120249802962400060",
+        "adId": "120250314049100060",
+        "adGroupId": "120250314049490060",
+        "referrer": "https://facebook.com",
+        "fbc": "fb.1.1786972534213.IwcGRvZgVmZGlkFlDKpFj3KeObyOlwteecsZUYMeuTog9leHRuA2FlbQEwAGFkaWQBqzcGB4shHHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR6THz_6KM997XvKyyLJx3ontfaK1eHbvCwHq3IAonzYYenx86N83MlcyfdNzg_aem_caELyxYx7w6neluJci6D3A",
+        "fbp": "fb.1.1785426458707.3482418698",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23E261 Safari/604.1 [FBAN/FBIOS;FBAV/574.0.0.41.71;FBBV/1038059635;FBDV/iPhone16,2;FBMD/iPhone;FBSN/iOS;FBSV/26.4.2;FBSS/3;FBID/phone;FBLC/en_US;FBOP/5;FBRV/0;IABMV/1]",
+        "ip": "149.76.229.34",
+        "gaClientId": "GA1.1.2055058768.1785426459",
+        "url": "https://demo.theimplantengine.com/lp-vsl-a?utm_medium=LLA__US__d2c_2026__cwh__schedule__071326+-+Copy&utm_campaign=tie__d2c__cwh__schedule__071326&utm_content=2026.07.02_ER_CM_TIESupercut03.4_9x16__angles_old_mix__072926&campaign_id=120249802962400060&ad_group_id=120250314049490060&ad_id=120250314049100060&fbclid=IwcGRvZgVmZGlkFlDKpFj3KeObyOlwteecsZUYMeuTog9leHRuA2FlbQEwAGFkaWQBqzcGB4shHHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR6THz_6KM997XvKyyLJx3ontfaK1eHbvCwHq3IAonzYYenx86N83MlcyfdNzg_aem_caELyxYx7w6neluJci6D3A&utm_source=fb&utm_id=120250314049490060_v2_s02&utm_term=120250314049490060"
+      },
+      "lastAttributionSource": {
+        "utmSource": "fb",
+        "utmTerm": "120250314049490060",
+        "sessionSource": "Social media",
+        "medium": "calendar",
+        "mediumId": "Hii5KTq6sknHCC4HLnqM",
+        "campaign": "tie__d2c__cwh__schedule__071326",
+        "utmMedium": "LLA__US__d2c_2026__cwh__schedule__071326 - Copy",
+        "utmContent": "2026.07.02_ER_CM_TIESupercut03.4_9x16__angles_old_mix__072926",
+        "fbclid": "IwcGRvZgVmZGlkFlDKpFj3KeObyOlwteecsZUYMeuTog9leHRuA2FlbQEwAGFkaWQBqzcGB4shHHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR6THz_6KM997XvKyyLJx3ontfaK1eHbvCwHq3IAonzYYenx86N83MlcyfdNzg_aem_caELyxYx7w6neluJci6D3A",
+        "campaignId": "120249802962400060",
+        "adId": "120250314049100060",
+        "adGroupId": "120250314049490060",
+        "referrer": "https://schedule.theimplantengine.com",
+        "fbc": "fb.1.1786972534213.IwcGRvZgVmZGlkFlDKpFj3KeObyOlwteecsZUYMeuTog9leHRuA2FlbQEwAGFkaWQBqzcGB4shHHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR6THz_6KM997XvKyyLJx3ontfaK1eHbvCwHq3IAonzYYenx86N83MlcyfdNzg_aem_caELyxYx7w6neluJci6D3A",
+        "fbp": "fb.1.1785426458707.3482418698",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23E261 Safari/604.1 [FBAN/FBIOS;FBAV/574.0.0.41.71;FBBV/1038059635;FBDV/iPhone16,2;FBMD/iPhone;FBSN/iOS;FBSV/26.4.2;FBSS/3;FBID/phone;FBLC/en_US;FBOP/5;FBRV/0;IABMV/1]",
+        "ip": "149.76.229.34",
+        "gaClientId": "GA1.1.2055058768.1785426459",
+        "url": "https://demo.theimplantengine.com/watch-vsl?form_source=vsl_redirect&utm_medium=LLA__US__d2c_2026__cwh__schedule__071326+-+Copy&utm_campaign=tie__d2c__cwh__schedule__071326&utm_content=2026.07.02_ER_CM_TIESupercut03.4_9x16__angles_old_mix__072926&utm_source=fb&utm_id=120250314049490060_v2_s02&utm_term=120250314049490060&campaign_id=120249802962400060&ad_group_id=120250314049490060&ad_id=120250314049100060&fbclid=IwcGRvZgVmZGlkFlDKpFj3KeObyOlwteecsZUYMeuTog9leHRuA2FlbQEwAGFkaWQBqzcGB4shHHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR6THz_6KM997XvKyyLJx3ontfaK1eHbvCwHq3IAonzYYenx86N83MlcyfdNzg_aem_caELyxYx7w6neluJci6D3A"
+      }
+    },
+    {
+      "id": "RS01FMXDq4wODsmUxCBK",
+      "phoneLabel": null,
+      "country": "US",
+      "address": null,
+      "source": "VSL (4/9) - B \"Split test\"",
+      "type": "lead",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "website": null,
+      "dnd": false,
+      "state": null,
+      "businessName": null,
+      "customFields": [
+        {
+          "id": "dkhU1aP5gTQyJEEtEDHC",
+          "value": "My team isn't closing them"
+        },
+        {
+          "id": "hpyxlLQ46IIXVDdih5TT",
+          "value": "Pretty consistent"
+        },
+        {
+          "id": "miaO1fjhGZIFGn9Erg7t",
+          "value": "Sanford "
+        },
+        {
+          "id": "pUrwusNqMhW6HTNcQdF6",
+          "value": "Haven't tried it yet"
+        },
+        {
+          "id": "un5wc8d1TCM8DLvctnAD",
+          "value": "20+"
+        },
+        {
+          "id": "0TMDaX28baH1HFuvgqQL",
+          "value": "tie__vsl_2026__lead__tof__080526"
+        },
+        {
+          "id": "2F5L20ZQotpme72wDiUm",
+          "value": "GA1.1.1797864216.1786960939"
+        },
+        {
+          "id": "5efeLnl1vEZ4mnUcuyiW",
+          "value": "http://m.facebook.com"
+        },
+        {
+          "id": "8NymIPoQlOANae5evfTo",
+          "value": "120250452888700060"
+        },
+        {
+          "id": "95aOAwBhY778PuK127iG",
+          "value": "IwcGRvZgVleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHrSViKAT2qr9HvpkJbA3GBgNx4cXoPVYj1cxz4_cKL_HI86VXa7qvtkRLN2L_aem_aGUmfsTu-xojOCRt-nbcZA"
+        },
+        {
+          "id": "99T8Lary3O0eJ7RV8RMr",
+          "value": "fb"
+        },
+        {
+          "id": "BEhuU20baeEEGcoiHlQI",
+          "value": "120250452888700060"
+        },
+        {
+          "id": "BhtCH1z4T0IXsUBk10PA",
+          "value": "Tie__vsl_2026__lead__tof__080526"
+        },
+        {
+          "id": "EbBlEyRgtrHrEsSiHo4z",
+          "value": "Tie__vsl_2026__lead__tof__080526"
+        },
+        {
+          "id": "FHOIEE78GmyueDOf4jKe",
+          "value": "http://m.facebook.com"
+        },
+        {
+          "id": "GhnwhpANDL5xYTHvsf5L",
+          "value": "120250346942870060"
+        },
+        {
+          "id": "IUSpcfKHFzSJZVS3cJkb",
+          "value": "Carousel_jam__VSL teaser 2__angle_custom_by_jam__081026"
+        },
+        {
+          "id": "PDUjg8Yoo8N5MGhw5GUG",
+          "value": "120250452888700060"
+        },
+        {
+          "id": "PXzF3Qod6brdZLC1tRiR",
+          "value": "GA1.1.1797864216.1786960939"
+        },
+        {
+          "id": "SEcCAtbZ9zzUoJ6g9Wct",
+          "value": "vsl__LLA__Dentists__images__lead__cwh__081026"
+        },
+        {
+          "id": "SXl7nQQ56IRmGdlUk0jA",
+          "value": "Social media"
+        },
+        {
+          "id": "TmIbipPKmOTfjC2zwpx3",
+          "value": "IwcGRvZgVleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHrSViKAT2qr9HvpkJbA3GBgNx4cXoPVYj1cxz4_cKL_HI86VXa7qvtkRLN2L_aem_aGUmfsTu-xojOCRt-nbcZA"
+        },
+        {
+          "id": "U5ZBWkkjASjje237GQNI",
+          "value": "https://demo.theimplantengine.com/lp-vsl-a?utm_medium=vsl__LLA__Dentists__images__lead__cwh__081026&utm_campaign=tie__vsl_2026__lead__tof__080526&utm_content=Carousel_jam__VSL+teaser+2__angle_custom_by_jam__081026&campaign_id=120250346942870060&ad_group_id=120250452888700060&ad_id=120250453005870060&fbclid=IwcGRvZgVleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHrSViKAT2qr9HvpkJbA3GBgNx4cXoPVYj1cxz4_cKL_HI86VXa7qvtkRLN2L_aem_aGUmfsTu-xojOCRt-nbcZA&utm_source=fb&utm_id=120250452888700060_v2_s01&utm_term=120250452888700060"
+        },
+        {
+          "id": "UVzXKSFkSgcOpD1oW6Tv",
+          "value": "tie__vsl_2026__lead__tof__080526"
+        },
+        {
+          "id": "WuBg5PACmmRzi5OBQq4j",
+          "value": "Carousel_jam__VSL teaser 2__angle_custom_by_jam__081026"
+        },
+        {
+          "id": "X4SAHwW4j0ptgLYsopES",
+          "value": "Social media"
+        },
+        {
+          "id": "aEIngOYdRVc7EXIkXP4D",
+          "value": "120250452888700060"
+        },
+        {
+          "id": "cibbwAH7ENrZustRHi21",
+          "value": "https://demo.theimplantengine.com/lp-vsl-a?utm_medium=vsl__LLA__Dentists__images__lead__cwh__081026&utm_campaign=tie__vsl_2026__lead__tof__080526&utm_content=Carousel_jam__VSL+teaser+2__angle_custom_by_jam__081026&campaign_id=120250346942870060&ad_group_id=120250452888700060&ad_id=120250453005870060&fbclid=IwcGRvZgVleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHrSViKAT2qr9HvpkJbA3GBgNx4cXoPVYj1cxz4_cKL_HI86VXa7qvtkRLN2L_aem_aGUmfsTu-xojOCRt-nbcZA&utm_source=fb&utm_id=120250452888700060_v2_s01&utm_term=120250452888700060"
+        },
+        {
+          "id": "oI9wTYiQByScLSPOzi7E",
+          "value": "fb"
+        },
+        {
+          "id": "sNtYKW0KJK24wVy7rM2j",
+          "value": "120250346942870060"
+        },
+        {
+          "id": "srEqQ3BBJ7ntnj6ihe5C",
+          "value": "120250453005870060"
+        },
+        {
+          "id": "uqJGabIylbNXHUj6L0ew",
+          "value": "120250453005870060"
+        },
+        {
+          "id": "v3UQTznH52fc3qLpsXSU",
+          "value": "vsl__LLA__Dentists__images__lead__cwh__081026"
+        },
+        {
+          "id": "xJHccRKfJdis1OUtJuTA",
+          "value": "Carousel_jam__VSL teaser 2__angle_custom_by_jam__081026"
+        },
+        {
+          "id": "yNN749xwndr3J0gt5nYe",
+          "value": "120250452888700060"
+        },
+        {
+          "id": "aCkfj1knKFM6ncldcvws",
+          "value": "1vjy9oLb0A7d3BCoEn2m"
+        }
+      ],
+      "tags": [
+        "custom role",
+        "vsl-sms-sent",
+        "contacted"
+      ],
+      "dateAdded": "2026-08-17T10:04:44.094Z",
+      "additionalEmails": [],
+      "phone": "+18039898661",
+      "companyName": null,
+      "additionalPhones": [],
+      "dateUpdated": "2026-08-17T15:43:06.386Z",
+      "city": null,
+      "dateOfBirth": null,
+      "firstNameLowerCase": "francis",
+      "lastNameLowerCase": "sanford",
+      "firstName": "Francis",
+      "lastName": "Sanford",
+      "contactName": "francis sanford",
+      "email": "kickinbac@aol.com",
+      "assignedTo": null,
+      "followers": [],
+      "validEmail": null,
+      "dndSettings": {},
+      "opportunities": [
+        {
+          "pipelineId": "iv0V9Sacl6njcBsOpZSg",
+          "id": "QYthL2FuTTUKuGQZ2WDi",
+          "monetaryValue": 4000,
+          "pipelineStageId": "328cac35-037c-4805-a6c7-3b5d84e36650",
+          "status": "open"
+        }
+      ],
+      "postalCode": null,
+      "businessId": null,
+      "searchAfter": [
+        1786961084094,
+        "RS01FMXDq4wODsmUxCBK"
+      ],
+      "timezone": "America/New_York",
+      "inboundDndSettings": {},
+      "attributionSource": {
+        "utmSource": "fb",
+        "utmKeyword": "120250452888700060",
+        "utmTerm": "120250452888700060",
+        "sessionSource": "Social media",
+        "medium": "survey",
+        "mediumId": "1vjy9oLb0A7d3BCoEn2m",
+        "campaign": "Tie__vsl_2026__lead__tof__080526",
+        "utmMedium": "vsl__LLA__Dentists__images__lead__cwh__081026",
+        "utmContent": "Carousel_jam__VSL teaser 2__angle_custom_by_jam__081026",
+        "fbclid": "IwcGRvZgVleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHrSViKAT2qr9HvpkJbA3GBgNx4cXoPVYj1cxz4_cKL_HI86VXa7qvtkRLN2L_aem_aGUmfsTu-xojOCRt-nbcZA",
+        "campaignId": "120250346942870060",
+        "adId": "120250453005870060",
+        "adGroupId": "120250452888700060",
+        "referrer": "http://m.facebook.com",
+        "fbc": "fb.1.1786960939502.IwcGRvZgVleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHrSViKAT2qr9HvpkJbA3GBgNx4cXoPVYj1cxz4_cKL_HI86VXa7qvtkRLN2L_aem_aGUmfsTu-xojOCRt-nbcZA",
+        "fbp": "fb.1.1786960938724.8140862738",
+        "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-A156U Build/BP4A.251205.006) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/151.0.7922.102 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/573.0.0.37.74;IABMV/1;]",
+        "ip": "2607:fb90:7de0:3904:5562:afa4:d976:1725",
+        "gaClientId": "GA1.1.1797864216.1786960939",
+        "url": "https://demo.theimplantengine.com/lp-vsl-a?utm_medium=vsl__LLA__Dentists__images__lead__cwh__081026&utm_campaign=tie__vsl_2026__lead__tof__080526&utm_content=Carousel_jam__VSL+teaser+2__angle_custom_by_jam__081026&campaign_id=120250346942870060&ad_group_id=120250452888700060&ad_id=120250453005870060&fbclid=IwcGRvZgVleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHrSViKAT2qr9HvpkJbA3GBgNx4cXoPVYj1cxz4_cKL_HI86VXa7qvtkRLN2L_aem_aGUmfsTu-xojOCRt-nbcZA&utm_source=fb&utm_id=120250452888700060_v2_s01&utm_term=120250452888700060"
+      },
+      "lastAttributionSource": {
+        "utmSource": "fb",
+        "utmTerm": "120250452888700060",
+        "sessionSource": "Social media",
+        "medium": "survey",
+        "mediumId": "1vjy9oLb0A7d3BCoEn2m",
+        "campaign": "tie__vsl_2026__lead__tof__080526",
+        "utmMedium": "vsl__LLA__Dentists__images__lead__cwh__081026",
+        "utmContent": "Carousel_jam__VSL teaser 2__angle_custom_by_jam__081026",
+        "fbclid": "IwcGRvZgVleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHrSViKAT2qr9HvpkJbA3GBgNx4cXoPVYj1cxz4_cKL_HI86VXa7qvtkRLN2L_aem_aGUmfsTu-xojOCRt-nbcZA",
+        "campaignId": "120250346942870060",
+        "adId": "120250453005870060",
+        "adGroupId": "120250452888700060",
+        "referrer": "http://m.facebook.com",
+        "fbc": "fb.1.1786960939502.IwcGRvZgVleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHrSViKAT2qr9HvpkJbA3GBgNx4cXoPVYj1cxz4_cKL_HI86VXa7qvtkRLN2L_aem_aGUmfsTu-xojOCRt-nbcZA",
+        "fbp": "fb.1.1786960938724.8140862738",
+        "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-A156U Build/BP4A.251205.006) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/151.0.7922.102 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/573.0.0.37.74;IABMV/1;]",
+        "ip": "2607:fb90:7de0:3904:5562:afa4:d976:1725",
+        "gaClientId": "GA1.1.1797864216.1786960939",
+        "url": "https://demo.theimplantengine.com/lp-vsl-a?utm_medium=vsl__LLA__Dentists__images__lead__cwh__081026&utm_campaign=tie__vsl_2026__lead__tof__080526&utm_content=Carousel_jam__VSL+teaser+2__angle_custom_by_jam__081026&campaign_id=120250346942870060&ad_group_id=120250452888700060&ad_id=120250453005870060&fbclid=IwcGRvZgVleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHrSViKAT2qr9HvpkJbA3GBgNx4cXoPVYj1cxz4_cKL_HI86VXa7qvtkRLN2L_aem_aGUmfsTu-xojOCRt-nbcZA&utm_source=fb&utm_id=120250452888700060_v2_s01&utm_term=120250452888700060"
+      }
+    },
+    {
+      "id": "AlQBMUcFMp47LeakthgU",
+      "phoneLabel": null,
+      "country": "US",
+      "address": null,
+      "source": "facebook",
+      "type": "lead",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "website": null,
+      "dnd": true,
+      "state": null,
+      "businessName": null,
+      "customFields": [
+        {
+          "id": "dkhU1aP5gTQyJEEtEDHC",
+          "value": "The leads don't show up"
+        },
+        {
+          "id": "hpyxlLQ46IIXVDdih5TT",
+          "value": "Feast or famine"
+        },
+        {
+          "id": "miaO1fjhGZIFGn9Erg7t",
+          "value": "Yorkie construction "
+        },
+        {
+          "id": "pUrwusNqMhW6HTNcQdF6",
+          "value": "Hit or miss"
+        },
+        {
+          "id": "un5wc8d1TCM8DLvctnAD",
+          "value": "1-5"
+        },
+        {
+          "id": "0TMDaX28baH1HFuvgqQL",
+          "value": "tie__d2c__cwh__schedule__071326"
+        },
+        {
+          "id": "2F5L20ZQotpme72wDiUm",
+          "value": "GA1.1.943714243.1768207461"
+        },
+        {
+          "id": "5efeLnl1vEZ4mnUcuyiW",
+          "value": "https://schedule.theimplantengine.com"
+        },
+        {
+          "id": "8NymIPoQlOANae5evfTo",
+          "value": "120250314049490060"
+        },
+        {
+          "id": "95aOAwBhY778PuK127iG",
+          "value": "IwY2xjawR0tZ5leHRuA2FlbQEwAGFkaWQBqzJplBoMXHNydGMGYXBwX2lkDzI0NTc5MDgxODk1NTg2OAABHja0DPn-G8GoN1aqFt3rVoEEYCiR6gzEFnHisCTQrSZO0gFSQV4ysRS3VPV6_aem__tBzTj1zSs31cDFs1DzcaA"
+        },
+        {
+          "id": "99T8Lary3O0eJ7RV8RMr",
+          "value": "an"
+        },
+        {
+          "id": "BEhuU20baeEEGcoiHlQI",
+          "value": "120245243714610060"
+        },
+        {
+          "id": "BhtCH1z4T0IXsUBk10PA",
+          "value": "Tie__vsl_2026__schedule__cwh__051126"
+        },
+        {
+          "id": "EbBlEyRgtrHrEsSiHo4z",
+          "value": "Tie__vsl_2026__schedule__cwh__051126"
+        },
+        {
+          "id": "FHOIEE78GmyueDOf4jKe",
+          "value": "https://l.facebook.com"
+        },
+        {
+          "id": "IUSpcfKHFzSJZVS3cJkb",
+          "value": "2026.07.02_ER_CM_TIESupercut03.4_9x16__angles_old_mix__072926"
+        },
+        {
+          "id": "PDUjg8Yoo8N5MGhw5GUG",
+          "value": "120245243714610060"
+        },
+        {
+          "id": "PXzF3Qod6brdZLC1tRiR",
+          "value": "GA1.1.943714243.1768207461"
+        },
+        {
+          "id": "SEcCAtbZ9zzUoJ6g9Wct",
+          "value": "LLA__US__d2c_2026__cwh__schedule__071326 - Copy"
+        },
+        {
+          "id": "SXl7nQQ56IRmGdlUk0jA",
+          "value": "Social media"
+        },
+        {
+          "id": "U5ZBWkkjASjje237GQNI",
+          "value": "https://demo.theimplantengine.com/watch-vsl?form_source=vsl_redirect&utm_medium=LLA__US__d2c_2026__cwh__schedule__071326+-+Copy&utm_campaign=tie__d2c__cwh__schedule__071326&utm_content=2026.07.02_ER_CM_TIESupercut03.4_9x16__angles_old_mix__072926&utm_source=an&utm_id=120250314049490060_v2_s08_e7736_pc_1&utm_term=120250314049490060"
+        },
+        {
+          "id": "UVzXKSFkSgcOpD1oW6Tv",
+          "value": "tie__d2c__cwh__schedule__071326"
+        },
+        {
+          "id": "WuBg5PACmmRzi5OBQq4j",
+          "value": "VSL teaser 2 -____angle_vsl_2026__032726"
+        },
+        {
+          "id": "X4SAHwW4j0ptgLYsopES",
+          "value": "Referral"
+        },
+        {
+          "id": "aEIngOYdRVc7EXIkXP4D",
+          "value": "120245243714610060"
+        },
+        {
+          "id": "cibbwAH7ENrZustRHi21",
+          "value": "https://demo.theimplantengine.com/lp-vsl-b?utm_medium=2%25_lla_tie_fb_master_list_11%2F30__vsl__schedule__cwh__051126&utm_campaign=tie__vsl_2026__schedule__cwh__051126&utm_content=VSL+teaser+2+-____angle_vsl_2026__032726&campaign_id=120245243713160060&ad_group_id=120245243714610060&ad_id=120245243714600060&utm_source=an&utm_id=120245243714610060_v2_s04&utm_term=120245243714610060&fbclid=IwY2xjawR0tZ5leHRuA2FlbQEwAGFkaWQBqzJplBoMXHNydGMGYXBwX2lkDzI0NTc5MDgxODk1NTg2OAABHja0DPn-G8GoN1aqFt3rVoEEYCiR6gzEFnHisCTQrSZO0gFSQV4ysRS3VPV6_aem__tBzTj1zSs31cDFs1DzcaA&utm_medium=2%25_lla_tie_fb_master_list_11%2F30__vsl__schedule__cwh__051126&utm_campaign=tie__vsl_2026__schedule__cwh__051126&utm_content=VSL+teaser+2+-____angle_vsl_2026__032726&campaign_id=120245243713160060&ad_group_id=120245243714610060&ad_id=120245243714600060&utm_source=an&utm_id=120245243714610060_v2_s04&utm_term=120245243714610060&fbclid=IwY2xjawR0tZ5leHRuA2FlbQEwAGFkaWQBqzJplBoMXHNydGMGYXBwX2lkDzI0NTc5MDgxODk1NTg2OAABHja0DPn-G8GoN1aqFt3rVoEEYCiR6gzEFnHisCTQrSZO0gFSQV4ysRS3VPV6_aem__tBzTj1zSs31cDFs1DzcaA"
+        },
+        {
+          "id": "oI9wTYiQByScLSPOzi7E",
+          "value": "an"
+        },
+        {
+          "id": "sNtYKW0KJK24wVy7rM2j",
+          "value": "120245243713160060"
+        },
+        {
+          "id": "srEqQ3BBJ7ntnj6ihe5C",
+          "value": "120245243714600060"
+        },
+        {
+          "id": "v3UQTznH52fc3qLpsXSU",
+          "value": "2%_lla_tie_fb_master_list_11/30__vsl__schedule__cwh__051126"
+        },
+        {
+          "id": "xJHccRKfJdis1OUtJuTA",
+          "value": "2026.07.02_ER_CM_TIESupercut03.4_9x16__angles_old_mix__072926"
+        },
+        {
+          "id": "3HhsGAjnFcsleaCVmcoY",
+          "value": "Facebook"
+        },
+        {
+          "id": "Gxs8PeIik24ymWSmYkTb",
+          "value": "36c64f5e-7658-4d6e-afa5-90e38770635d"
+        },
+        {
+          "id": "e5dtV5vhjLLGpdkyjXWd",
+          "value": "Google"
+        },
+        {
+          "id": "fp8F8SswCkwHIh3ThRUs",
+          "value": "1-5"
+        },
+        {
+          "id": "jsNRVPtELPDZtqtyg0p0",
+          "value": "vsl_redirect"
+        },
+        {
+          "id": "M6bjcTTwyhssogp1yP8u",
+          "value": "Jessica Bueno"
+        },
+        {
+          "id": "EMry84dErun3fDHa3MWU",
+          "value": "(801) 457-1767"
+        },
+        {
+          "id": "dy6q5JIjMRRweetjaHlN",
+          "value": "jessica"
+        },
+        {
+          "id": "z9rSoBwqmJ5vZwxYdCxx",
+          "value": "Jessica"
+        },
+        {
+          "id": "ETcg04fquXWQnjko11wh",
+          "value": "Jason Lee "
+        }
+      ],
+      "tags": [
+        "custom role",
+        "vsl-sms-sent",
+        "paid",
+        "facebook",
+        "funnel",
+        "disco-booked",
+        "junk lead"
+      ],
+      "dateAdded": "2026-08-17T05:27:11.143Z",
+      "additionalEmails": [],
+      "phone": "+15634007171",
+      "companyName": "Yorkie construction",
+      "additionalPhones": [],
+      "dateUpdated": "2026-08-17T14:57:10.899Z",
+      "city": null,
+      "dateOfBirth": null,
+      "firstNameLowerCase": "jason lee",
+      "lastNameLowerCase": "york jr",
+      "firstName": "Jason Lee",
+      "lastName": "York Jr",
+      "contactName": "jason lee york jr",
+      "email": "jasonyorkjr05@gmail.com",
+      "assignedTo": "l3yZMOcJLNBTaynbCNU7",
+      "followers": [],
+      "validEmail": false,
+      "dndSettings": {
+        "Call": {
+          "message": "Updated from workflow_f6fc0c8b-e38d-4e01-a123-3f7b577a9796",
+          "status": "active"
+        },
+        "Email": {
+          "message": "Updated from workflow_f6fc0c8b-e38d-4e01-a123-3f7b577a9796",
+          "status": "active"
+        },
+        "SMS": {
+          "message": "Updated from workflow_f6fc0c8b-e38d-4e01-a123-3f7b577a9796",
+          "status": "active"
+        },
+        "FB": {
+          "message": "Updated from workflow_f6fc0c8b-e38d-4e01-a123-3f7b577a9796",
+          "status": "active"
+        },
+        "GMB": {
+          "message": "Updated from workflow_f6fc0c8b-e38d-4e01-a123-3f7b577a9796",
+          "status": "active"
+        },
+        "WhatsApp": {
+          "message": "Updated from workflow_f6fc0c8b-e38d-4e01-a123-3f7b577a9796",
+          "status": "active"
+        }
+      },
+      "opportunities": [
+        {
+          "pipelineId": "iv0V9Sacl6njcBsOpZSg",
+          "id": "PPdS4EQxYtIOSW9U3Uly",
+          "monetaryValue": 0,
+          "pipelineStageId": "4aef6c88-618d-4244-9086-dc4a242e04eb",
+          "status": "lost"
+        }
+      ],
+      "postalCode": null,
+      "businessId": null,
+      "searchAfter": [
+        1786944431143,
+        "AlQBMUcFMp47LeakthgU"
+      ],
+      "timezone": "America/Chicago",
+      "inboundDndSettings": {},
+      "attributionSource": {
+        "utmSource": "an",
+        "utmKeyword": "120245243714610060",
+        "utmTerm": "120245243714610060",
+        "sessionSource": "Social media",
+        "medium": "survey",
+        "mediumId": "1vjy9oLb0A7d3BCoEn2m",
+        "campaign": "Tie__vsl_2026__schedule__cwh__051126",
+        "utmMedium": "2%_lla_tie_fb_master_list_11/30__vsl__schedule__cwh__051126",
+        "utmContent": "VSL teaser 2 -____angle_vsl_2026__032726",
+        "fbclid": "IwY2xjawR0tZ5leHRuA2FlbQEwAGFkaWQBqzJplBoMXHNydGMGYXBwX2lkDzI0NTc5MDgxODk1NTg2OAABHja0DPn-G8GoN1aqFt3rVoEEYCiR6gzEFnHisCTQrSZO0gFSQV4ysRS3VPV6_aem__tBzTj1zSs31cDFs1DzcaA",
+        "campaignId": "120245243713160060",
+        "adId": "120245243714600060",
+        "adGroupId": "120245243714610060",
+        "referrer": "https://l.facebook.com",
+        "fbc": "fb.1.1786944370414.IwY2xjawTver5wZG9mA2V4dG4DYWVtATAAYWRpZAGrNwYHiyEcdXNybQAAAAAAAAAXc3J0YwZhcHBfaWQPMjQ1NzkwODE4OTU1ODY4AAEee9cRTNJ24r6jRWL1cODOFd6-cPTkry3ft11FXqdN9AUs8Ov-VUNbZqOJ2r0_aem_RT6q4YRfQR0WieKM3umTvQ",
+        "fbp": "fb.1.1778898522407.8890240823",
+        "userAgent": "Mozilla/5.0 (Linux; Android 16; moto g power - 2025 Build/W1VES36H.10-12-10-9; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/150.0.7871.181 Mobile Safari/537.36",
+        "ip": "2607:fb90:9901:7e15:b89e:b8dd:f7a8:30e7",
+        "gaClientId": "GA1.1.943714243.1768207461",
+        "url": "https://demo.theimplantengine.com/lp-vsl-b?utm_medium=2%25_lla_tie_fb_master_list_11%2F30__vsl__schedule__cwh__051126&utm_campaign=tie__vsl_2026__schedule__cwh__051126&utm_content=VSL+teaser+2+-____angle_vsl_2026__032726&campaign_id=120245243713160060&ad_group_id=120245243714610060&ad_id=120245243714600060&utm_source=an&utm_id=120245243714610060_v2_s04&utm_term=120245243714610060&fbclid=IwY2xjawR0tZ5leHRuA2FlbQEwAGFkaWQBqzJplBoMXHNydGMGYXBwX2lkDzI0NTc5MDgxODk1NTg2OAABHja0DPn-G8GoN1aqFt3rVoEEYCiR6gzEFnHisCTQrSZO0gFSQV4ysRS3VPV6_aem__tBzTj1zSs31cDFs1DzcaA&utm_medium=2%25_lla_tie_fb_master_list_11%2F30__vsl__schedule__cwh__051126&utm_campaign=tie__vsl_2026__schedule__cwh__051126&utm_content=VSL+teaser+2+-____angle_vsl_2026__032726&campaign_id=120245243713160060&ad_group_id=120245243714610060&ad_id=120245243714600060&utm_source=an&utm_id=120245243714610060_v2_s04&utm_term=120245243714610060&fbclid=IwY2xjawR0tZ5leHRuA2FlbQEwAGFkaWQBqzJplBoMXHNydGMGYXBwX2lkDzI0NTc5MDgxODk1NTg2OAABHja0DPn-G8GoN1aqFt3rVoEEYCiR6gzEFnHisCTQrSZO0gFSQV4ysRS3VPV6_aem__tBzTj1zSs31cDFs1DzcaA"
+      },
+      "lastAttributionSource": {
+        "utmSource": "an",
+        "utmTerm": "120250314049490060",
+        "sessionSource": "Referral",
+        "medium": "calendar",
+        "mediumId": "Hii5KTq6sknHCC4HLnqM",
+        "campaign": "tie__d2c__cwh__schedule__071326",
+        "utmMedium": "LLA__US__d2c_2026__cwh__schedule__071326 - Copy",
+        "utmContent": "2026.07.02_ER_CM_TIESupercut03.4_9x16__angles_old_mix__072926",
+        "referrer": "https://schedule.theimplantengine.com",
+        "fbc": "fb.1.1786944370414.IwY2xjawTver5wZG9mA2V4dG4DYWVtATAAYWRpZAGrNwYHiyEcdXNybQAAAAAAAAAXc3J0YwZhcHBfaWQPMjQ1NzkwODE4OTU1ODY4AAEee9cRTNJ24r6jRWL1cODOFd6-cPTkry3ft11FXqdN9AUs8Ov-VUNbZqOJ2r0_aem_RT6q4YRfQR0WieKM3umTvQ",
+        "fbp": "fb.1.1778898522407.8890240823",
+        "userAgent": "Mozilla/5.0 (Linux; Android 16; moto g power - 2025 Build/W1VES36H.10-12-10-9; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/150.0.7871.181 Mobile Safari/537.36",
+        "ip": "2607:fb90:9901:7e15:b89e:b8dd:f7a8:30e7",
+        "gaClientId": "GA1.1.943714243.1768207461",
+        "url": "https://demo.theimplantengine.com/watch-vsl?form_source=vsl_redirect&utm_medium=LLA__US__d2c_2026__cwh__schedule__071326+-+Copy&utm_campaign=tie__d2c__cwh__schedule__071326&utm_content=2026.07.02_ER_CM_TIESupercut03.4_9x16__angles_old_mix__072926&utm_source=an&utm_id=120250314049490060_v2_s08_e7736_pc_1&utm_term=120250314049490060"
+      }
+    },
+    {
+      "id": "EPP9Y4FHhJLNu1CtdVDc",
+      "phoneLabel": null,
+      "country": "US",
+      "address": null,
+      "source": "Schedule a Demo",
+      "type": "lead",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "website": null,
+      "dnd": false,
+      "state": null,
+      "businessName": null,
+      "customFields": [
+        {
+          "id": "0TIQzoCDQ38Q6XwSDlwi",
+          "value": "I work in a dental practice"
+        },
+        {
+          "id": "Gxs8PeIik24ymWSmYkTb",
+          "value": "c474734a-2420-491a-acb8-8d12d251ed4d"
+        },
+        {
+          "id": "e5dtV5vhjLLGpdkyjXWd",
+          "value": "None of the above"
+        },
+        {
+          "id": "fp8F8SswCkwHIh3ThRUs",
+          "value": "11-20"
+        },
+        {
+          "id": "miaO1fjhGZIFGn9Erg7t",
+          "value": "test"
+        },
+        {
+          "id": "un5wc8d1TCM8DLvctnAD",
+          "value": "11-20"
+        },
+        {
+          "id": "2F5L20ZQotpme72wDiUm",
+          "value": "GA1.1.1429733787.1785773255"
+        },
+        {
+          "id": "PXzF3Qod6brdZLC1tRiR",
+          "value": "GA1.1.1429733787.1785773255"
+        },
+        {
+          "id": "SXl7nQQ56IRmGdlUk0jA",
+          "value": "Direct traffic"
+        },
+        {
+          "id": "U5ZBWkkjASjje237GQNI",
+          "value": "https://demo.theimplantengine.com/tie-d2c-demo"
+        },
+        {
+          "id": "X4SAHwW4j0ptgLYsopES",
+          "value": "Direct traffic"
+        },
+        {
+          "id": "cibbwAH7ENrZustRHi21",
+          "value": "https://demo.theimplantengine.com/lp-vsl-b"
+        },
+        {
+          "id": "M6bjcTTwyhssogp1yP8u",
+          "value": "Jessica Bueno"
+        },
+        {
+          "id": "3HhsGAjnFcsleaCVmcoY",
+          "value": "Direct Traffic (Google)"
+        },
+        {
+          "id": "EMry84dErun3fDHa3MWU",
+          "value": "(801) 457-1767"
+        },
+        {
+          "id": "dy6q5JIjMRRweetjaHlN",
+          "value": "jessica"
+        },
+        {
+          "id": "z9rSoBwqmJ5vZwxYdCxx",
+          "value": "Jessica"
+        },
+        {
+          "id": "ETcg04fquXWQnjko11wh",
+          "value": "Chelsea"
+        }
+      ],
+      "tags": [
+        "funnel",
+        "work in dental practice",
+        "disco-booked"
+      ],
+      "dateAdded": "2026-08-17T01:55:13.949Z",
+      "additionalEmails": [],
+      "phone": "+15034403479",
+      "companyName": "test",
+      "additionalPhones": [],
+      "dateUpdated": "2026-08-17T02:01:53.470Z",
+      "city": null,
+      "dateOfBirth": null,
+      "firstNameLowerCase": "chelsea",
+      "lastNameLowerCase": "morrisey",
+      "firstName": "Chelsea",
+      "lastName": "Morrisey",
+      "contactName": "chelsea morrisey",
+      "email": "chelsea@morriseydigital.com",
+      "assignedTo": "l3yZMOcJLNBTaynbCNU7",
+      "followers": [],
+      "validEmail": true,
+      "dndSettings": {},
+      "opportunities": [],
+      "postalCode": null,
+      "businessId": null,
+      "searchAfter": [
+        1786931713949,
+        "EPP9Y4FHhJLNu1CtdVDc"
+      ],
+      "timezone": "America/Los_Angeles",
+      "inboundDndSettings": {},
+      "attributionSource": {
+        "sessionSource": "Direct traffic",
+        "medium": "calendar",
+        "mediumId": "Hii5KTq6sknHCC4HLnqM",
+        "fbp": "fb.1.1785773254705.3372472524",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+        "ip": "2600:387:15:3116::6",
+        "gaClientId": "GA1.1.1429733787.1785773255",
+        "url": "https://demo.theimplantengine.com/lp-vsl-b"
+      },
+      "lastAttributionSource": {
+        "sessionSource": "Direct traffic",
+        "medium": "calendar",
+        "mediumId": "Hii5KTq6sknHCC4HLnqM",
+        "fbp": "fb.1.1785773254705.3372472524",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+        "ip": "2600:387:15:3116::6",
+        "gaClientId": "GA1.1.1429733787.1785773255",
+        "url": "https://demo.theimplantengine.com/tie-d2c-demo"
+      }
+    },
+    {
+      "id": "KNmjiLMKpgyexqBj8gdq",
+      "phoneLabel": null,
+      "country": "US",
+      "address": null,
+      "source": "Discovery Call With Chelsea",
+      "type": "lead",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "website": null,
+      "dnd": false,
+      "state": null,
+      "businessName": null,
+      "customFields": [
+        {
+          "id": "0TIQzoCDQ38Q6XwSDlwi",
+          "value": "I work in the dental industry"
+        },
+        {
+          "id": "e5dtV5vhjLLGpdkyjXWd",
+          "value": "Current Client"
+        },
+        {
+          "id": "fp8F8SswCkwHIh3ThRUs",
+          "value": "0"
+        },
+        {
+          "id": "miaO1fjhGZIFGn9Erg7t",
+          "value": "Full Arch Buying Group"
+        },
+        {
+          "id": "un5wc8d1TCM8DLvctnAD",
+          "value": "1-5"
+        },
+        {
+          "id": "2F5L20ZQotpme72wDiUm",
+          "value": "GA1.1.2113441594.1786903881"
+        },
+        {
+          "id": "PXzF3Qod6brdZLC1tRiR",
+          "value": "GA1.1.2113441594.1786903881"
+        },
+        {
+          "id": "SXl7nQQ56IRmGdlUk0jA",
+          "value": "Direct traffic"
+        },
+        {
+          "id": "U5ZBWkkjASjje237GQNI",
+          "value": "https://schedule.theimplantengine.com/widget/bookings/chelsea-disco"
+        },
+        {
+          "id": "X4SAHwW4j0ptgLYsopES",
+          "value": "Direct traffic"
+        },
+        {
+          "id": "cibbwAH7ENrZustRHi21",
+          "value": "https://schedule.theimplantengine.com/widget/bookings/chelsea-disco"
+        }
+      ],
+      "tags": [
+        "funnel"
+      ],
+      "dateAdded": "2026-08-16T18:12:26.022Z",
+      "additionalEmails": [],
+      "phone": "+15709168984",
+      "companyName": null,
+      "additionalPhones": [],
+      "dateUpdated": "2026-08-16T18:19:33.008Z",
+      "city": null,
+      "dateOfBirth": null,
+      "firstNameLowerCase": "jonathan",
+      "lastNameLowerCase": "theis",
+      "firstName": "Jonathan",
+      "lastName": "Theis",
+      "contactName": "jonathan theis",
+      "email": "jonathan@thefullarchcoach.com",
+      "assignedTo": "cVaCcwpDKmpnIx0mXyWN",
+      "followers": [],
+      "validEmail": true,
+      "dndSettings": {},
+      "postalCode": null,
+      "businessId": null,
+      "searchAfter": [
+        1786903946022,
+        "KNmjiLMKpgyexqBj8gdq"
+      ],
+      "timezone": "America/New_York",
+      "inboundDndSettings": {},
+      "attributionSource": {
+        "sessionSource": "Direct traffic",
+        "medium": "calendar",
+        "mediumId": "Q6bJaYNrsA1MqiI8jQTt",
+        "fbp": "fb.1.1786903880627.4649349618",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+        "ip": "2601:47:4a04:9450:b415:2786:328f:aa0b",
+        "gaClientId": "GA1.1.2113441594.1786903881",
+        "url": "https://schedule.theimplantengine.com/widget/bookings/chelsea-disco"
+      },
+      "lastAttributionSource": {
+        "sessionSource": "Direct traffic",
+        "medium": "calendar",
+        "mediumId": "Q6bJaYNrsA1MqiI8jQTt",
+        "fbp": "fb.1.1786903880627.4649349618",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+        "ip": "2601:47:4a04:9450:b415:2786:328f:aa0b",
+        "gaClientId": "GA1.1.2113441594.1786903881",
+        "url": "https://schedule.theimplantengine.com/widget/bookings/chelsea-disco"
+      }
+    },
+    {
+      "id": "2IYMNtUJ40GyQpxvUbKC",
+      "phoneLabel": null,
+      "country": "US",
+      "address": null,
+      "source": "facebook",
+      "type": "lead",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "website": null,
+      "dnd": false,
+      "state": null,
+      "businessName": null,
+      "customFields": [
+        {
+          "id": "dkhU1aP5gTQyJEEtEDHC",
+          "value": "The leads can't afford treatment"
+        },
+        {
+          "id": "hpyxlLQ46IIXVDdih5TT",
+          "value": "Pretty consistent"
+        },
+        {
+          "id": "miaO1fjhGZIFGn9Erg7t",
+          "value": "BITE Dental Center"
+        },
+        {
+          "id": "pUrwusNqMhW6HTNcQdF6",
+          "value": "I've been burned before"
+        },
+        {
+          "id": "un5wc8d1TCM8DLvctnAD",
+          "value": "6-10"
+        },
+        {
+          "id": "0TMDaX28baH1HFuvgqQL",
+          "value": "tie__d2c__cwh__schedule__071326"
+        },
+        {
+          "id": "2F5L20ZQotpme72wDiUm",
+          "value": "GA1.1.1085543372.1786882225"
+        },
+        {
+          "id": "5efeLnl1vEZ4mnUcuyiW",
+          "value": "https://facebook.com"
+        },
+        {
+          "id": "8NymIPoQlOANae5evfTo",
+          "value": "120250314049490060"
+        },
+        {
+          "id": "95aOAwBhY778PuK127iG",
+          "value": "IwcGRvZgFmZGlkFlDJ4Tr8pwFatZkAvsf98q_wouvvJLtleHRuA2FlbQEwAGFkaWQBqzcGB9I8PHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR6KTp-SdhHW1Gu7l2wq6KESRUNENKplqjnwdM8ooUpEa9F51tdPf7JPjRMzog_aem_RXm20ohSA50FC_0ShZnRVg"
+        },
+        {
+          "id": "99T8Lary3O0eJ7RV8RMr",
+          "value": "fb"
+        },
+        {
+          "id": "BhtCH1z4T0IXsUBk10PA",
+          "value": "tie__d2c__cwh__schedule__071326"
+        },
+        {
+          "id": "EbBlEyRgtrHrEsSiHo4z",
+          "value": "tie__d2c__cwh__schedule__071326"
+        },
+        {
+          "id": "FHOIEE78GmyueDOf4jKe",
+          "value": "https://facebook.com"
+        },
+        {
+          "id": "GhnwhpANDL5xYTHvsf5L",
+          "value": "120249802962400060"
+        },
+        {
+          "id": "IUSpcfKHFzSJZVS3cJkb",
+          "value": "2026.06.26_ER_CM_TIESupercut02.1_9x16__angles__d2c_campaign_2026__062726 - Copy 2"
+        },
+        {
+          "id": "PDUjg8Yoo8N5MGhw5GUG",
+          "value": "120250314049490060"
+        },
+        {
+          "id": "PXzF3Qod6brdZLC1tRiR",
+          "value": "GA1.1.1085543372.1786882225"
+        },
+        {
+          "id": "SEcCAtbZ9zzUoJ6g9Wct",
+          "value": "LLA__US__d2c_2026__cwh__schedule__071326 - Copy"
+        },
+        {
+          "id": "SXl7nQQ56IRmGdlUk0jA",
+          "value": "Social media"
+        },
+        {
+          "id": "TmIbipPKmOTfjC2zwpx3",
+          "value": "IwcGRvZgFmZGlkFlDJ4Tr8pwFatZkAvsf98q_wouvvJLtleHRuA2FlbQEwAGFkaWQBqzcGB9I8PHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR6KTp-SdhHW1Gu7l2wq6KESRUNENKplqjnwdM8ooUpEa9F51tdPf7JPjRMzog_aem_RXm20ohSA50FC_0ShZnRVg"
+        },
+        {
+          "id": "U5ZBWkkjASjje237GQNI",
+          "value": "https://demo.theimplantengine.com/lp-vsl-b?utm_medium=LLA__US__d2c_2026__cwh__schedule__071326+-+Copy&utm_campaign=tie__d2c__cwh__schedule__071326&utm_content=2026.06.26_ER_CM_TIESupercut02.1_9x16__angles__d2c_campaign_2026__062726+-+Copy+2&campaign_id=120249802962400060&ad_group_id=120250314049490060&ad_id=120250314049420060&fbclid=IwcGRvZgFmZGlkFlDJ4Tr8pwFatZkAvsf98q_wouvvJLtleHRuA2FlbQEwAGFkaWQBqzcGB9I8PHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR6KTp-SdhHW1Gu7l2wq6KESRUNENKplqjnwdM8ooUpEa9F51tdPf7JPjRMzog_aem_RXm20ohSA50FC_0ShZnRVg&utm_source=fb&utm_id=120250314049490060_v2_s03&utm_term=120250314049490060"
+        },
+        {
+          "id": "UVzXKSFkSgcOpD1oW6Tv",
+          "value": "tie__d2c__cwh__schedule__071326"
+        },
+        {
+          "id": "WuBg5PACmmRzi5OBQq4j",
+          "value": "2026.06.26_ER_CM_TIESupercut02.1_9x16__angles__d2c_campaign_2026__062726 - Copy 2"
+        },
+        {
+          "id": "X4SAHwW4j0ptgLYsopES",
+          "value": "Social media"
+        },
+        {
+          "id": "aEIngOYdRVc7EXIkXP4D",
+          "value": "120250314049490060"
+        },
+        {
+          "id": "cibbwAH7ENrZustRHi21",
+          "value": "https://demo.theimplantengine.com/lp-vsl-b?utm_medium=LLA__US__d2c_2026__cwh__schedule__071326+-+Copy&utm_campaign=tie__d2c__cwh__schedule__071326&utm_content=2026.06.26_ER_CM_TIESupercut02.1_9x16__angles__d2c_campaign_2026__062726+-+Copy+2&campaign_id=120249802962400060&ad_group_id=120250314049490060&ad_id=120250314049420060&fbclid=IwcGRvZgFmZGlkFlDJ4Tr8pwFatZkAvsf98q_wouvvJLtleHRuA2FlbQEwAGFkaWQBqzcGB9I8PHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR6KTp-SdhHW1Gu7l2wq6KESRUNENKplqjnwdM8ooUpEa9F51tdPf7JPjRMzog_aem_RXm20ohSA50FC_0ShZnRVg&utm_source=fb&utm_id=120250314049490060_v2_s03&utm_term=120250314049490060"
+        },
+        {
+          "id": "oI9wTYiQByScLSPOzi7E",
+          "value": "fb"
+        },
+        {
+          "id": "sNtYKW0KJK24wVy7rM2j",
+          "value": "120249802962400060"
+        },
+        {
+          "id": "srEqQ3BBJ7ntnj6ihe5C",
+          "value": "120250314049420060"
+        },
+        {
+          "id": "uqJGabIylbNXHUj6L0ew",
+          "value": "120250314049420060"
+        },
+        {
+          "id": "v3UQTznH52fc3qLpsXSU",
+          "value": "LLA__US__d2c_2026__cwh__schedule__071326 - Copy"
+        },
+        {
+          "id": "xJHccRKfJdis1OUtJuTA",
+          "value": "2026.06.26_ER_CM_TIESupercut02.1_9x16__angles__d2c_campaign_2026__062726 - Copy 2"
+        },
+        {
+          "id": "yNN749xwndr3J0gt5nYe",
+          "value": "120250314049490060"
+        },
+        {
+          "id": "3HhsGAjnFcsleaCVmcoY",
+          "value": "facebook"
+        }
+      ],
+      "tags": [
+        "paid",
+        "vsl-sms-sent",
+        "custom role",
+        "facebook",
+        "funnel",
+        "contacted"
+      ],
+      "dateAdded": "2026-08-16T12:11:51.782Z",
+      "additionalEmails": [],
+      "phone": "+16178170681",
+      "companyName": null,
+      "additionalPhones": [],
+      "dateUpdated": "2026-08-17T16:35:11.958Z",
+      "city": null,
+      "dateOfBirth": null,
+      "firstNameLowerCase": "ishtiaq",
+      "lastNameLowerCase": "rouf",
+      "firstName": "Ishtiaq",
+      "lastName": "Rouf",
+      "contactName": "ishtiaq rouf",
+      "email": "ishti.rouf@gmail.com",
+      "assignedTo": null,
+      "followers": [],
+      "validEmail": null,
+      "dndSettings": {},
+      "opportunities": [
+        {
+          "pipelineId": "iv0V9Sacl6njcBsOpZSg",
+          "id": "RZ9oyPXp2p4FSSVjeBdA",
+          "monetaryValue": 4000,
+          "pipelineStageId": "328cac35-037c-4805-a6c7-3b5d84e36650",
+          "status": "open"
+        }
+      ],
+      "postalCode": null,
+      "businessId": null,
+      "searchAfter": [
+        1786882311782,
+        "2IYMNtUJ40GyQpxvUbKC"
+      ],
+      "timezone": "America/New_York",
+      "inboundDndSettings": {},
+      "attributionSource": {
+        "utmSource": "fb",
+        "utmTerm": "120250314049490060",
+        "sessionSource": "Social media",
+        "medium": "survey",
+        "mediumId": "1vjy9oLb0A7d3BCoEn2m",
+        "campaign": "tie__d2c__cwh__schedule__071326",
+        "utmMedium": "LLA__US__d2c_2026__cwh__schedule__071326 - Copy",
+        "utmContent": "2026.06.26_ER_CM_TIESupercut02.1_9x16__angles__d2c_campaign_2026__062726 - Copy 2",
+        "fbclid": "IwcGRvZgFmZGlkFlDJ4Tr8pwFatZkAvsf98q_wouvvJLtleHRuA2FlbQEwAGFkaWQBqzcGB9I8PHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR6KTp-SdhHW1Gu7l2wq6KESRUNENKplqjnwdM8ooUpEa9F51tdPf7JPjRMzog_aem_RXm20ohSA50FC_0ShZnRVg",
+        "campaignId": "120249802962400060",
+        "adId": "120250314049420060",
+        "adGroupId": "120250314049490060",
+        "referrer": "https://facebook.com",
+        "fbc": "fb.1.1786882225044.IwcGRvZgFmZGlkFlDJ4Tr8pwFatZkAvsf98q_wouvvJLtleHRuA2FlbQEwAGFkaWQBqzcGB9I8PHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR6KTp-SdhHW1Gu7l2wq6KESRUNENKplqjnwdM8ooUpEa9F51tdPf7JPjRMzog_aem_RXm20ohSA50FC_0ShZnRVg",
+        "fbp": "fb.1.1786882224760.5085724408",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23G71 Safari/604.1 [FBAN/FBIOS;FBAV/574.0.0.41.71;FBBV/1038059635;FBDV/iPhone16,2;FBMD/iPhone;FBSN/iOS;FBSV/26.6;FBSS/3;FBID/phone;FBLC/en_US;FBOP/5;FBRV/0;IABMV/1]",
+        "ip": "2600:383:302:11c0:319c:7a4c:28a0:eb61",
+        "gaClientId": "GA1.1.1085543372.1786882225",
+        "url": "https://demo.theimplantengine.com/lp-vsl-b?utm_medium=LLA__US__d2c_2026__cwh__schedule__071326+-+Copy&utm_campaign=tie__d2c__cwh__schedule__071326&utm_content=2026.06.26_ER_CM_TIESupercut02.1_9x16__angles__d2c_campaign_2026__062726+-+Copy+2&campaign_id=120249802962400060&ad_group_id=120250314049490060&ad_id=120250314049420060&fbclid=IwcGRvZgFmZGlkFlDJ4Tr8pwFatZkAvsf98q_wouvvJLtleHRuA2FlbQEwAGFkaWQBqzcGB9I8PHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR6KTp-SdhHW1Gu7l2wq6KESRUNENKplqjnwdM8ooUpEa9F51tdPf7JPjRMzog_aem_RXm20ohSA50FC_0ShZnRVg&utm_source=fb&utm_id=120250314049490060_v2_s03&utm_term=120250314049490060"
+      },
+      "lastAttributionSource": {
+        "utmSource": "fb",
+        "utmTerm": "120250314049490060",
+        "sessionSource": "Social media",
+        "medium": "survey",
+        "mediumId": "1vjy9oLb0A7d3BCoEn2m",
+        "campaign": "tie__d2c__cwh__schedule__071326",
+        "utmMedium": "LLA__US__d2c_2026__cwh__schedule__071326 - Copy",
+        "utmContent": "2026.06.26_ER_CM_TIESupercut02.1_9x16__angles__d2c_campaign_2026__062726 - Copy 2",
+        "fbclid": "IwcGRvZgFmZGlkFlDJ4Tr8pwFatZkAvsf98q_wouvvJLtleHRuA2FlbQEwAGFkaWQBqzcGB9I8PHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR6KTp-SdhHW1Gu7l2wq6KESRUNENKplqjnwdM8ooUpEa9F51tdPf7JPjRMzog_aem_RXm20ohSA50FC_0ShZnRVg",
+        "campaignId": "120249802962400060",
+        "adId": "120250314049420060",
+        "adGroupId": "120250314049490060",
+        "referrer": "https://facebook.com",
+        "fbc": "fb.1.1786882225044.IwcGRvZgFmZGlkFlDJ4Tr8pwFatZkAvsf98q_wouvvJLtleHRuA2FlbQEwAGFkaWQBqzcGB9I8PHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR6KTp-SdhHW1Gu7l2wq6KESRUNENKplqjnwdM8ooUpEa9F51tdPf7JPjRMzog_aem_RXm20ohSA50FC_0ShZnRVg",
+        "fbp": "fb.1.1786882224760.5085724408",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23G71 Safari/604.1 [FBAN/FBIOS;FBAV/574.0.0.41.71;FBBV/1038059635;FBDV/iPhone16,2;FBMD/iPhone;FBSN/iOS;FBSV/26.6;FBSS/3;FBID/phone;FBLC/en_US;FBOP/5;FBRV/0;IABMV/1]",
+        "ip": "2600:383:302:11c0:319c:7a4c:28a0:eb61",
+        "gaClientId": "GA1.1.1085543372.1786882225",
+        "url": "https://demo.theimplantengine.com/lp-vsl-b?utm_medium=LLA__US__d2c_2026__cwh__schedule__071326+-+Copy&utm_campaign=tie__d2c__cwh__schedule__071326&utm_content=2026.06.26_ER_CM_TIESupercut02.1_9x16__angles__d2c_campaign_2026__062726+-+Copy+2&campaign_id=120249802962400060&ad_group_id=120250314049490060&ad_id=120250314049420060&fbclid=IwcGRvZgFmZGlkFlDJ4Tr8pwFatZkAvsf98q_wouvvJLtleHRuA2FlbQEwAGFkaWQBqzcGB9I8PHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR6KTp-SdhHW1Gu7l2wq6KESRUNENKplqjnwdM8ooUpEa9F51tdPf7JPjRMzog_aem_RXm20ohSA50FC_0ShZnRVg&utm_source=fb&utm_id=120250314049490060_v2_s03&utm_term=120250314049490060"
+      }
+    },
+    {
+      "id": "Ga7h1mUwh7HDrQICoUs7",
+      "phoneLabel": null,
+      "country": "US",
+      "address": null,
+      "source": "VSL (4/9) - B \"Split test\"",
+      "type": "lead",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "website": null,
+      "dnd": true,
+      "state": null,
+      "businessName": null,
+      "customFields": [
+        {
+          "id": "dkhU1aP5gTQyJEEtEDHC",
+          "value": "The leads can't afford treatment"
+        },
+        {
+          "id": "hpyxlLQ46IIXVDdih5TT",
+          "value": "Feast or famine"
+        },
+        {
+          "id": "miaO1fjhGZIFGn9Erg7t",
+          "value": "simple dental care"
+        },
+        {
+          "id": "pUrwusNqMhW6HTNcQdF6",
+          "value": "I've been burned before"
+        },
+        {
+          "id": "un5wc8d1TCM8DLvctnAD",
+          "value": "6-10"
+        },
+        {
+          "id": "2F5L20ZQotpme72wDiUm",
+          "value": "GA1.1.490423343.1779470679"
+        },
+        {
+          "id": "5efeLnl1vEZ4mnUcuyiW",
+          "value": "https://www.facebook.com"
+        },
+        {
+          "id": "FHOIEE78GmyueDOf4jKe",
+          "value": "https://www.facebook.com"
+        },
+        {
+          "id": "PXzF3Qod6brdZLC1tRiR",
+          "value": "GA1.1.490423343.1779470679"
+        },
+        {
+          "id": "SXl7nQQ56IRmGdlUk0jA",
+          "value": "Social media"
+        },
+        {
+          "id": "U5ZBWkkjASjje237GQNI",
+          "value": "https://demo.theimplantengine.com/lp-vsl-b"
+        },
+        {
+          "id": "X4SAHwW4j0ptgLYsopES",
+          "value": "Social media"
+        },
+        {
+          "id": "cibbwAH7ENrZustRHi21",
+          "value": "https://demo.theimplantengine.com/lp-vsl-b"
+        },
+        {
+          "id": "aCkfj1knKFM6ncldcvws",
+          "value": "1vjy9oLb0A7d3BCoEn2m"
+        }
+      ],
+      "tags": [
+        "custom role",
+        "vsl-sms-sent",
+        "junk lead",
+        "junk-confirmed"
+      ],
+      "dateAdded": "2026-08-16T05:02:25.077Z",
+      "additionalEmails": [],
+      "phone": "+12015545858",
+      "companyName": null,
+      "additionalPhones": [],
+      "dateUpdated": "2026-08-17T16:36:18.218Z",
+      "city": null,
+      "dateOfBirth": null,
+      "firstNameLowerCase": "richard",
+      "lastNameLowerCase": "mir",
+      "firstName": "Richard",
+      "lastName": "Mir",
+      "contactName": "richard mir",
+      "email": "richardbaskin@gmail.com",
+      "assignedTo": null,
+      "followers": [],
+      "validEmail": null,
+      "dndSettings": {
+        "Call": {
+          "message": "Updated from workflow_f6fc0c8b-e38d-4e01-a123-3f7b577a9796",
+          "status": "active"
+        },
+        "Email": {
+          "message": "Updated from workflow_f6fc0c8b-e38d-4e01-a123-3f7b577a9796",
+          "status": "active"
+        },
+        "SMS": {
+          "message": "Updated from workflow_f6fc0c8b-e38d-4e01-a123-3f7b577a9796",
+          "status": "active"
+        },
+        "FB": {
+          "message": "Updated from workflow_f6fc0c8b-e38d-4e01-a123-3f7b577a9796",
+          "status": "active"
+        },
+        "GMB": {
+          "message": "Updated from workflow_f6fc0c8b-e38d-4e01-a123-3f7b577a9796",
+          "status": "active"
+        },
+        "WhatsApp": {
+          "message": "Updated from workflow_f6fc0c8b-e38d-4e01-a123-3f7b577a9796",
+          "status": "active"
+        }
+      },
+      "opportunities": [
+        {
+          "pipelineId": "iv0V9Sacl6njcBsOpZSg",
+          "id": "o1PMpY23qjaVs92xJnmL",
+          "monetaryValue": 0,
+          "pipelineStageId": "4aef6c88-618d-4244-9086-dc4a242e04eb",
+          "status": "lost"
+        }
+      ],
+      "postalCode": null,
+      "businessId": null,
+      "searchAfter": [
+        1786856545077,
+        "Ga7h1mUwh7HDrQICoUs7"
+      ],
+      "timezone": "America/New_York",
+      "inboundDndSettings": {},
+      "attributionSource": {
+        "sessionSource": "Social media",
+        "medium": "survey",
+        "mediumId": "1vjy9oLb0A7d3BCoEn2m",
+        "referrer": "https://www.facebook.com",
+        "fbp": "fb.1.1779470678950.1038606777",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "ip": "136.28.17.232",
+        "gaClientId": "GA1.1.490423343.1779470679",
+        "url": "https://demo.theimplantengine.com/lp-vsl-b"
+      },
+      "lastAttributionSource": {
+        "sessionSource": "Social media",
+        "medium": "survey",
+        "mediumId": "1vjy9oLb0A7d3BCoEn2m",
+        "referrer": "https://www.facebook.com",
+        "fbp": "fb.1.1779470678950.1038606777",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "ip": "136.28.17.232",
+        "gaClientId": "GA1.1.490423343.1779470679",
+        "url": "https://demo.theimplantengine.com/lp-vsl-b"
+      }
+    },
+    {
+      "id": "idxMsxq07X87ACSRNXHS",
+      "phoneLabel": null,
+      "country": "US",
+      "address": null,
+      "source": "facebook",
+      "type": "lead",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "website": null,
+      "dnd": false,
+      "state": null,
+      "businessName": null,
+      "customFields": [
+        {
+          "id": "dkhU1aP5gTQyJEEtEDHC",
+          "value": "The leads can't afford treatment"
+        },
+        {
+          "id": "hpyxlLQ46IIXVDdih5TT",
+          "value": "Feast or famine"
+        },
+        {
+          "id": "miaO1fjhGZIFGn9Erg7t",
+          "value": "Tamarack hills family dentistry "
+        },
+        {
+          "id": "pUrwusNqMhW6HTNcQdF6",
+          "value": "I've been burned before"
+        },
+        {
+          "id": "un5wc8d1TCM8DLvctnAD",
+          "value": "6-10"
+        },
+        {
+          "id": "0TMDaX28baH1HFuvgqQL",
+          "value": "tie__d2c__cwh__schedule__071326"
+        },
+        {
+          "id": "2F5L20ZQotpme72wDiUm",
+          "value": "GA1.1.1086649482.1786826297"
+        },
+        {
+          "id": "5efeLnl1vEZ4mnUcuyiW",
+          "value": "https://facebook.com"
+        },
+        {
+          "id": "8NymIPoQlOANae5evfTo",
+          "value": "120250191280260060"
+        },
+        {
+          "id": "95aOAwBhY778PuK127iG",
+          "value": "IwcGRvZgVmZGlkFlDIB_Dvh7QaeYaHd7DLGPeWeyg8Jr1leHRuA2FlbQEwAGFkaWQBqzbpcZ2KvHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR7AwWXGCb8uzPT0KJ7_5j0QZRCX9xfJFiGWUOV1-Q7JROEoT4TnneHXbEzyeg_aem_5a9Xj6k5yQXayKk_LgCVTA"
+        },
+        {
+          "id": "99T8Lary3O0eJ7RV8RMr",
+          "value": "fb"
+        },
+        {
+          "id": "BEhuU20baeEEGcoiHlQI",
+          "value": "120250191280260060"
+        },
+        {
+          "id": "BhtCH1z4T0IXsUBk10PA",
+          "value": "Tie__d2c__cwh__schedule__071326"
+        },
+        {
+          "id": "EbBlEyRgtrHrEsSiHo4z",
+          "value": "Tie__d2c__cwh__schedule__071326"
+        },
+        {
+          "id": "FHOIEE78GmyueDOf4jKe",
+          "value": "https://facebook.com"
+        },
+        {
+          "id": "GhnwhpANDL5xYTHvsf5L",
+          "value": "120249802962400060"
+        },
+        {
+          "id": "IUSpcfKHFzSJZVS3cJkb",
+          "value": "2026.06.26_ER_CM_TIESupercut04.1.1_9x16__angles__d2c_campaign_2026__062726 - Copy 3"
+        },
+        {
+          "id": "PDUjg8Yoo8N5MGhw5GUG",
+          "value": "120250191280260060"
+        },
+        {
+          "id": "PXzF3Qod6brdZLC1tRiR",
+          "value": "GA1.1.1086649482.1786826297"
+        },
+        {
+          "id": "SEcCAtbZ9zzUoJ6g9Wct",
+          "value": "LLA_mix__mid_markets_states__d2c_2026__cwh__schedule__072926"
+        },
+        {
+          "id": "SXl7nQQ56IRmGdlUk0jA",
+          "value": "Social media"
+        },
+        {
+          "id": "TmIbipPKmOTfjC2zwpx3",
+          "value": "IwcGRvZgVmZGlkFlDIB_Dvh7QaeYaHd7DLGPeWeyg8Jr1leHRuA2FlbQEwAGFkaWQBqzbpcZ2KvHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR7AwWXGCb8uzPT0KJ7_5j0QZRCX9xfJFiGWUOV1-Q7JROEoT4TnneHXbEzyeg_aem_5a9Xj6k5yQXayKk_LgCVTA"
+        },
+        {
+          "id": "U5ZBWkkjASjje237GQNI",
+          "value": "https://demo.theimplantengine.com/watch-vsl?form_source=vsl_redirect&utm_medium=LLA_mix__mid_markets_states__d2c_2026__cwh__schedule__072926&utm_campaign=tie__d2c__cwh__schedule__071326&utm_content=2026.06.26_ER_CM_TIESupercut04.1.1_9x16__angles__d2c_campaign_2026__062726+-+Copy+3&campaign_id=120249802962400060&ad_group_id=120250191280260060&ad_id=120250191295760060&fbclid=IwcGRvZgVmZGlkFlDIB_Dvh7QaeYaHd7DLGPeWeyg8Jr1leHRuA2FlbQEwAGFkaWQBqzbpcZ2KvHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR7AwWXGCb8uzPT0KJ7_5j0QZRCX9xfJFiGWUOV1-Q7JROEoT4TnneHXbEzyeg_aem_5a9Xj6k5yQXayKk_LgCVTA&utm_source=fb&utm_id=120250191280260060_v2_s03&utm_term=120250191280260060"
+        },
+        {
+          "id": "UVzXKSFkSgcOpD1oW6Tv",
+          "value": "tie__d2c__cwh__schedule__071326"
+        },
+        {
+          "id": "WuBg5PACmmRzi5OBQq4j",
+          "value": "2026.06.26_ER_CM_TIESupercut04.1.1_9x16__angles__d2c_campaign_2026__062726 - Copy 3"
+        },
+        {
+          "id": "X4SAHwW4j0ptgLYsopES",
+          "value": "Social media"
+        },
+        {
+          "id": "aEIngOYdRVc7EXIkXP4D",
+          "value": "120250191280260060"
+        },
+        {
+          "id": "cibbwAH7ENrZustRHi21",
+          "value": "https://demo.theimplantengine.com/lp-vsl-b?utm_medium=LLA_mix__mid_markets_states__d2c_2026__cwh__schedule__072926&utm_campaign=tie__d2c__cwh__schedule__071326&utm_content=2026.06.26_ER_CM_TIESupercut04.1.1_9x16__angles__d2c_campaign_2026__062726+-+Copy+3&campaign_id=120249802962400060&ad_group_id=120250191280260060&ad_id=120250191295760060&fbclid=IwcGRvZgVmZGlkFlDIB_Dvh7QaeYaHd7DLGPeWeyg8Jr1leHRuA2FlbQEwAGFkaWQBqzbpcZ2KvHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR7AwWXGCb8uzPT0KJ7_5j0QZRCX9xfJFiGWUOV1-Q7JROEoT4TnneHXbEzyeg_aem_5a9Xj6k5yQXayKk_LgCVTA&utm_source=fb&utm_id=120250191280260060_v2_s03&utm_term=120250191280260060"
+        },
+        {
+          "id": "oI9wTYiQByScLSPOzi7E",
+          "value": "fb"
+        },
+        {
+          "id": "sNtYKW0KJK24wVy7rM2j",
+          "value": "120249802962400060"
+        },
+        {
+          "id": "srEqQ3BBJ7ntnj6ihe5C",
+          "value": "120250191295760060"
+        },
+        {
+          "id": "uqJGabIylbNXHUj6L0ew",
+          "value": "120250191295760060"
+        },
+        {
+          "id": "v3UQTznH52fc3qLpsXSU",
+          "value": "LLA_mix__mid_markets_states__d2c_2026__cwh__schedule__072926"
+        },
+        {
+          "id": "xJHccRKfJdis1OUtJuTA",
+          "value": "2026.06.26_ER_CM_TIESupercut04.1.1_9x16__angles__d2c_campaign_2026__062726 - Copy 3"
+        },
+        {
+          "id": "yNN749xwndr3J0gt5nYe",
+          "value": "120250191280260060"
+        },
+        {
+          "id": "3HhsGAjnFcsleaCVmcoY",
+          "value": "Facebook"
+        },
+        {
+          "id": "Gxs8PeIik24ymWSmYkTb",
+          "value": "61ff13c1-6198-47e6-8a1d-ed758d212d3f"
+        },
+        {
+          "id": "e5dtV5vhjLLGpdkyjXWd",
+          "value": "Facebook Ad"
+        },
+        {
+          "id": "fp8F8SswCkwHIh3ThRUs",
+          "value": "1-5"
+        },
+        {
+          "id": "jsNRVPtELPDZtqtyg0p0",
+          "value": "vsl_redirect"
+        },
+        {
+          "id": "M6bjcTTwyhssogp1yP8u",
+          "value": "Jessica Bueno"
+        },
+        {
+          "id": "EMry84dErun3fDHa3MWU",
+          "value": "(801) 457-1767"
+        },
+        {
+          "id": "dy6q5JIjMRRweetjaHlN",
+          "value": "jessica"
+        },
+        {
+          "id": "z9rSoBwqmJ5vZwxYdCxx",
+          "value": "Jessica"
+        },
+        {
+          "id": "ETcg04fquXWQnjko11wh",
+          "value": "Avi"
+        }
+      ],
+      "tags": [
+        "vsl-sms-sent",
+        "custom role",
+        "paid",
+        "facebook",
+        "funnel",
+        "disco-ns"
+      ],
+      "dateAdded": "2026-08-15T20:39:37.152Z",
+      "additionalEmails": [],
+      "phone": "+17013067622",
+      "companyName": "Tamarack hills family dentistry",
+      "additionalPhones": [
+        {
+          "phone": "+16519643747"
+        }
+      ],
+      "dateUpdated": "2026-08-18T19:17:40.469Z",
+      "city": null,
+      "dateOfBirth": null,
+      "firstNameLowerCase": "avi",
+      "lastNameLowerCase": "matha",
+      "firstName": "Avi",
+      "lastName": "Matha",
+      "contactName": "avi matha",
+      "email": "a_matha@yahoo.com",
+      "assignedTo": "l3yZMOcJLNBTaynbCNU7",
+      "followers": [],
+      "validEmail": true,
+      "dndSettings": {},
+      "opportunities": [
+        {
+          "pipelineId": "iv0V9Sacl6njcBsOpZSg",
+          "id": "zSRCggX8iwf2x8qa7aew",
+          "monetaryValue": 4000,
+          "pipelineStageId": "3161a188-53cc-47d0-b2af-b8b6519b50d9",
+          "status": "open"
+        }
+      ],
+      "postalCode": null,
+      "businessId": null,
+      "searchAfter": [
+        1786826377152,
+        "idxMsxq07X87ACSRNXHS"
+      ],
+      "timezone": "America/Chicago",
+      "inboundDndSettings": {},
+      "attributionSource": {
+        "utmSource": "fb",
+        "utmKeyword": "120250191280260060",
+        "utmTerm": "120250191280260060",
+        "sessionSource": "Social media",
+        "medium": "survey",
+        "mediumId": "1vjy9oLb0A7d3BCoEn2m",
+        "campaign": "Tie__d2c__cwh__schedule__071326",
+        "utmMedium": "LLA_mix__mid_markets_states__d2c_2026__cwh__schedule__072926",
+        "utmContent": "2026.06.26_ER_CM_TIESupercut04.1.1_9x16__angles__d2c_campaign_2026__062726 - Copy 3",
+        "fbclid": "IwcGRvZgVmZGlkFlDIB_Dvh7QaeYaHd7DLGPeWeyg8Jr1leHRuA2FlbQEwAGFkaWQBqzbpcZ2KvHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR7AwWXGCb8uzPT0KJ7_5j0QZRCX9xfJFiGWUOV1-Q7JROEoT4TnneHXbEzyeg_aem_5a9Xj6k5yQXayKk_LgCVTA",
+        "campaignId": "120249802962400060",
+        "adId": "120250191295760060",
+        "adGroupId": "120250191280260060",
+        "referrer": "https://facebook.com",
+        "fbc": "fb.1.1786826296562.IwcGRvZgVmZGlkFlDIB_Dvh7QaeYaHd7DLGPeWeyg8Jr1leHRuA2FlbQEwAGFkaWQBqzbpcZ2KvHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR7AwWXGCb8uzPT0KJ7_5j0QZRCX9xfJFiGWUOV1-Q7JROEoT4TnneHXbEzyeg_aem_5a9Xj6k5yQXayKk_LgCVTA",
+        "fbp": "fb.1.1786826296382.5472253012",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23G71 Safari/604.1 [FBAN/FBIOS;FBAV/573.0.0.47.73;FBBV/1032158285;FBDV/iPhone18,2;FBMD/iPhone;FBSN/iOS;FBSV/26.6;FBSS/3;FBID/phone;FBLC/en_US;FBOP/5;FBRV/1040944914;IABMV/1]",
+        "ip": "68.63.217.149",
+        "gaClientId": "GA1.1.1086649482.1786826297",
+        "url": "https://demo.theimplantengine.com/lp-vsl-b?utm_medium=LLA_mix__mid_markets_states__d2c_2026__cwh__schedule__072926&utm_campaign=tie__d2c__cwh__schedule__071326&utm_content=2026.06.26_ER_CM_TIESupercut04.1.1_9x16__angles__d2c_campaign_2026__062726+-+Copy+3&campaign_id=120249802962400060&ad_group_id=120250191280260060&ad_id=120250191295760060&fbclid=IwcGRvZgVmZGlkFlDIB_Dvh7QaeYaHd7DLGPeWeyg8Jr1leHRuA2FlbQEwAGFkaWQBqzbpcZ2KvHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR7AwWXGCb8uzPT0KJ7_5j0QZRCX9xfJFiGWUOV1-Q7JROEoT4TnneHXbEzyeg_aem_5a9Xj6k5yQXayKk_LgCVTA&utm_source=fb&utm_id=120250191280260060_v2_s03&utm_term=120250191280260060"
+      },
+      "lastAttributionSource": {
+        "utmSource": "fb",
+        "utmTerm": "120250191280260060",
+        "sessionSource": "Social media",
+        "medium": "calendar",
+        "mediumId": "Hii5KTq6sknHCC4HLnqM",
+        "campaign": "tie__d2c__cwh__schedule__071326",
+        "utmMedium": "LLA_mix__mid_markets_states__d2c_2026__cwh__schedule__072926",
+        "utmContent": "2026.06.26_ER_CM_TIESupercut04.1.1_9x16__angles__d2c_campaign_2026__062726 - Copy 3",
+        "fbclid": "IwcGRvZgVmZGlkFlDIB_Dvh7QaeYaHd7DLGPeWeyg8Jr1leHRuA2FlbQEwAGFkaWQBqzbpcZ2KvHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR7AwWXGCb8uzPT0KJ7_5j0QZRCX9xfJFiGWUOV1-Q7JROEoT4TnneHXbEzyeg_aem_5a9Xj6k5yQXayKk_LgCVTA",
+        "campaignId": "120249802962400060",
+        "adId": "120250191295760060",
+        "adGroupId": "120250191280260060",
+        "referrer": "https://facebook.com",
+        "fbc": "fb.1.1786826296562.IwcGRvZgVmZGlkFlDIB_Dvh7QaeYaHd7DLGPeWeyg8Jr1leHRuA2FlbQEwAGFkaWQBqzbpcZ2KvHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR7AwWXGCb8uzPT0KJ7_5j0QZRCX9xfJFiGWUOV1-Q7JROEoT4TnneHXbEzyeg_aem_5a9Xj6k5yQXayKk_LgCVTA",
+        "fbp": "fb.1.1786826296382.5472253012",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23G71 Safari/604.1 [FBAN/FBIOS;FBAV/573.0.0.47.73;FBBV/1032158285;FBDV/iPhone18,2;FBMD/iPhone;FBSN/iOS;FBSV/26.6;FBSS/3;FBID/phone;FBLC/en_US;FBOP/5;FBRV/1040944914;IABMV/1]",
+        "ip": "68.63.217.149",
+        "gaClientId": "GA1.1.1086649482.1786826297",
+        "url": "https://demo.theimplantengine.com/watch-vsl?form_source=vsl_redirect&utm_medium=LLA_mix__mid_markets_states__d2c_2026__cwh__schedule__072926&utm_campaign=tie__d2c__cwh__schedule__071326&utm_content=2026.06.26_ER_CM_TIESupercut04.1.1_9x16__angles__d2c_campaign_2026__062726+-+Copy+3&campaign_id=120249802962400060&ad_group_id=120250191280260060&ad_id=120250191295760060&fbclid=IwcGRvZgVmZGlkFlDIB_Dvh7QaeYaHd7DLGPeWeyg8Jr1leHRuA2FlbQEwAGFkaWQBqzbpcZ2KvHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR7AwWXGCb8uzPT0KJ7_5j0QZRCX9xfJFiGWUOV1-Q7JROEoT4TnneHXbEzyeg_aem_5a9Xj6k5yQXayKk_LgCVTA&utm_source=fb&utm_id=120250191280260060_v2_s03&utm_term=120250191280260060"
+      }
+    },
+    {
+      "id": "SEvUGbUfHzFx7VzA38Su",
+      "phoneLabel": null,
+      "country": "US",
+      "address": null,
+      "source": "facebook",
+      "type": "lead",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "website": null,
+      "dnd": false,
+      "state": null,
+      "businessName": null,
+      "customFields": [
+        {
+          "id": "dkhU1aP5gTQyJEEtEDHC",
+          "value": "I don't have enough leads"
+        },
+        {
+          "id": "hpyxlLQ46IIXVDdih5TT",
+          "value": "Some good months, some dead ones"
+        },
+        {
+          "id": "miaO1fjhGZIFGn9Erg7t",
+          "value": "Will Surgical Arts"
+        },
+        {
+          "id": "pUrwusNqMhW6HTNcQdF6",
+          "value": "Hit or miss"
+        },
+        {
+          "id": "un5wc8d1TCM8DLvctnAD",
+          "value": "20+"
+        },
+        {
+          "id": "0TMDaX28baH1HFuvgqQL",
+          "value": "tie__vsl_2026__lead__tof__080526"
+        },
+        {
+          "id": "2F5L20ZQotpme72wDiUm",
+          "value": "GA1.1.1173172197.1786817197"
+        },
+        {
+          "id": "5efeLnl1vEZ4mnUcuyiW",
+          "value": "https://facebook.com"
+        },
+        {
+          "id": "8NymIPoQlOANae5evfTo",
+          "value": "120250452888700060"
+        },
+        {
+          "id": "95aOAwBhY778PuK127iG",
+          "value": "IwcGRvZgFmZGlkFlDIMWOXHZgBfjqWwGu2CJXxNvPeYV9leHRuA2FlbQEwAGFkaWQBqzcnv8ycvHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR5qAY1zBxQVaKCa5w8QqalGIVe220_yiHEqYuojfWO1tPb5slN51AIa3j7wVw_aem_0vQy_EiDvhG5SwD4HfTj6w"
+        },
+        {
+          "id": "99T8Lary3O0eJ7RV8RMr",
+          "value": "fb"
+        },
+        {
+          "id": "BEhuU20baeEEGcoiHlQI",
+          "value": "120250452888700060"
+        },
+        {
+          "id": "BhtCH1z4T0IXsUBk10PA",
+          "value": "Tie__vsl_2026__lead__tof__080526"
+        },
+        {
+          "id": "EbBlEyRgtrHrEsSiHo4z",
+          "value": "Tie__vsl_2026__lead__tof__080526"
+        },
+        {
+          "id": "FHOIEE78GmyueDOf4jKe",
+          "value": "https://facebook.com"
+        },
+        {
+          "id": "GhnwhpANDL5xYTHvsf5L",
+          "value": "120250346942870060"
+        },
+        {
+          "id": "IUSpcfKHFzSJZVS3cJkb",
+          "value": "VSL Teaser - trimmed - 9x16____angle_vsl_2026__032726 - Copy"
+        },
+        {
+          "id": "PDUjg8Yoo8N5MGhw5GUG",
+          "value": "120250452888700060"
+        },
+        {
+          "id": "PXzF3Qod6brdZLC1tRiR",
+          "value": "GA1.1.1173172197.1786817197"
+        },
+        {
+          "id": "SEcCAtbZ9zzUoJ6g9Wct",
+          "value": "vsl__LLA__Dentists__images__lead__cwh__081026"
+        },
+        {
+          "id": "SXl7nQQ56IRmGdlUk0jA",
+          "value": "Social media"
+        },
+        {
+          "id": "TmIbipPKmOTfjC2zwpx3",
+          "value": "IwcGRvZgFmZGlkFlDIMWOXHZgBfjqWwGu2CJXxNvPeYV9leHRuA2FlbQEwAGFkaWQBqzcnv8ycvHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR5qAY1zBxQVaKCa5w8QqalGIVe220_yiHEqYuojfWO1tPb5slN51AIa3j7wVw_aem_0vQy_EiDvhG5SwD4HfTj6w"
+        },
+        {
+          "id": "U5ZBWkkjASjje237GQNI",
+          "value": "https://demo.theimplantengine.com/lp-vsl-b?utm_medium=vsl__LLA__Dentists__images__lead__cwh__081026&utm_campaign=tie__vsl_2026__lead__tof__080526&utm_content=VSL+Teaser+-+trimmed+-+9x16____angle_vsl_2026__032726+-+Copy&campaign_id=120250346942870060&ad_group_id=120250452888700060&ad_id=120250452888800060&fbclid=IwcGRvZgFmZGlkFlDIMWOXHZgBfjqWwGu2CJXxNvPeYV9leHRuA2FlbQEwAGFkaWQBqzcnv8ycvHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR5qAY1zBxQVaKCa5w8QqalGIVe220_yiHEqYuojfWO1tPb5slN51AIa3j7wVw_aem_0vQy_EiDvhG5SwD4HfTj6w&utm_source=fb&utm_id=120250452888700060_v2_s08_e7736&utm_term=120250452888700060"
+        },
+        {
+          "id": "UVzXKSFkSgcOpD1oW6Tv",
+          "value": "tie__vsl_2026__lead__tof__080526"
+        },
+        {
+          "id": "WuBg5PACmmRzi5OBQq4j",
+          "value": "VSL Teaser - trimmed - 9x16____angle_vsl_2026__032726 - Copy"
+        },
+        {
+          "id": "X4SAHwW4j0ptgLYsopES",
+          "value": "Social media"
+        },
+        {
+          "id": "aEIngOYdRVc7EXIkXP4D",
+          "value": "120250452888700060"
+        },
+        {
+          "id": "cibbwAH7ENrZustRHi21",
+          "value": "https://demo.theimplantengine.com/lp-vsl-b?utm_medium=vsl__LLA__Dentists__images__lead__cwh__081026&utm_campaign=tie__vsl_2026__lead__tof__080526&utm_content=VSL+Teaser+-+trimmed+-+9x16____angle_vsl_2026__032726+-+Copy&campaign_id=120250346942870060&ad_group_id=120250452888700060&ad_id=120250452888800060&fbclid=IwcGRvZgFmZGlkFlDIMWOXHZgBfjqWwGu2CJXxNvPeYV9leHRuA2FlbQEwAGFkaWQBqzcnv8ycvHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR5qAY1zBxQVaKCa5w8QqalGIVe220_yiHEqYuojfWO1tPb5slN51AIa3j7wVw_aem_0vQy_EiDvhG5SwD4HfTj6w&utm_source=fb&utm_id=120250452888700060_v2_s08_e7736&utm_term=120250452888700060"
+        },
+        {
+          "id": "oI9wTYiQByScLSPOzi7E",
+          "value": "fb"
+        },
+        {
+          "id": "sNtYKW0KJK24wVy7rM2j",
+          "value": "120250346942870060"
+        },
+        {
+          "id": "srEqQ3BBJ7ntnj6ihe5C",
+          "value": "120250452888800060"
+        },
+        {
+          "id": "uqJGabIylbNXHUj6L0ew",
+          "value": "120250452888800060"
+        },
+        {
+          "id": "v3UQTznH52fc3qLpsXSU",
+          "value": "vsl__LLA__Dentists__images__lead__cwh__081026"
+        },
+        {
+          "id": "xJHccRKfJdis1OUtJuTA",
+          "value": "VSL Teaser - trimmed - 9x16____angle_vsl_2026__032726 - Copy"
+        },
+        {
+          "id": "yNN749xwndr3J0gt5nYe",
+          "value": "120250452888700060"
+        },
+        {
+          "id": "3HhsGAjnFcsleaCVmcoY",
+          "value": "facebook"
+        },
+        {
+          "id": "0TIQzoCDQ38Q6XwSDlwi",
+          "value": "I am a dentist"
+        },
+        {
+          "id": "e5dtV5vhjLLGpdkyjXWd",
+          "value": "None of the above"
+        },
+        {
+          "id": "fp8F8SswCkwHIh3ThRUs",
+          "value": "6-10"
+        }
+      ],
+      "tags": [
+        "custom role",
+        "vsl-sms-sent",
+        "paid",
+        "facebook",
+        "funnel",
+        "contacted"
+      ],
+      "dateAdded": "2026-08-15T18:08:41.383Z",
+      "additionalEmails": [],
+      "phone": "+13014521405",
+      "companyName": null,
+      "additionalPhones": [],
+      "dateUpdated": "2026-08-17T19:32:11.798Z",
+      "city": null,
+      "dateOfBirth": null,
+      "firstNameLowerCase": "brian",
+      "lastNameLowerCase": "will",
+      "firstName": "Brian",
+      "lastName": "Will",
+      "contactName": "brian will",
+      "email": "drbrianwill@willsurgicalarts.com",
+      "assignedTo": "l3yZMOcJLNBTaynbCNU7",
+      "followers": [],
+      "validEmail": true,
+      "dndSettings": {},
+      "opportunities": [
+        {
+          "pipelineId": "iv0V9Sacl6njcBsOpZSg",
+          "id": "lQg6g1uwf71wufq7ByLv",
+          "monetaryValue": 4000,
+          "pipelineStageId": "328cac35-037c-4805-a6c7-3b5d84e36650",
+          "status": "open"
+        }
+      ],
+      "postalCode": null,
+      "businessId": null,
+      "searchAfter": [
+        1786817321383,
+        "SEvUGbUfHzFx7VzA38Su"
+      ],
+      "timezone": "America/New_York",
+      "inboundDndSettings": {},
+      "attributionSource": {
+        "utmSource": "fb",
+        "utmKeyword": "120250452888700060",
+        "utmTerm": "120250452888700060",
+        "sessionSource": "Social media",
+        "medium": "survey",
+        "mediumId": "1vjy9oLb0A7d3BCoEn2m",
+        "campaign": "Tie__vsl_2026__lead__tof__080526",
+        "utmMedium": "vsl__LLA__Dentists__images__lead__cwh__081026",
+        "utmContent": "VSL Teaser - trimmed - 9x16____angle_vsl_2026__032726 - Copy",
+        "fbclid": "IwcGRvZgFmZGlkFlDIMWOXHZgBfjqWwGu2CJXxNvPeYV9leHRuA2FlbQEwAGFkaWQBqzcnv8ycvHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR5qAY1zBxQVaKCa5w8QqalGIVe220_yiHEqYuojfWO1tPb5slN51AIa3j7wVw_aem_0vQy_EiDvhG5SwD4HfTj6w",
+        "campaignId": "120250346942870060",
+        "adId": "120250452888800060",
+        "adGroupId": "120250452888700060",
+        "referrer": "https://facebook.com",
+        "fbc": "fb.1.1786817197137.IwcGRvZgFmZGlkFlDIMWOXHZgBfjqWwGu2CJXxNvPeYV9leHRuA2FlbQEwAGFkaWQBqzcnv8ycvHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR5qAY1zBxQVaKCa5w8QqalGIVe220_yiHEqYuojfWO1tPb5slN51AIa3j7wVw_aem_0vQy_EiDvhG5SwD4HfTj6w",
+        "fbp": "fb.1.1786817196615.1961282625",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23G71 Safari/604.1 [FBAN/FBIOS;FBAV/573.0.0.47.73;FBBV/1032158285;FBDV/iPhone17,2;FBMD/iPhone;FBSN/iOS;FBSV/26.6;FBSS/3;FBID/phone;FBLC/en_US;FBOP/5;FBRV/1040944914;IABMV/1]",
+        "ip": "2600:1003:b0f2:4e6a:fd1d:30d5:81c6:fd80",
+        "gaClientId": "GA1.1.1173172197.1786817197",
+        "url": "https://demo.theimplantengine.com/lp-vsl-b?utm_medium=vsl__LLA__Dentists__images__lead__cwh__081026&utm_campaign=tie__vsl_2026__lead__tof__080526&utm_content=VSL+Teaser+-+trimmed+-+9x16____angle_vsl_2026__032726+-+Copy&campaign_id=120250346942870060&ad_group_id=120250452888700060&ad_id=120250452888800060&fbclid=IwcGRvZgFmZGlkFlDIMWOXHZgBfjqWwGu2CJXxNvPeYV9leHRuA2FlbQEwAGFkaWQBqzcnv8ycvHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR5qAY1zBxQVaKCa5w8QqalGIVe220_yiHEqYuojfWO1tPb5slN51AIa3j7wVw_aem_0vQy_EiDvhG5SwD4HfTj6w&utm_source=fb&utm_id=120250452888700060_v2_s08_e7736&utm_term=120250452888700060"
+      },
+      "lastAttributionSource": {
+        "sessionSource": "Direct traffic",
+        "medium": "calendar",
+        "mediumId": "o7UCzGGqAJR6HDnhra2v",
+        "fbp": "fb.1.1786817377452.1424984841",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Mobile/15E148 Safari/604.1",
+        "ip": "2601:18e:c100:89a0:415f:7241:c4ee:1933",
+        "gaClientId": "GA1.1.2010672763.1786817378",
+        "url": "https://schedule.theimplantengine.com/widget/bookings/jessica-disco"
+      }
+    },
+    {
+      "id": "a38QAtAYHDVaX9dREXyg",
+      "phoneLabel": null,
+      "country": "US",
+      "address": null,
+      "source": "facebook",
+      "type": "lead",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "website": null,
+      "dnd": true,
+      "state": null,
+      "businessName": null,
+      "customFields": [
+        {
+          "id": "dkhU1aP5gTQyJEEtEDHC",
+          "value": "The leads don't show up"
+        },
+        {
+          "id": "hpyxlLQ46IIXVDdih5TT",
+          "value": "Pretty consistent"
+        },
+        {
+          "id": "miaO1fjhGZIFGn9Erg7t",
+          "value": "Paulparenti47@gmail.c"
+        },
+        {
+          "id": "pUrwusNqMhW6HTNcQdF6",
+          "value": "I've been burned before"
+        },
+        {
+          "id": "un5wc8d1TCM8DLvctnAD",
+          "value": "1-5"
+        },
+        {
+          "id": "0TMDaX28baH1HFuvgqQL",
+          "value": "tie__vsl_2026__lead__tof__080526"
+        },
+        {
+          "id": "2F5L20ZQotpme72wDiUm",
+          "value": "GA1.1.981970063.1786739837"
+        },
+        {
+          "id": "5efeLnl1vEZ4mnUcuyiW",
+          "value": "http://m.facebook.com"
+        },
+        {
+          "id": "8NymIPoQlOANae5evfTo",
+          "value": "120250452888700060"
+        },
+        {
+          "id": "95aOAwBhY778PuK127iG",
+          "value": "IwcGRvZgVleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHriTq3AEYhLFDZXOc6cNOQujhSNQs0dGciUZcl1hz788phkvY3y3j36ERKda_aem_SVGOvlhmc50mDeP8Q6D65Q"
+        },
+        {
+          "id": "99T8Lary3O0eJ7RV8RMr",
+          "value": "fb"
+        },
+        {
+          "id": "BEhuU20baeEEGcoiHlQI",
+          "value": "120250452888700060"
+        },
+        {
+          "id": "BhtCH1z4T0IXsUBk10PA",
+          "value": "Tie__vsl_2026__lead__tof__080526"
+        },
+        {
+          "id": "EbBlEyRgtrHrEsSiHo4z",
+          "value": "Tie__vsl_2026__lead__tof__080526"
+        },
+        {
+          "id": "FHOIEE78GmyueDOf4jKe",
+          "value": "http://m.facebook.com"
+        },
+        {
+          "id": "GhnwhpANDL5xYTHvsf5L",
+          "value": "120250346942870060"
+        },
+        {
+          "id": "IUSpcfKHFzSJZVS3cJkb",
+          "value": "Carousel_jam__VSL teaser 2__angle_custom_by_jam__081026"
+        },
+        {
+          "id": "PDUjg8Yoo8N5MGhw5GUG",
+          "value": "120250452888700060"
+        },
+        {
+          "id": "PXzF3Qod6brdZLC1tRiR",
+          "value": "GA1.1.981970063.1786739837"
+        },
+        {
+          "id": "SEcCAtbZ9zzUoJ6g9Wct",
+          "value": "vsl__LLA__Dentists__images__lead__cwh__081026"
+        },
+        {
+          "id": "SXl7nQQ56IRmGdlUk0jA",
+          "value": "Social media"
+        },
+        {
+          "id": "TmIbipPKmOTfjC2zwpx3",
+          "value": "IwcGRvZgVleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHriTq3AEYhLFDZXOc6cNOQujhSNQs0dGciUZcl1hz788phkvY3y3j36ERKda_aem_SVGOvlhmc50mDeP8Q6D65Q"
+        },
+        {
+          "id": "U5ZBWkkjASjje237GQNI",
+          "value": "https://demo.theimplantengine.com/lp-vsl-a?utm_medium=vsl__LLA__Dentists__images__lead__cwh__081026&utm_campaign=tie__vsl_2026__lead__tof__080526&utm_content=Carousel_jam__VSL+teaser+2__angle_custom_by_jam__081026&campaign_id=120250346942870060&ad_group_id=120250452888700060&ad_id=120250453005870060&fbclid=IwcGRvZgVleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHriTq3AEYhLFDZXOc6cNOQujhSNQs0dGciUZcl1hz788phkvY3y3j36ERKda_aem_SVGOvlhmc50mDeP8Q6D65Q&utm_source=fb&utm_id=120250452888700060_v2_s07_e7735&utm_term=120250452888700060"
+        },
+        {
+          "id": "UVzXKSFkSgcOpD1oW6Tv",
+          "value": "tie__vsl_2026__lead__tof__080526"
+        },
+        {
+          "id": "WuBg5PACmmRzi5OBQq4j",
+          "value": "Carousel_jam__VSL teaser 2__angle_custom_by_jam__081026"
+        },
+        {
+          "id": "X4SAHwW4j0ptgLYsopES",
+          "value": "Social media"
+        },
+        {
+          "id": "aEIngOYdRVc7EXIkXP4D",
+          "value": "120250452888700060"
+        },
+        {
+          "id": "cibbwAH7ENrZustRHi21",
+          "value": "https://demo.theimplantengine.com/lp-vsl-a?utm_medium=vsl__LLA__Dentists__images__lead__cwh__081026&utm_campaign=tie__vsl_2026__lead__tof__080526&utm_content=Carousel_jam__VSL+teaser+2__angle_custom_by_jam__081026&campaign_id=120250346942870060&ad_group_id=120250452888700060&ad_id=120250453005870060&fbclid=IwcGRvZgVleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHriTq3AEYhLFDZXOc6cNOQujhSNQs0dGciUZcl1hz788phkvY3y3j36ERKda_aem_SVGOvlhmc50mDeP8Q6D65Q&utm_source=fb&utm_id=120250452888700060_v2_s07_e7735&utm_term=120250452888700060"
+        },
+        {
+          "id": "oI9wTYiQByScLSPOzi7E",
+          "value": "fb"
+        },
+        {
+          "id": "sNtYKW0KJK24wVy7rM2j",
+          "value": "120250346942870060"
+        },
+        {
+          "id": "srEqQ3BBJ7ntnj6ihe5C",
+          "value": "120250453005870060"
+        },
+        {
+          "id": "uqJGabIylbNXHUj6L0ew",
+          "value": "120250453005870060"
+        },
+        {
+          "id": "v3UQTznH52fc3qLpsXSU",
+          "value": "vsl__LLA__Dentists__images__lead__cwh__081026"
+        },
+        {
+          "id": "xJHccRKfJdis1OUtJuTA",
+          "value": "Carousel_jam__VSL teaser 2__angle_custom_by_jam__081026"
+        },
+        {
+          "id": "yNN749xwndr3J0gt5nYe",
+          "value": "120250452888700060"
+        },
+        {
+          "id": "3HhsGAjnFcsleaCVmcoY",
+          "value": "facebook"
+        }
+      ],
+      "tags": [
+        "vsl-sms-sent",
+        "custom role",
+        "paid",
+        "facebook",
+        "funnel",
+        "junk lead",
+        "junk-confirmed"
+      ],
+      "dateAdded": "2026-08-14T20:44:10.965Z",
+      "additionalEmails": [],
+      "phone": "+16516524631",
+      "companyName": null,
+      "additionalPhones": [],
+      "dateUpdated": "2026-08-17T22:15:53.779Z",
+      "city": null,
+      "dateOfBirth": null,
+      "firstNameLowerCase": "paul",
+      "lastNameLowerCase": "parenti",
+      "firstName": "Paul",
+      "lastName": "Parenti",
+      "contactName": "paul parenti",
+      "email": "paulparenti47@gmail.com",
+      "assignedTo": null,
+      "followers": [],
+      "validEmail": null,
+      "dndSettings": {
+        "SMS": {
+          "message": "Updated from workflow_f6fc0c8b-e38d-4e01-a123-3f7b577a9796",
+          "status": "active"
+        },
+        "Call": {
+          "message": "Updated from workflow_f6fc0c8b-e38d-4e01-a123-3f7b577a9796",
+          "status": "active"
+        },
+        "Email": {
+          "message": "Updated from workflow_f6fc0c8b-e38d-4e01-a123-3f7b577a9796",
+          "status": "active"
+        },
+        "FB": {
+          "message": "Updated from workflow_f6fc0c8b-e38d-4e01-a123-3f7b577a9796",
+          "status": "active"
+        },
+        "GMB": {
+          "message": "Updated from workflow_f6fc0c8b-e38d-4e01-a123-3f7b577a9796",
+          "status": "active"
+        },
+        "WhatsApp": {
+          "message": "Updated from workflow_f6fc0c8b-e38d-4e01-a123-3f7b577a9796",
+          "status": "active"
+        }
+      },
+      "opportunities": [
+        {
+          "pipelineId": "iv0V9Sacl6njcBsOpZSg",
+          "id": "JT8lHtSrFVIV1Z2HHuMR",
+          "monetaryValue": 0,
+          "pipelineStageId": "4aef6c88-618d-4244-9086-dc4a242e04eb",
+          "status": "lost"
+        }
+      ],
+      "postalCode": null,
+      "businessId": null,
+      "searchAfter": [
+        1786740250965,
+        "a38QAtAYHDVaX9dREXyg"
+      ],
+      "timezone": "America/Chicago",
+      "inboundDndSettings": {},
+      "attributionSource": {
+        "utmSource": "fb",
+        "utmKeyword": "120250452888700060",
+        "utmTerm": "120250452888700060",
+        "sessionSource": "Social media",
+        "medium": "survey",
+        "mediumId": "1vjy9oLb0A7d3BCoEn2m",
+        "campaign": "Tie__vsl_2026__lead__tof__080526",
+        "utmMedium": "vsl__LLA__Dentists__images__lead__cwh__081026",
+        "utmContent": "Carousel_jam__VSL teaser 2__angle_custom_by_jam__081026",
+        "fbclid": "IwcGRvZgVleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHriTq3AEYhLFDZXOc6cNOQujhSNQs0dGciUZcl1hz788phkvY3y3j36ERKda_aem_SVGOvlhmc50mDeP8Q6D65Q",
+        "campaignId": "120250346942870060",
+        "adId": "120250453005870060",
+        "adGroupId": "120250452888700060",
+        "referrer": "http://m.facebook.com",
+        "fbc": "fb.1.1786739837151.IwcGRvZgVleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHriTq3AEYhLFDZXOc6cNOQujhSNQs0dGciUZcl1hz788phkvY3y3j36ERKda_aem_SVGOvlhmc50mDeP8Q6D65Q",
+        "fbp": "fb.1.1786739835971.4468896663",
+        "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S166V Build/BP4A.251205.006) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/150.0.7871.94 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/569.0.0.42.72;IABMV/1;]",
+        "ip": "2600:1014:b08a:7266:0:1a:9445:cc01",
+        "gaClientId": "GA1.1.981970063.1786739837",
+        "url": "https://demo.theimplantengine.com/lp-vsl-a?utm_medium=vsl__LLA__Dentists__images__lead__cwh__081026&utm_campaign=tie__vsl_2026__lead__tof__080526&utm_content=Carousel_jam__VSL+teaser+2__angle_custom_by_jam__081026&campaign_id=120250346942870060&ad_group_id=120250452888700060&ad_id=120250453005870060&fbclid=IwcGRvZgVleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHriTq3AEYhLFDZXOc6cNOQujhSNQs0dGciUZcl1hz788phkvY3y3j36ERKda_aem_SVGOvlhmc50mDeP8Q6D65Q&utm_source=fb&utm_id=120250452888700060_v2_s07_e7735&utm_term=120250452888700060"
+      },
+      "lastAttributionSource": {
+        "utmSource": "fb",
+        "utmTerm": "120250452888700060",
+        "sessionSource": "Social media",
+        "medium": "survey",
+        "mediumId": "1vjy9oLb0A7d3BCoEn2m",
+        "campaign": "tie__vsl_2026__lead__tof__080526",
+        "utmMedium": "vsl__LLA__Dentists__images__lead__cwh__081026",
+        "utmContent": "Carousel_jam__VSL teaser 2__angle_custom_by_jam__081026",
+        "fbclid": "IwcGRvZgVleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHriTq3AEYhLFDZXOc6cNOQujhSNQs0dGciUZcl1hz788phkvY3y3j36ERKda_aem_SVGOvlhmc50mDeP8Q6D65Q",
+        "campaignId": "120250346942870060",
+        "adId": "120250453005870060",
+        "adGroupId": "120250452888700060",
+        "referrer": "http://m.facebook.com",
+        "fbc": "fb.1.1786739837151.IwcGRvZgVleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHriTq3AEYhLFDZXOc6cNOQujhSNQs0dGciUZcl1hz788phkvY3y3j36ERKda_aem_SVGOvlhmc50mDeP8Q6D65Q",
+        "fbp": "fb.1.1786739835971.4468896663",
+        "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S166V Build/BP4A.251205.006) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/150.0.7871.94 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/569.0.0.42.72;IABMV/1;]",
+        "ip": "2600:1014:b08a:7266:0:1a:9445:cc01",
+        "gaClientId": "GA1.1.981970063.1786739837",
+        "url": "https://demo.theimplantengine.com/lp-vsl-a?utm_medium=vsl__LLA__Dentists__images__lead__cwh__081026&utm_campaign=tie__vsl_2026__lead__tof__080526&utm_content=Carousel_jam__VSL+teaser+2__angle_custom_by_jam__081026&campaign_id=120250346942870060&ad_group_id=120250452888700060&ad_id=120250453005870060&fbclid=IwcGRvZgVleHRuA2FlbQEwAGFkaWQBqzcnv8VJvHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHriTq3AEYhLFDZXOc6cNOQujhSNQs0dGciUZcl1hz788phkvY3y3j36ERKda_aem_SVGOvlhmc50mDeP8Q6D65Q&utm_source=fb&utm_id=120250452888700060_v2_s07_e7735&utm_term=120250452888700060"
+      }
+    }
+  ],
+  "total": 576,
+  "traceId": "e74b0e00-969d-4edf-a4f9-ac6c5e2697d9"
+}

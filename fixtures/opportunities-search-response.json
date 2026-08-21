@@ -1,0 +1,296 @@
+{
+  "opportunities": [
+    {
+      "id": "XrQXivZ2qs39qS27jfBK",
+      "name": "Ggfg Fgfgfg",
+      "monetaryValue": 0,
+      "pipelineId": "iv0V9Sacl6njcBsOpZSg",
+      "pipelineStageId": "4aef6c88-618d-4244-9086-dc4a242e04eb",
+      "pipelineStageUId": "4aef6c88-618d-4244-9086-dc4a242e04eb",
+      "assignedTo": null,
+      "status": "lost",
+      "source": "VSL (4/9) - B \"Split test\"",
+      "lastStatusChangeAt": "2026-08-18T22:56:35.805Z",
+      "lastStageChangeAt": "2026-08-18T22:56:33.226Z",
+      "createdAt": "2026-08-18T22:54:13.331Z",
+      "updatedAt": "2026-08-18T22:56:35.956Z",
+      "forecastProbability": null,
+      "effectiveProbability": 0,
+      "contactId": "FbNpK2LDlcY6OYTiaYtJ",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "customFields": [
+        {
+          "id": "BFTP9zLCUXqJWzPb8wdU",
+          "fieldValueDate": 1787011200000,
+          "type": "date"
+        }
+      ],
+      "lostReasonId": null,
+      "followers": [],
+      "relations": [
+        {
+          "associationId": "OPPORTUNITIES_CONTACTS_ASSOCIATION",
+          "relationId": "XrQXivZ2qs39qS27jfBK",
+          "primary": true,
+          "objectKey": "contact",
+          "recordId": "FbNpK2LDlcY6OYTiaYtJ",
+          "fullName": "ggfg fgfgfg",
+          "contactName": "ggfg fgfgfg",
+          "companyName": null,
+          "email": "tgtgtg@ghghg.vom",
+          "phone": "+543445554545",
+          "tags": [
+            "custom role",
+            "vsl-sms-sent",
+            "funnel",
+            "junk lead",
+            "junk-confirmed"
+          ],
+          "attributed": true
+        }
+      ],
+      "contact": {
+        "id": "FbNpK2LDlcY6OYTiaYtJ",
+        "name": "ggfg fgfgfg",
+        "companyName": null,
+        "email": "tgtgtg@ghghg.vom",
+        "phone": "+543445554545",
+        "tags": [
+          "custom role",
+          "vsl-sms-sent",
+          "funnel",
+          "junk lead",
+          "junk-confirmed"
+        ],
+        "score": []
+      },
+      "sort": [
+        1787093653331,
+        "XrQXivZ2qs39qS27jfBK"
+      ],
+      "attributions": [
+        {
+          "pageUrl": "https://demo.theimplantengine.com/lp-vsl-a?fbclid=IwY2xjawTxvihwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMVpRREJiZndJc29lZGt0MUdzcnRjBmFwcF9pZA81NDE2Mzk0OTM4ODkwMjUAAR4OO_7O4Usmerf9jcuq0jjWdmJ7wKfJclewA92nCA7Rymhno_epGzDhS7RJ8A_aem_OZkK21HbHVZWzXWUe5Ishg&fbclid=IwY2xjawTxvihwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMVpRREJiZndJc29lZGt0MUdzcnRjBmFwcF9pZA81NDE2Mzk0OTM4ODkwMjUAAR4OO_7O4Usmerf9jcuq0jjWdmJ7wKfJclewA92nCA7Rymhno_epGzDhS7RJ8A_aem_OZkK21HbHVZWzXWUe5Ishg",
+          "utmSessionSource": "Social media",
+          "fbc": "fb.1.1787092715192.IwY2xjawTxvihwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMVpRREJiZndJc29lZGt0MUdzcnRjBmFwcF9pZA81NDE2Mzk0OTM4ODkwMjUAAR4OO_7O4Usmerf9jcuq0jjWdmJ7wKfJclewA92nCA7Rymhno_epGzDhS7RJ8A_aem_OZkK21HbHVZWzXWUe5Ishg",
+          "ip": "190.245.180.149",
+          "isFirst": true,
+          "medium": "survey",
+          "gaClientId": "GA1.1.1826372558.1787092715",
+          "url": "https://demo.theimplantengine.com/lp-vsl-a",
+          "referrer": "https://l.facebook.com",
+          "utmFbclid": "IwY2xjawTxvihwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMVpRREJiZndJc29lZGt0MUdzcnRjBmFwcF9pZA81NDE2Mzk0OTM4ODkwMjUAAR4OO_7O4Usmerf9jcuq0jjWdmJ7wKfJclewA92nCA7Rymhno_epGzDhS7RJ8A_aem_OZkK21HbHVZWzXWUe5Ishg",
+          "fbp": "fb.1.1787092714507.1316595651",
+          "mediumId": "1vjy9oLb0A7d3BCoEn2m",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        },
+        {
+          "pageUrl": "https://demo.theimplantengine.com/lp-vsl-a?fbclid=IwY2xjawTxvihwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMVpRREJiZndJc29lZGt0MUdzcnRjBmFwcF9pZA81NDE2Mzk0OTM4ODkwMjUAAR4OO_7O4Usmerf9jcuq0jjWdmJ7wKfJclewA92nCA7Rymhno_epGzDhS7RJ8A_aem_OZkK21HbHVZWzXWUe5Ishg&fbclid=IwY2xjawTxvihwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMVpRREJiZndJc29lZGt0MUdzcnRjBmFwcF9pZA81NDE2Mzk0OTM4ODkwMjUAAR4OO_7O4Usmerf9jcuq0jjWdmJ7wKfJclewA92nCA7Rymhno_epGzDhS7RJ8A_aem_OZkK21HbHVZWzXWUe5Ishg",
+          "utmSessionSource": "Social media",
+          "fbc": "fb.1.1787092715192.IwY2xjawTxvihwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMVpRREJiZndJc29lZGt0MUdzcnRjBmFwcF9pZA81NDE2Mzk0OTM4ODkwMjUAAR4OO_7O4Usmerf9jcuq0jjWdmJ7wKfJclewA92nCA7Rymhno_epGzDhS7RJ8A_aem_OZkK21HbHVZWzXWUe5Ishg",
+          "ip": "190.245.180.149",
+          "medium": "survey",
+          "gaClientId": "GA1.1.1826372558.1787092715",
+          "url": "https://demo.theimplantengine.com/lp-vsl-a",
+          "referrer": "https://l.facebook.com",
+          "isLast": true,
+          "utmFbclid": "IwY2xjawTxvihwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMVpRREJiZndJc29lZGt0MUdzcnRjBmFwcF9pZA81NDE2Mzk0OTM4ODkwMjUAAR4OO_7O4Usmerf9jcuq0jjWdmJ7wKfJclewA92nCA7Rymhno_epGzDhS7RJ8A_aem_OZkK21HbHVZWzXWUe5Ishg",
+          "fbp": "fb.1.1787092714507.1316595651",
+          "mediumId": "1vjy9oLb0A7d3BCoEn2m",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      ]
+    }
+  ],
+  "topRelations": [
+    {
+      "recordId": "XrQXivZ2qs39qS27jfBK",
+      "totalRelations": 0,
+      "associations": []
+    }
+  ],
+  "total": 52,
+  "stageAggregations": [
+    {
+      "pipelineStageId": "179c93aa-5fa6-46fb-ab53-2debf81c607b",
+      "totalCount": 0,
+      "totalValue": 0,
+      "weightedValue": 0,
+      "openValue": 0,
+      "openWeightedValue": 0,
+      "wonValue": 0
+    },
+    {
+      "pipelineStageId": "ce99d09a-d62a-44b2-9bd0-03d8bb8014c4",
+      "totalCount": 1,
+      "totalValue": 4000,
+      "weightedValue": 380.8,
+      "openValue": 4000,
+      "openWeightedValue": 380.8,
+      "wonValue": 0
+    },
+    {
+      "pipelineStageId": "328cac35-037c-4805-a6c7-3b5d84e36650",
+      "totalCount": 7,
+      "totalValue": 28000,
+      "weightedValue": 4001.2,
+      "openValue": 28000,
+      "openWeightedValue": 4001.2,
+      "wonValue": 0
+    },
+    {
+      "pipelineStageId": "3161a188-53cc-47d0-b2af-b8b6519b50d9",
+      "totalCount": 3,
+      "totalValue": 8000,
+      "weightedValue": 1524,
+      "openValue": 8000,
+      "openWeightedValue": 1524,
+      "wonValue": 0
+    },
+    {
+      "pipelineStageId": "4ba82c05-af7b-45ba-9df2-e89e90637546",
+      "totalCount": 2,
+      "totalValue": 0,
+      "weightedValue": 0,
+      "openValue": 0,
+      "openWeightedValue": 0,
+      "wonValue": 0
+    },
+    {
+      "pipelineStageId": "a942a319-6795-4e6d-bfb3-24df3a3552ff",
+      "totalCount": 3,
+      "totalValue": 0,
+      "weightedValue": 0,
+      "openValue": 0,
+      "openWeightedValue": 0,
+      "wonValue": 0
+    },
+    {
+      "pipelineStageId": "a31558fd-aff3-4b09-b1ff-bee6aba37537",
+      "totalCount": 1,
+      "totalValue": 0,
+      "weightedValue": 0,
+      "openValue": 0,
+      "openWeightedValue": 0,
+      "wonValue": 0
+    },
+    {
+      "pipelineStageId": "051927e7-6dc4-4e20-82c2-90710bcf2476",
+      "totalCount": 4,
+      "totalValue": 0,
+      "weightedValue": 0,
+      "openValue": 0,
+      "openWeightedValue": 0,
+      "wonValue": 0
+    },
+    {
+      "pipelineStageId": "629c3da7-6e88-4a16-8574-c2d63a3193db",
+      "totalCount": 0,
+      "totalValue": 0,
+      "weightedValue": 0,
+      "openValue": 0,
+      "openWeightedValue": 0,
+      "wonValue": 0
+    },
+    {
+      "pipelineStageId": "e6c965e1-9de1-43fc-83f8-bb7a3fd39d81",
+      "totalCount": 2,
+      "totalValue": 0,
+      "weightedValue": 0,
+      "openValue": 0,
+      "openWeightedValue": 0,
+      "wonValue": 0
+    },
+    {
+      "pipelineStageId": "3b7cee6f-2659-4641-ae03-a1333b1cb1c7",
+      "totalCount": 2,
+      "totalValue": 0,
+      "weightedValue": 0,
+      "openValue": 0,
+      "openWeightedValue": 0,
+      "wonValue": 0
+    },
+    {
+      "pipelineStageId": "070a6e0f-5f93-435c-a2f2-44c07bb9855c",
+      "totalCount": 7,
+      "totalValue": 4000,
+      "weightedValue": 2285.6,
+      "openValue": 4000,
+      "openWeightedValue": 2285.6,
+      "wonValue": 0
+    },
+    {
+      "pipelineStageId": "a817b5df-966c-4d9e-b7b3-30079938def3",
+      "totalCount": 1,
+      "totalValue": 0,
+      "weightedValue": 0,
+      "openValue": 0,
+      "openWeightedValue": 0,
+      "wonValue": 0
+    },
+    {
+      "pipelineStageId": "c6226a43-51f5-48e1-8212-08b5f9257c55",
+      "totalCount": 0,
+      "totalValue": 0,
+      "weightedValue": 0,
+      "openValue": 0,
+      "openWeightedValue": 0,
+      "wonValue": 0
+    },
+    {
+      "pipelineStageId": "6ede866f-682e-43e7-8b62-7343e53d070b",
+      "totalCount": 8,
+      "totalValue": 16000,
+      "weightedValue": 11428.8,
+      "openValue": 0,
+      "openWeightedValue": 0,
+      "wonValue": 16000
+    },
+    {
+      "pipelineStageId": "8a15dc4b-bb5c-4174-9bd8-5e57ea35f994",
+      "totalCount": 1,
+      "totalValue": 0,
+      "weightedValue": 0,
+      "openValue": 0,
+      "openWeightedValue": 0,
+      "wonValue": 0
+    },
+    {
+      "pipelineStageId": "172d3390-1728-435d-84b8-e77e526fea18",
+      "totalCount": 0,
+      "totalValue": 0,
+      "weightedValue": 0,
+      "openValue": 0,
+      "openWeightedValue": 0,
+      "wonValue": 0
+    },
+    {
+      "pipelineStageId": "b6ac276f-a504-4aaa-bf32-c3c9b9df6aac",
+      "totalCount": 0,
+      "totalValue": 0,
+      "weightedValue": 0,
+      "openValue": 0,
+      "openWeightedValue": 0,
+      "wonValue": 0
+    },
+    {
+      "pipelineStageId": "e07328bd-f256-40d1-bc7e-0b8b4e261ef8",
+      "totalCount": 2,
+      "totalValue": 0,
+      "weightedValue": 0,
+      "openValue": 0,
+      "openWeightedValue": 0,
+      "wonValue": 0
+    },
+    {
+      "pipelineStageId": "4aef6c88-618d-4244-9086-dc4a242e04eb",
+      "totalCount": 8,
+      "totalValue": 0,
+      "weightedValue": 0,
+      "openValue": 0,
+      "openWeightedValue": 0,
+      "wonValue": 0
+    }
+  ],
+  "traceId": "4848960a-8fa6-4b17-bf61-c9b4f57b53fe"
+}

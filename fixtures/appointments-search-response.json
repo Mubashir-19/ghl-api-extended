@@ -1,0 +1,1607 @@
+{
+  "count": 20,
+  "appointments": [
+    {
+      "id": "ovHQPs33mQlIKJOyNu8a",
+      "commonPrimaryId": "ovHQPs33mQlIKJOyNu8a",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "calendarId": "Hii5KTq6sknHCC4HLnqM",
+      "contactId": "cOOu0ypDmsUnaKj1OF8L",
+      "assignedUserId": "l3yZMOcJLNBTaynbCNU7",
+      "assignedResources": [],
+      "userCalendarId": "CQTPE5pscSDcbwjbiI8F",
+      "calendarProviderId": "fqTO5gNwzrdF2iavTXvS",
+      "title": " Fort Dental - The Implant Engine ",
+      "address": "https://us06web.zoom.us/j/86754407363",
+      "selectedTimezone": "America/Chicago",
+      "status": "booked",
+      "appoinmentStatus": "confirmed",
+      "source": "api",
+      "channel": "web",
+      "isRecurring": false,
+      "isFree": false,
+      "isCancelled": false,
+      "isFullDay": false,
+      "local": true,
+      "deleted": false,
+      "version": 4,
+      "google": {
+        "data": {
+          "attendees": [
+            {
+              "email": "jessica@theimplantengine.com",
+              "organizer": true,
+              "responseStatus": "accepted",
+              "self": true
+            },
+            {
+              "displayName": "Chris Thorburn",
+              "email": "thorburndds@gmail.com",
+              "responseStatus": "accepted"
+            }
+          ],
+          "colorId": "7",
+          "created": "2026-08-18T21:33:08.000Z",
+          "creator": {
+            "email": "jessica@theimplantengine.com",
+            "self": true
+          },
+          "description": "\n\n==========\n\nPhone:- (830) 822-9100\nEmail:- thorburndds@gmail.com\n\nNeed to make a change to this event?\nReschedule:-\nhttps://schedule.theimplantengine.com/widget/booking/Hii5KTq6sknHCC4HLnqM?event_id=ovHQPs33mQlIKJOyNu8a\n\nCancel:-\nhttps://schedule.theimplantengine.com/widget/cancel-booking?event_id=ovHQPs33mQlIKJOyNu8a",
+          "end": {
+            "dateTime": "2026-08-19T09:15:00-06:00",
+            "timeZone": "America/Denver"
+          },
+          "etag": "\"3574177577460414\"",
+          "eventLabelId": "1849ad0a-0f0d-4005-9c06-733698f3e185",
+          "eventType": "default",
+          "extendedProperties": {
+            "private": {
+              "calendarId": "Hii5KTq6sknHCC4HLnqM",
+              "eventId": "ovHQPs33mQlIKJOyNu8a",
+              "linkedCalendarId": "2pbRnB4jGjGlTEpu8oTT",
+              "userCalendarId": "CQTPE5pscSDcbwjbiI8F",
+              "userId": "l3yZMOcJLNBTaynbCNU7"
+            }
+          },
+          "htmlLink": "https://www.google.com/calendar/event?eid=bWtxMG9lb2Zhamk2OG40bmxrNzhrNGd2OG8gamVzc2ljYUB0aGVpbXBsYW50ZW5naW5lLmNvbQ",
+          "iCalUID": "mkq0oeofaji68n4nlk78k4gv8o@google.com",
+          "id": "mkq0oeofaji68n4nlk78k4gv8o",
+          "kind": "calendar#event",
+          "location": "https://us06web.zoom.us/j/86754407363",
+          "organizer": {
+            "email": "jessica@theimplantengine.com",
+            "self": true
+          },
+          "reminders": {
+            "useDefault": true
+          },
+          "sequence": 0,
+          "start": {
+            "dateTime": "2026-08-19T08:15:00-06:00",
+            "timeZone": "America/Denver"
+          },
+          "status": "confirmed",
+          "summary": " Fort Dental - The Implant Engine ",
+          "updated": "2026-08-18T21:33:08.730Z"
+        },
+        "id": "mkq0oeofaji68n4nlk78k4gv8o"
+      },
+      "createdBy": {
+        "source": "booking_widget",
+        "timestamp": "2026-08-18T21:33:01.000Z",
+        "traceId": "b5e46477-8813-4e0f-a4ee-cc850e7a6d3c",
+        "userId": null
+      },
+      "lastUpdatedBy": {
+        "source": "booking_widget",
+        "timestamp": "2026-08-18T21:33:01.000Z",
+        "traceId": "b5e46477-8813-4e0f-a4ee-cc850e7a6d3c",
+        "userId": null
+      },
+      "appointmentMeta": {
+        "defaultFormDetails": {
+          "email": "thorburndds@gmail.com",
+          "firstName": "Chris",
+          "lastName": "Thorburn",
+          "phone": "+18308229100"
+        },
+        "slotType": "default"
+      },
+      "locationConfigurationMeta": {
+        "oauthId": "KwUjBghyqSLuKgz00Ej4",
+        "overrideLocationConfig": false,
+        "type": "zoom",
+        "externalMeetingIdV2": "86754407363"
+      },
+      "isRecurrenceEnded": false,
+      "reportingSource": {
+        "creation": "booked-by-lead",
+        "mode": null,
+        "parentId": null
+      },
+      "formSubmissionId": "99ad854e-d333-417d-bb94-15c4a08dd423",
+      "collectiveUsers": [
+        "l3yZMOcJLNBTaynbCNU7"
+      ],
+      "collectiveContacts": [
+        "cOOu0ypDmsUnaKj1OF8L"
+      ],
+      "eventMetaType": {
+        "user": "single_user",
+        "contact": "single_contact",
+        "isRecurring": false,
+        "isFullDay": false,
+        "isFree": false,
+        "isCancelled": false
+      },
+      "integrationMeta": {
+        "externalCalendarId": "CQTPE5pscSDcbwjbiI8F",
+        "altType": "google",
+        "altId": "mkq0oeofaji68n4nlk78k4gv8o",
+        "sync": {
+          "status": "success",
+          "error": null
+        },
+        "extras": {
+          "recurringEventId": null,
+          "RRule": null
+        }
+      },
+      "startTime": "2026-08-19T14:15:00.000Z",
+      "endTime": "2026-08-19T15:15:00.000Z",
+      "dateAdded": "2026-08-18T21:33:01.000Z",
+      "dateUpdated": "2026-08-18T21:33:01.000Z",
+      "groupId": "fqTO5gNwzrdF2iavTXvS",
+      "categoryId": "fqTO5gNwzrdF2iavTXvS",
+      "appointmentStatus": "confirmed",
+      "isOccupied": true,
+      "paymentMeta": {},
+      "permissionMeta": {
+        "canRead": true,
+        "canWrite": true
+      }
+    },
+    {
+      "id": "nHlBR4nRm3LzsWFQ7PEW",
+      "commonPrimaryId": "nHlBR4nRm3LzsWFQ7PEW",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "calendarId": "o7UCzGGqAJR6HDnhra2v",
+      "contactId": "jLxcQgfnqW3cBYcGPBMD",
+      "assignedUserId": "l3yZMOcJLNBTaynbCNU7",
+      "assignedResources": [],
+      "userCalendarId": "CQTPE5pscSDcbwjbiI8F",
+      "calendarProviderId": "fqTO5gNwzrdF2iavTXvS",
+      "title": " Chandler Dentistry - American Dental Companies - The Implant Engine ",
+      "address": "https://us06web.zoom.us/j/84388982601",
+      "selectedTimezone": "America/Phoenix",
+      "status": "booked",
+      "appoinmentStatus": "confirmed",
+      "source": "api",
+      "channel": "web",
+      "isRecurring": false,
+      "isFree": false,
+      "isCancelled": false,
+      "isFullDay": false,
+      "local": true,
+      "deleted": false,
+      "version": 4,
+      "google": {
+        "data": {
+          "attendees": [
+            {
+              "email": "jessica@theimplantengine.com",
+              "organizer": true,
+              "responseStatus": "accepted",
+              "self": true
+            },
+            {
+              "displayName": "Brenna Wessels",
+              "email": "brenna.wessels@ameridentco.com",
+              "responseStatus": "needsAction"
+            }
+          ],
+          "colorId": "7",
+          "created": "2026-08-17T20:11:43.000Z",
+          "creator": {
+            "email": "jessica@theimplantengine.com",
+            "self": true
+          },
+          "description": "\n\n==========\n\nLet's discover effective approaches to fuel substantial growth in dental implant procedures for your practice.\n\nMeeting Time - Wednesday, August 19, 2026 10:00 AM\n\nMeeting Location - https://us06web.zoom.us/j/84388982601\n\nName:- Brenna Wessels\nPhone:- (480) 687-5656\nEmail:- brenna.wessels@ameridentco.com\n\nNeed to make a change to this event?\nReschedule:-\nhttps://schedule.theimplantengine.com/widget/booking/o7UCzGGqAJR6HDnhra2v?event_id=nHlBR4nRm3LzsWFQ7PEW\n\nCancel:-\nhttps://schedule.theimplantengine.com/widget/cancel-booking?event_id=nHlBR4nRm3LzsWFQ7PEW",
+          "end": {
+            "dateTime": "2026-08-19T12:00:00-06:00",
+            "timeZone": "America/Denver"
+          },
+          "etag": "\"3574025823739262\"",
+          "eventLabelId": "1849ad0a-0f0d-4005-9c06-733698f3e185",
+          "eventType": "default",
+          "extendedProperties": {
+            "private": {
+              "calendarId": "o7UCzGGqAJR6HDnhra2v",
+              "eventId": "nHlBR4nRm3LzsWFQ7PEW",
+              "linkedCalendarId": "2pbRnB4jGjGlTEpu8oTT",
+              "userCalendarId": "CQTPE5pscSDcbwjbiI8F",
+              "userId": "l3yZMOcJLNBTaynbCNU7"
+            }
+          },
+          "htmlLink": "https://www.google.com/calendar/event?eid=NmlpYnNyZWI5OGlmMWEzMGJnZmNtMW52czQgamVzc2ljYUB0aGVpbXBsYW50ZW5naW5lLmNvbQ",
+          "iCalUID": "6iibsreb98if1a30bgfcm1nvs4@google.com",
+          "id": "6iibsreb98if1a30bgfcm1nvs4",
+          "kind": "calendar#event",
+          "location": "https://us06web.zoom.us/j/84388982601",
+          "organizer": {
+            "email": "jessica@theimplantengine.com",
+            "self": true
+          },
+          "reminders": {
+            "useDefault": true
+          },
+          "sequence": 2,
+          "start": {
+            "dateTime": "2026-08-19T11:00:00-06:00",
+            "timeZone": "America/Denver"
+          },
+          "status": "confirmed",
+          "summary": " Chandler Dentistry - American Dental Companies - The Implant Engine ",
+          "updated": "2026-08-18T00:28:31.869Z"
+        },
+        "id": "6iibsreb98if1a30bgfcm1nvs4"
+      },
+      "createdBy": {
+        "source": "booking_widget",
+        "timestamp": "2026-08-17T20:11:43.037Z",
+        "traceId": "8c727446-003b-4363-91c2-57c6d9edf18b",
+        "userId": null
+      },
+      "lastUpdatedBy": {
+        "channel": "web_app",
+        "source": "contactdetails_page",
+        "timestamp": "2026-08-18T00:28:30.890Z",
+        "traceId": "6d01a0d9-e197-4de5-9ef1-5119de8c9916",
+        "userId": "l3yZMOcJLNBTaynbCNU7"
+      },
+      "appointmentMeta": {
+        "defaultFormDetails": {
+          "email": "brenna.wessels@ameridentco.com",
+          "firstName": "Brenna",
+          "lastName": "Wessels",
+          "phone": "+14806875656"
+        },
+        "slotType": "default"
+      },
+      "locationConfigurationMeta": {
+        "id": "zoom_conference_0",
+        "oauthId": "KwUjBghyqSLuKgz00Ej4",
+        "overrideLocationConfig": false,
+        "type": "zoom",
+        "externalMeetingIdV2": "84388982601"
+      },
+      "isRecurrenceEnded": false,
+      "reportingSource": {
+        "creation": "booked-by-lead",
+        "mode": null,
+        "parentId": null
+      },
+      "formSubmissionId": "891661fc-3e31-4628-a99c-42071de249f7",
+      "rescheduleMeta": {
+        "channel": "web_app",
+        "originalEndTime": "2026-08-18T23:00:00.000Z",
+        "originalStartTime": "2026-08-18T22:30:00.000Z",
+        "previousEndTime": "2026-08-19T23:30:00.000Z",
+        "previousStartTime": "2026-08-19T22:30:00.000Z",
+        "rescheduledAt": "2026-08-18T00:28:09.712Z",
+        "rescheduledBy": "l3yZMOcJLNBTaynbCNU7",
+        "source": "contactdetails_page",
+        "traceId": "6d01a0d9-e197-4de5-9ef1-5119de8c9916"
+      },
+      "collectiveUsers": [
+        "l3yZMOcJLNBTaynbCNU7"
+      ],
+      "collectiveContacts": [
+        "jLxcQgfnqW3cBYcGPBMD"
+      ],
+      "eventMetaType": {
+        "user": "single_user",
+        "contact": "single_contact",
+        "isRecurring": false,
+        "isFullDay": false,
+        "isFree": false,
+        "isCancelled": false
+      },
+      "integrationMeta": {
+        "externalCalendarId": "CQTPE5pscSDcbwjbiI8F",
+        "altType": "google",
+        "altId": "6iibsreb98if1a30bgfcm1nvs4",
+        "sync": {
+          "status": "success",
+          "error": null
+        },
+        "extras": {
+          "recurringEventId": null,
+          "RRule": null
+        }
+      },
+      "startTime": "2026-08-19T17:00:00.000Z",
+      "endTime": "2026-08-19T18:00:00.000Z",
+      "dateAdded": "2026-08-17T20:11:43.000Z",
+      "dateUpdated": "2026-08-18T00:28:30.891Z",
+      "rescheduledAt": "2026-08-18T00:28:09.712Z",
+      "groupId": "fqTO5gNwzrdF2iavTXvS",
+      "categoryId": "fqTO5gNwzrdF2iavTXvS",
+      "appointmentStatus": "confirmed",
+      "isOccupied": true,
+      "paymentMeta": {},
+      "permissionMeta": {
+        "canRead": true,
+        "canWrite": true
+      }
+    },
+    {
+      "id": "xqMhjRQ7FKzRthjQybkm",
+      "commonPrimaryId": "xqMhjRQ7FKzRthjQybkm",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "calendarId": "Q6bJaYNrsA1MqiI8jQTt",
+      "contactId": "hgtdlYjtowg5AyPZDz4s",
+      "assignedUserId": "cVaCcwpDKmpnIx0mXyWN",
+      "assignedResources": [],
+      "userCalendarId": "UeTcWK1gp5WDk6T5OWZo",
+      "calendarProviderId": "fqTO5gNwzrdF2iavTXvS",
+      "title": " Restoral Dental - emerging multi-site  - The Implant Engine ",
+      "address": "https://us06web.zoom.us/j/81301002711",
+      "notes": "",
+      "selectedTimezone": "America/Chicago",
+      "status": "booked",
+      "appoinmentStatus": "confirmed",
+      "source": "api",
+      "channel": "web",
+      "type": "g",
+      "isRecurring": false,
+      "isFree": false,
+      "isCancelled": false,
+      "isFullDay": false,
+      "local": true,
+      "deleted": false,
+      "version": 4,
+      "google": {
+        "data": {
+          "attendees": [
+            {
+              "email": "chelsea@theimplantengine.com",
+              "organizer": true,
+              "responseStatus": "accepted",
+              "self": true
+            },
+            {
+              "displayName": "Mia St.Martin",
+              "email": "mstmartin@restoraldental.com",
+              "responseStatus": "accepted"
+            }
+          ],
+          "colorId": "7",
+          "created": "2026-08-07T17:32:33.000Z",
+          "creator": {
+            "email": "chelsea@theimplantengine.com",
+            "self": true
+          },
+          "description": "\n\n==========\n\nLet's discover effective approaches to fuel substantial growth in dental implant procedures for your practice. 🦷🚀\n\nMeeting Time - Wednesday, August 19, 2026 2:00 PM\n\nMeeting Location - https://us06web.zoom.us/j/81301002711\n\nName:- Mia St.Martin\nPhone:- (504) 427-1557\nEmail:- mstmartin@restoraldental.com\n\nNeed to make a change to this event?\nReschedule:-\nhttps://schedule.theimplantengine.com/widget/booking/Q6bJaYNrsA1MqiI8jQTt?event_id=xqMhjRQ7FKzRthjQybkm\n\nCancel:-\nhttps://schedule.theimplantengine.com/widget/cancel-booking?event_id=xqMhjRQ7FKzRthjQybkm\n\nNeed to reschedule? <a href=\"https://app.fyxer.com/e/chelsea-morrisey-acc/60?rescheduleEventId=ce_ac59dabc-a225-492a-83fd-fef7477b7670_7p05s0l6qd8e8i2b6aj14s62ig&utm_source=calendar&utm_medium=event_description&utm_campaign=reschedule_link\">Choose a new time</a>",
+          "end": {
+            "dateTime": "2026-08-19T13:00:00-07:00",
+            "timeZone": "America/Los_Angeles"
+          },
+          "etag": "\"3572247913289758\"",
+          "eventLabelId": "6837cb0d-5db6-4236-8c79-848ddd91cbf5",
+          "eventType": "default",
+          "extendedProperties": {
+            "private": {
+              "calendarId": "Q6bJaYNrsA1MqiI8jQTt",
+              "eventId": "xqMhjRQ7FKzRthjQybkm",
+              "linkedCalendarId": "oNi8CtiIT1IK3lpOYevv",
+              "userCalendarId": "UeTcWK1gp5WDk6T5OWZo",
+              "userId": "cVaCcwpDKmpnIx0mXyWN"
+            }
+          },
+          "htmlLink": "https://www.google.com/calendar/event?eid=N3AwNXMwbDZxZDhlOGkyYjZhajE0czYyaWcgY2hlbHNlYUB0aGVpbXBsYW50ZW5naW5lLmNvbQ",
+          "iCalUID": "7p05s0l6qd8e8i2b6aj14s62ig@google.com",
+          "id": "7p05s0l6qd8e8i2b6aj14s62ig",
+          "kind": "calendar#event",
+          "location": "https://us06web.zoom.us/j/81301002711",
+          "organizer": {
+            "email": "chelsea@theimplantengine.com",
+            "self": true
+          },
+          "reminders": {
+            "useDefault": true
+          },
+          "sequence": 0,
+          "start": {
+            "dateTime": "2026-08-19T12:00:00-07:00",
+            "timeZone": "America/Los_Angeles"
+          },
+          "status": "confirmed",
+          "summary": " Restoral Dental - emerging multi-site  - The Implant Engine ",
+          "updated": "2026-08-07T17:32:36.644Z"
+        },
+        "id": "7p05s0l6qd8e8i2b6aj14s62ig"
+      },
+      "createdBy": {
+        "source": "booking_widget",
+        "timestamp": "2026-08-07T17:32:32.815Z",
+        "traceId": "3ebfb6ef-af67-48ef-a215-3a21aa2991af",
+        "userId": null
+      },
+      "lastUpdatedBy": {
+        "channel": "event_sync",
+        "source": "google_calendar",
+        "timestamp": "2026-08-07T17:32:49.384Z",
+        "traceId": "5d8973ac-a123-4dc6-8b2d-ae498696a6ea"
+      },
+      "appointmentMeta": {
+        "defaultFormDetails": {
+          "email": "mstmartin@restoraldental.com",
+          "firstName": "Mia",
+          "lastName": "St.Martin",
+          "phone": "+15044271557"
+        },
+        "slotType": "default"
+      },
+      "locationConfigurationMeta": {
+        "oauthId": "gBqHIc4Cztxkpox0FTcJ",
+        "overrideLocationConfig": false,
+        "type": "zoom",
+        "externalMeetingIdV2": "81301002711"
+      },
+      "reportingSource": {
+        "creation": "booked-by-lead",
+        "mode": null,
+        "parentId": null
+      },
+      "formSubmissionId": "72dc0050-851a-47da-a67d-bc6d8c44896c",
+      "collectiveUsers": [
+        "cVaCcwpDKmpnIx0mXyWN"
+      ],
+      "collectiveContacts": [
+        "hgtdlYjtowg5AyPZDz4s"
+      ],
+      "eventMetaType": {
+        "user": "single_user",
+        "contact": "single_contact",
+        "isRecurring": false,
+        "isFullDay": false,
+        "isFree": false,
+        "isCancelled": false
+      },
+      "integrationMeta": {
+        "externalCalendarId": "UeTcWK1gp5WDk6T5OWZo",
+        "altType": "google",
+        "altId": "7p05s0l6qd8e8i2b6aj14s62ig",
+        "sync": {
+          "status": "success",
+          "error": null
+        },
+        "extras": {
+          "recurringEventId": null,
+          "RRule": null
+        }
+      },
+      "startTime": "2026-08-19T19:00:00.000Z",
+      "endTime": "2026-08-19T20:00:00.000Z",
+      "dateAdded": "2026-08-07T17:32:32.815Z",
+      "dateUpdated": "2026-08-07T17:32:49.384Z",
+      "groupId": "fqTO5gNwzrdF2iavTXvS",
+      "categoryId": "fqTO5gNwzrdF2iavTXvS",
+      "appointmentStatus": "confirmed",
+      "isOccupied": true,
+      "paymentMeta": {},
+      "permissionMeta": {
+        "canRead": true,
+        "canWrite": true
+      }
+    },
+    {
+      "id": "vn9bJwOJcUGmLFgmRvV2",
+      "commonPrimaryId": "vn9bJwOJcUGmLFgmRvV2",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "calendarId": "o7UCzGGqAJR6HDnhra2v",
+      "contactId": "wvPPnfItoJzR2DZ9n5bs",
+      "assignedUserId": "l3yZMOcJLNBTaynbCNU7",
+      "assignedResources": [],
+      "userCalendarId": "CQTPE5pscSDcbwjbiI8F",
+      "calendarProviderId": "fqTO5gNwzrdF2iavTXvS",
+      "title": "Hyde Park Dentistry - The Implant Engine ",
+      "address": "https://us06web.zoom.us/j/87494818844",
+      "selectedTimezone": "America/Los_Angeles",
+      "status": "booked",
+      "appoinmentStatus": "confirmed",
+      "source": "api",
+      "channel": "web",
+      "isRecurring": false,
+      "isFree": false,
+      "isCancelled": false,
+      "isFullDay": false,
+      "local": true,
+      "deleted": false,
+      "version": 4,
+      "google": {
+        "data": {
+          "attendees": [
+            {
+              "email": "jessica@theimplantengine.com",
+              "organizer": true,
+              "responseStatus": "accepted",
+              "self": true
+            },
+            {
+              "displayName": "Greg Hopkinson",
+              "email": "gbhopkin@gmail.com",
+              "responseStatus": "accepted"
+            }
+          ],
+          "colorId": "7",
+          "created": "2026-08-17T15:44:07.000Z",
+          "creator": {
+            "email": "jessica@theimplantengine.com",
+            "self": true
+          },
+          "description": "\n\n==========\n\nLet's discover effective approaches to fuel substantial growth in dental implant procedures for your practice.\n\nMeeting Time - Thursday, August 20, 2026 11:00 AM\n\nMeeting Location - https://us06web.zoom.us/j/87494818844\n\nName:- Greg Hopkinson\nPhone:- (812) 774-5044\nEmail:- gbhopkin@gmail.com\n\nNeed to make a change to this event?\nReschedule:-\nhttps://schedule.theimplantengine.com/widget/booking/o7UCzGGqAJR6HDnhra2v?event_id=vn9bJwOJcUGmLFgmRvV2\n\nCancel:-\nhttps://schedule.theimplantengine.com/widget/cancel-booking?event_id=vn9bJwOJcUGmLFgmRvV2",
+          "end": {
+            "dateTime": "2026-08-20T10:00:00-06:00",
+            "timeZone": "America/Denver"
+          },
+          "etag": "\"3573962894875070\"",
+          "eventLabelId": "1849ad0a-0f0d-4005-9c06-733698f3e185",
+          "eventType": "default",
+          "extendedProperties": {
+            "private": {
+              "calendarId": "o7UCzGGqAJR6HDnhra2v",
+              "eventId": "vn9bJwOJcUGmLFgmRvV2",
+              "linkedCalendarId": "2pbRnB4jGjGlTEpu8oTT",
+              "userCalendarId": "CQTPE5pscSDcbwjbiI8F",
+              "userId": "l3yZMOcJLNBTaynbCNU7"
+            }
+          },
+          "htmlLink": "https://www.google.com/calendar/event?eid=ZHJtNDhscmxyNHR0bTJ0NjRsZHIzbGprYzAgamVzc2ljYUB0aGVpbXBsYW50ZW5naW5lLmNvbQ",
+          "iCalUID": "drm48lrlr4ttm2t64ldr3ljkc0@google.com",
+          "id": "drm48lrlr4ttm2t64ldr3ljkc0",
+          "kind": "calendar#event",
+          "location": "https://us06web.zoom.us/j/87494818844",
+          "organizer": {
+            "email": "jessica@theimplantengine.com",
+            "self": true
+          },
+          "reminders": {
+            "useDefault": true
+          },
+          "sequence": 0,
+          "start": {
+            "dateTime": "2026-08-20T09:00:00-06:00",
+            "timeZone": "America/Denver"
+          },
+          "status": "confirmed",
+          "summary": "Hyde Park Dentistry - The Implant Engine ",
+          "updated": "2026-08-17T15:44:07.437Z"
+        },
+        "id": "drm48lrlr4ttm2t64ldr3ljkc0"
+      },
+      "createdBy": {
+        "channel": "web_app",
+        "source": "contactdetails_page",
+        "timestamp": "2026-08-17T15:44:06.655Z",
+        "traceId": "fc256afe-c837-44c5-9cdb-e2d79831b851",
+        "userId": "RWcQsYf8IehPpriChgfs"
+      },
+      "lastUpdatedBy": {
+        "channel": "web_app",
+        "source": "contactdetails_page",
+        "timestamp": "2026-08-17T15:44:06.655Z",
+        "traceId": "fc256afe-c837-44c5-9cdb-e2d79831b851",
+        "userId": "RWcQsYf8IehPpriChgfs"
+      },
+      "appointmentMeta": {
+        "slotType": "custom"
+      },
+      "locationConfigurationMeta": {
+        "id": "zoom_conference_0",
+        "oauthId": "KwUjBghyqSLuKgz00Ej4",
+        "overrideLocationConfig": false,
+        "type": "zoom",
+        "externalMeetingIdV2": "87494818844"
+      },
+      "isRecurrenceEnded": false,
+      "reportingSource": {
+        "creation": "user",
+        "mode": "user",
+        "parentId": "RWcQsYf8IehPpriChgfs"
+      },
+      "collectiveUsers": [
+        "l3yZMOcJLNBTaynbCNU7"
+      ],
+      "collectiveContacts": [
+        "wvPPnfItoJzR2DZ9n5bs"
+      ],
+      "eventMetaType": {
+        "user": "single_user",
+        "contact": "single_contact",
+        "isRecurring": false,
+        "isFullDay": false,
+        "isFree": false,
+        "isCancelled": false
+      },
+      "integrationMeta": {
+        "externalCalendarId": "CQTPE5pscSDcbwjbiI8F",
+        "altType": "google",
+        "altId": "drm48lrlr4ttm2t64ldr3ljkc0",
+        "sync": {
+          "status": "success",
+          "error": null
+        },
+        "extras": {
+          "recurringEventId": null,
+          "RRule": null
+        }
+      },
+      "startTime": "2026-08-20T15:00:00.000Z",
+      "endTime": "2026-08-20T16:00:00.000Z",
+      "dateAdded": "2026-08-17T15:44:06.655Z",
+      "dateUpdated": "2026-08-17T15:44:06.655Z",
+      "groupId": "fqTO5gNwzrdF2iavTXvS",
+      "categoryId": "fqTO5gNwzrdF2iavTXvS",
+      "appointmentStatus": "confirmed",
+      "isOccupied": true,
+      "paymentMeta": {},
+      "permissionMeta": {
+        "canRead": true,
+        "canWrite": true
+      }
+    },
+    {
+      "id": "05n5X9uACs4I3vLJ6CRJ",
+      "commonPrimaryId": "05n5X9uACs4I3vLJ6CRJ",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "calendarId": "L9ytbA4pqot6sv9wmqXj",
+      "contactId": "jNMiWQpuBKK7nI9cZqqT",
+      "assignedUserId": "cVaCcwpDKmpnIx0mXyWN",
+      "assignedResources": [],
+      "userCalendarId": "UeTcWK1gp5WDk6T5OWZo",
+      "title": "Website Build Kick Off Call - ",
+      "address": "https://us06web.zoom.us/j/8308270395",
+      "notes": "",
+      "selectedTimezone": "America/New_York",
+      "status": "booked",
+      "appoinmentStatus": "confirmed",
+      "source": "api",
+      "channel": "web",
+      "type": "g",
+      "isRecurring": false,
+      "isFree": false,
+      "isCancelled": false,
+      "isFullDay": false,
+      "local": true,
+      "deleted": false,
+      "version": 4,
+      "google": {
+        "data": {
+          "attendees": [
+            {
+              "email": "chelsea@theimplantengine.com",
+              "organizer": true,
+              "responseStatus": "accepted",
+              "self": true
+            },
+            {
+              "displayName": "Sandra Vukovic",
+              "email": "linavukovic@yahoo.com",
+              "responseStatus": "accepted"
+            }
+          ],
+          "colorId": "7",
+          "created": "2026-08-13T02:06:16.000Z",
+          "creator": {
+            "email": "chelsea@theimplantengine.com",
+            "self": true
+          },
+          "description": "\n\n==========\n\nPhone:- (347) 596-3007\nEmail:- linavukovic@yahoo.com\n\nNeed to make a change to this event?\nReschedule:-\nhttps://schedule.theimplantengine.com/widget/booking/L9ytbA4pqot6sv9wmqXj?event_id=05n5X9uACs4I3vLJ6CRJ\n\nCancel:-\nhttps://schedule.theimplantengine.com/widget/cancel-booking?event_id=05n5X9uACs4I3vLJ6CRJ\n\nNeed to reschedule? <a href=\"https://app.fyxer.com/e/chelsea-morrisey-acc/60?rescheduleEventId=ce_ac59dabc-a225-492a-83fd-fef7477b7670_hvanms15jnu42preo5vvp22n9o&utm_source=calendar&utm_medium=event_description&utm_campaign=reschedule_link\">Choose a new time</a>",
+          "end": {
+            "dateTime": "2026-08-20T11:00:00-07:00",
+            "timeZone": "America/Los_Angeles"
+          },
+          "etag": "\"3573173585800926\"",
+          "eventLabelId": "6837cb0d-5db6-4236-8c79-848ddd91cbf5",
+          "eventType": "default",
+          "extendedProperties": {
+            "private": {
+              "calendarId": "L9ytbA4pqot6sv9wmqXj",
+              "eventId": "05n5X9uACs4I3vLJ6CRJ",
+              "linkedCalendarId": "oNi8CtiIT1IK3lpOYevv",
+              "userCalendarId": "UeTcWK1gp5WDk6T5OWZo",
+              "userId": "cVaCcwpDKmpnIx0mXyWN"
+            }
+          },
+          "htmlLink": "https://www.google.com/calendar/event?eid=aHZhbm1zMTVqbnU0MnByZW81dnZwMjJuOW8gY2hlbHNlYUB0aGVpbXBsYW50ZW5naW5lLmNvbQ",
+          "iCalUID": "hvanms15jnu42preo5vvp22n9o@google.com",
+          "id": "hvanms15jnu42preo5vvp22n9o",
+          "kind": "calendar#event",
+          "location": "https://us06web.zoom.us/j/8308270395",
+          "organizer": {
+            "email": "chelsea@theimplantengine.com",
+            "self": true
+          },
+          "reminders": {
+            "useDefault": true
+          },
+          "sequence": 0,
+          "start": {
+            "dateTime": "2026-08-20T10:00:00-07:00",
+            "timeZone": "America/Los_Angeles"
+          },
+          "status": "confirmed",
+          "summary": "Website Build Kick Off Call - ",
+          "updated": "2026-08-13T02:06:32.900Z"
+        },
+        "id": "hvanms15jnu42preo5vvp22n9o"
+      },
+      "createdBy": {
+        "source": "booking_widget",
+        "timestamp": "2026-08-13T02:06:15.436Z",
+        "traceId": "67a6b009-ac89-43c0-a3c9-75417819e1bf",
+        "userId": null
+      },
+      "lastUpdatedBy": {
+        "channel": "event_sync",
+        "source": "google_calendar",
+        "timestamp": "2026-08-13T02:06:39.303Z",
+        "traceId": "27476d11-d5f9-4e9d-9c01-3418f3f41bb3"
+      },
+      "appointmentMeta": {
+        "defaultFormDetails": {
+          "email": "linavukovic@yahoo.com",
+          "firstName": "Sandra",
+          "lastName": "Vukovic",
+          "phone": "+13475963007"
+        },
+        "slotType": "default"
+      },
+      "locationConfigurationMeta": {
+        "oauthId": null,
+        "overrideLocationConfig": false,
+        "type": "custom"
+      },
+      "ip": "2a04:4e41:7000:58cb::e59:98cb",
+      "reportingSource": {
+        "creation": "booked-by-lead",
+        "mode": null,
+        "parentId": null
+      },
+      "termsAndConditions": "I confirm that I want to receive content from this company using any contact information I provide.",
+      "collectiveUsers": [
+        "cVaCcwpDKmpnIx0mXyWN"
+      ],
+      "collectiveContacts": [
+        "jNMiWQpuBKK7nI9cZqqT"
+      ],
+      "eventMetaType": {
+        "user": "single_user",
+        "contact": "single_contact",
+        "isRecurring": false,
+        "isFullDay": false,
+        "isFree": false,
+        "isCancelled": false
+      },
+      "integrationMeta": {
+        "externalCalendarId": "UeTcWK1gp5WDk6T5OWZo",
+        "altType": "google",
+        "altId": "hvanms15jnu42preo5vvp22n9o",
+        "sync": {
+          "status": "success",
+          "error": null
+        },
+        "extras": {
+          "recurringEventId": null,
+          "RRule": null
+        }
+      },
+      "startTime": "2026-08-20T17:00:00.000Z",
+      "endTime": "2026-08-20T18:00:00.000Z",
+      "dateAdded": "2026-08-13T02:06:15.436Z",
+      "dateUpdated": "2026-08-13T02:06:39.303Z",
+      "appointmentStatus": "confirmed",
+      "isOccupied": true,
+      "paymentMeta": {},
+      "permissionMeta": {
+        "canRead": true,
+        "canWrite": true
+      }
+    },
+    {
+      "id": "8Av9QbzU4yHLcPLTvJZw",
+      "commonPrimaryId": "8Av9QbzU4yHLcPLTvJZw",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "calendarId": "H8dTqUBcZzEyXPUlJrka",
+      "contactId": "I0J4UNtrwE2t1C4SNuwq",
+      "assignedUserId": "l3yZMOcJLNBTaynbCNU7",
+      "assignedResources": [],
+      "userCalendarId": "CQTPE5pscSDcbwjbiI8F",
+      "calendarProviderId": "fqTO5gNwzrdF2iavTXvS",
+      "title": " Oral Surgeons of Santa Rosa - The Implant Engine ",
+      "address": "https://us06web.zoom.us/j/87346612860",
+      "selectedTimezone": "America/Los_Angeles",
+      "status": "booked",
+      "appoinmentStatus": "confirmed",
+      "source": "api",
+      "channel": "web",
+      "isRecurring": false,
+      "isFree": false,
+      "isCancelled": false,
+      "isFullDay": false,
+      "local": true,
+      "deleted": false,
+      "version": 4,
+      "google": {
+        "data": {
+          "attendees": [
+            {
+              "email": "jessica@theimplantengine.com",
+              "organizer": true,
+              "responseStatus": "accepted",
+              "self": true
+            },
+            {
+              "displayName": "Alexander McMahon",
+              "email": "dr.mcmahon@santarosaoms.com",
+              "responseStatus": "accepted"
+            }
+          ],
+          "colorId": "1",
+          "created": "2026-08-11T16:44:07.000Z",
+          "creator": {
+            "email": "jessica@theimplantengine.com",
+            "self": true
+          },
+          "description": "\n\n==========\n\nLet's discover effective approaches to fuel substantial growth in dental implant procedures for your practice. 🦷🚀\n\nMeeting Time - Friday, August 21, 2026 10:30 AM\n\nMeeting Location - https://us06web.zoom.us/j/87346612860\n\nName:- Alexander McMahon\nPhone:- (707) 206-1559\nEmail:- dr.mcmahon@santarosaoms.com\n\n\nPractice Name: - \n\n\nNeed to make a change to this event?\nReschedule:-\nhttps://schedule.theimplantengine.com/widget/booking/H8dTqUBcZzEyXPUlJrka?event_id=8Av9QbzU4yHLcPLTvJZw\n\nCancel:-\nhttps://schedule.theimplantengine.com/widget/cancel-booking?event_id=8Av9QbzU4yHLcPLTvJZw",
+          "end": {
+            "dateTime": "2026-08-21T12:00:00-06:00",
+            "timeZone": "America/Denver"
+          },
+          "etag": "\"3572933296084990\"",
+          "eventLabelId": "2a24e3e8-b0ad-4d05-bb63-265ca5c99d62",
+          "eventType": "default",
+          "extendedProperties": {
+            "private": {
+              "calendarId": "H8dTqUBcZzEyXPUlJrka",
+              "eventId": "8Av9QbzU4yHLcPLTvJZw",
+              "linkedCalendarId": "2pbRnB4jGjGlTEpu8oTT",
+              "userCalendarId": "CQTPE5pscSDcbwjbiI8F",
+              "userId": "l3yZMOcJLNBTaynbCNU7"
+            }
+          },
+          "htmlLink": "https://www.google.com/calendar/event?eid=NGV0bzY3N3BwOXVydDRkcWxuNzZxNHF2a28gamVzc2ljYUB0aGVpbXBsYW50ZW5naW5lLmNvbQ",
+          "iCalUID": "4eto677pp9urt4dqln76q4qvko@google.com",
+          "id": "4eto677pp9urt4dqln76q4qvko",
+          "kind": "calendar#event",
+          "location": "https://us06web.zoom.us/j/87346612860",
+          "organizer": {
+            "email": "jessica@theimplantengine.com",
+            "self": true
+          },
+          "reminders": {
+            "useDefault": true
+          },
+          "sequence": 0,
+          "start": {
+            "dateTime": "2026-08-21T11:30:00-06:00",
+            "timeZone": "America/Denver"
+          },
+          "status": "confirmed",
+          "summary": " Oral Surgeons of Santa Rosa - The Implant Engine ",
+          "updated": "2026-08-11T16:44:08.042Z"
+        },
+        "id": "4eto677pp9urt4dqln76q4qvko"
+      },
+      "createdBy": {
+        "channel": "web_app",
+        "source": "contactdetails_page",
+        "timestamp": "2026-08-11T16:44:07.081Z",
+        "traceId": "7f5a1aef-3658-4104-9258-ec60a0c6852a",
+        "userId": "l3yZMOcJLNBTaynbCNU7"
+      },
+      "lastUpdatedBy": {
+        "channel": "web_app",
+        "source": "contactdetails_page",
+        "timestamp": "2026-08-11T16:44:07.081Z",
+        "traceId": "7f5a1aef-3658-4104-9258-ec60a0c6852a",
+        "userId": "l3yZMOcJLNBTaynbCNU7"
+      },
+      "appointmentMeta": {
+        "slotType": "default"
+      },
+      "locationConfigurationMeta": {
+        "id": "zoom_conference_0",
+        "oauthId": "KwUjBghyqSLuKgz00Ej4",
+        "overrideLocationConfig": false,
+        "type": "zoom",
+        "externalMeetingIdV2": "87346612860"
+      },
+      "isRecurrenceEnded": false,
+      "reportingSource": {
+        "creation": "user",
+        "mode": "user",
+        "parentId": "l3yZMOcJLNBTaynbCNU7"
+      },
+      "collectiveUsers": [
+        "l3yZMOcJLNBTaynbCNU7"
+      ],
+      "collectiveContacts": [
+        "I0J4UNtrwE2t1C4SNuwq"
+      ],
+      "eventMetaType": {
+        "user": "single_user",
+        "contact": "single_contact",
+        "isRecurring": false,
+        "isFullDay": false,
+        "isFree": false,
+        "isCancelled": false
+      },
+      "integrationMeta": {
+        "externalCalendarId": "CQTPE5pscSDcbwjbiI8F",
+        "altType": "google",
+        "altId": "4eto677pp9urt4dqln76q4qvko",
+        "sync": {
+          "status": "success",
+          "error": null
+        },
+        "extras": {
+          "recurringEventId": null,
+          "RRule": null
+        }
+      },
+      "startTime": "2026-08-21T17:30:00.000Z",
+      "endTime": "2026-08-21T18:00:00.000Z",
+      "dateAdded": "2026-08-11T16:44:07.081Z",
+      "dateUpdated": "2026-08-11T16:44:07.081Z",
+      "groupId": "fqTO5gNwzrdF2iavTXvS",
+      "categoryId": "fqTO5gNwzrdF2iavTXvS",
+      "appointmentStatus": "confirmed",
+      "isOccupied": true,
+      "paymentMeta": {},
+      "permissionMeta": {
+        "canRead": true,
+        "canWrite": true
+      }
+    },
+    {
+      "id": "fy28GdH3fCp7vInpKVoJ",
+      "commonPrimaryId": "fy28GdH3fCp7vInpKVoJ",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "calendarId": "o7UCzGGqAJR6HDnhra2v",
+      "contactId": "idxMsxq07X87ACSRNXHS",
+      "assignedUserId": "l3yZMOcJLNBTaynbCNU7",
+      "assignedResources": [],
+      "userCalendarId": "CQTPE5pscSDcbwjbiI8F",
+      "calendarProviderId": "fqTO5gNwzrdF2iavTXvS",
+      "title": "Tamarack hills family dentistry - The Implant Engine ",
+      "address": "https://us06web.zoom.us/j/81330107621",
+      "selectedTimezone": "America/Chicago",
+      "status": "booked",
+      "appoinmentStatus": "confirmed",
+      "source": "api",
+      "channel": "web",
+      "isRecurring": false,
+      "isFree": false,
+      "isCancelled": false,
+      "isFullDay": false,
+      "local": true,
+      "deleted": false,
+      "version": 4,
+      "google": {
+        "data": {
+          "attendees": [
+            {
+              "email": "jessica@theimplantengine.com",
+              "organizer": true,
+              "responseStatus": "accepted",
+              "self": true
+            },
+            {
+              "displayName": "Avi Matha",
+              "email": "a_matha@yahoo.com",
+              "responseStatus": "accepted"
+            }
+          ],
+          "colorId": "7",
+          "created": "2026-08-18T00:11:58.000Z",
+          "creator": {
+            "email": "jessica@theimplantengine.com",
+            "self": true
+          },
+          "description": "\n\n==========\n\nLet's discover effective approaches to fuel substantial growth in dental implant procedures for your practice.\n\nMeeting Time - Friday, August 21, 2026 3:00 PM\n\nMeeting Location - https://us06web.zoom.us/j/81330107621\n\nName:- Avi Matha\nPhone:- (701) 306-7622\nEmail:- a_matha@yahoo.com\n\nNeed to make a change to this event?\nReschedule:-\nhttps://schedule.theimplantengine.com/widget/booking/o7UCzGGqAJR6HDnhra2v?event_id=fy28GdH3fCp7vInpKVoJ\n\nCancel:-\nhttps://schedule.theimplantengine.com/widget/cancel-booking?event_id=fy28GdH3fCp7vInpKVoJ",
+          "end": {
+            "dateTime": "2026-08-21T15:00:00-06:00",
+            "timeZone": "America/Denver"
+          },
+          "etag": "\"3574023836626238\"",
+          "eventLabelId": "1849ad0a-0f0d-4005-9c06-733698f3e185",
+          "eventType": "default",
+          "extendedProperties": {
+            "private": {
+              "calendarId": "o7UCzGGqAJR6HDnhra2v",
+              "eventId": "fy28GdH3fCp7vInpKVoJ",
+              "linkedCalendarId": "2pbRnB4jGjGlTEpu8oTT",
+              "userCalendarId": "CQTPE5pscSDcbwjbiI8F",
+              "userId": "l3yZMOcJLNBTaynbCNU7"
+            }
+          },
+          "htmlLink": "https://www.google.com/calendar/event?eid=cjkxc3N2c2swaDV1Z2ZrdmY4azByOHQyMTQgamVzc2ljYUB0aGVpbXBsYW50ZW5naW5lLmNvbQ",
+          "iCalUID": "r91ssvsk0h5ugfkvf8k0r8t214@google.com",
+          "id": "r91ssvsk0h5ugfkvf8k0r8t214",
+          "kind": "calendar#event",
+          "location": "https://us06web.zoom.us/j/81330107621",
+          "organizer": {
+            "email": "jessica@theimplantengine.com",
+            "self": true
+          },
+          "reminders": {
+            "useDefault": true
+          },
+          "sequence": 0,
+          "start": {
+            "dateTime": "2026-08-21T14:00:00-06:00",
+            "timeZone": "America/Denver"
+          },
+          "status": "confirmed",
+          "summary": "Tamarack hills family dentistry - The Implant Engine ",
+          "updated": "2026-08-18T00:11:58.313Z"
+        },
+        "id": "r91ssvsk0h5ugfkvf8k0r8t214"
+      },
+      "createdBy": {
+        "channel": "web_app",
+        "source": "contactdetails_page",
+        "timestamp": "2026-08-18T00:11:57.332Z",
+        "traceId": "95ebd33c-9932-427d-aede-d2edc270e22c",
+        "userId": "l3yZMOcJLNBTaynbCNU7"
+      },
+      "lastUpdatedBy": {
+        "channel": "web_app",
+        "source": "contactdetails_page",
+        "timestamp": "2026-08-18T00:11:57.332Z",
+        "traceId": "95ebd33c-9932-427d-aede-d2edc270e22c",
+        "userId": "l3yZMOcJLNBTaynbCNU7"
+      },
+      "appointmentMeta": {
+        "slotType": "default"
+      },
+      "locationConfigurationMeta": {
+        "id": "zoom_conference_0",
+        "oauthId": "KwUjBghyqSLuKgz00Ej4",
+        "overrideLocationConfig": false,
+        "type": "zoom",
+        "externalMeetingIdV2": "81330107621"
+      },
+      "isRecurrenceEnded": false,
+      "reportingSource": {
+        "creation": "user",
+        "mode": "user",
+        "parentId": "l3yZMOcJLNBTaynbCNU7"
+      },
+      "collectiveUsers": [
+        "l3yZMOcJLNBTaynbCNU7"
+      ],
+      "collectiveContacts": [
+        "idxMsxq07X87ACSRNXHS"
+      ],
+      "eventMetaType": {
+        "user": "single_user",
+        "contact": "single_contact",
+        "isRecurring": false,
+        "isFullDay": false,
+        "isFree": false,
+        "isCancelled": false
+      },
+      "integrationMeta": {
+        "externalCalendarId": "CQTPE5pscSDcbwjbiI8F",
+        "altType": "google",
+        "altId": "r91ssvsk0h5ugfkvf8k0r8t214",
+        "sync": {
+          "status": "success",
+          "error": null
+        },
+        "extras": {
+          "recurringEventId": null,
+          "RRule": null
+        }
+      },
+      "startTime": "2026-08-21T20:00:00.000Z",
+      "endTime": "2026-08-21T21:00:00.000Z",
+      "dateAdded": "2026-08-18T00:11:57.332Z",
+      "dateUpdated": "2026-08-18T00:11:57.332Z",
+      "groupId": "fqTO5gNwzrdF2iavTXvS",
+      "categoryId": "fqTO5gNwzrdF2iavTXvS",
+      "appointmentStatus": "confirmed",
+      "isOccupied": true,
+      "paymentMeta": {},
+      "permissionMeta": {
+        "canRead": true,
+        "canWrite": true
+      }
+    },
+    {
+      "id": "QJ6Nbv4wAB9Ok05oo8UG",
+      "commonPrimaryId": "QJ6Nbv4wAB9Ok05oo8UG",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "calendarId": "H8dTqUBcZzEyXPUlJrka",
+      "contactId": "RwiT6lDjX3Yu2NxrJ5Cw",
+      "assignedUserId": "l3yZMOcJLNBTaynbCNU7",
+      "assignedResources": [],
+      "userCalendarId": "CQTPE5pscSDcbwjbiI8F",
+      "calendarProviderId": "fqTO5gNwzrdF2iavTXvS",
+      "title": "Moark dental and implants- The Implant Engine ",
+      "address": "https://us06web.zoom.us/j/85157167821",
+      "selectedTimezone": "America/Chicago",
+      "status": "booked",
+      "appoinmentStatus": "confirmed",
+      "source": "api",
+      "channel": "web",
+      "isRecurring": false,
+      "isFree": false,
+      "isCancelled": false,
+      "isFullDay": false,
+      "local": true,
+      "deleted": false,
+      "version": 4,
+      "google": {
+        "data": {
+          "attendees": [
+            {
+              "email": "jessica@theimplantengine.com",
+              "organizer": true,
+              "responseStatus": "accepted",
+              "self": true
+            },
+            {
+              "displayName": "Samir Patel",
+              "email": "sampatel33@gmail.com",
+              "responseStatus": "accepted"
+            }
+          ],
+          "colorId": "1",
+          "created": "2026-08-18T17:37:39.000Z",
+          "creator": {
+            "email": "jessica@theimplantengine.com",
+            "self": true
+          },
+          "description": "\n\n==========\n\nLet's discover effective approaches to fuel substantial growth in dental implant procedures for your practice. 🦷🚀\n\nMeeting Time - Monday, August 24, 2026 12:00 AM\n\nMeeting Location - https://us06web.zoom.us/j/85157167821\n\nName:- Samir Patel\nPhone:- (404) 819-7487\nEmail:- sampatel33@gmail.com\n\n\nPractice Name: - \n\n\nNeed to make a change to this event?\nReschedule:-\nhttps://schedule.theimplantengine.com/widget/booking/H8dTqUBcZzEyXPUlJrka?event_id=QJ6Nbv4wAB9Ok05oo8UG\n\nCancel:-\nhttps://schedule.theimplantengine.com/widget/cancel-booking?event_id=QJ6Nbv4wAB9Ok05oo8UG",
+          "end": {
+            "dateTime": "2026-08-23T23:30:00-06:00",
+            "timeZone": "America/Denver"
+          },
+          "etag": "\"3574149319127646\"",
+          "eventLabelId": "2a24e3e8-b0ad-4d05-bb63-265ca5c99d62",
+          "eventType": "default",
+          "extendedProperties": {
+            "private": {
+              "calendarId": "H8dTqUBcZzEyXPUlJrka",
+              "eventId": "QJ6Nbv4wAB9Ok05oo8UG",
+              "linkedCalendarId": "2pbRnB4jGjGlTEpu8oTT",
+              "userCalendarId": "CQTPE5pscSDcbwjbiI8F",
+              "userId": "l3yZMOcJLNBTaynbCNU7"
+            }
+          },
+          "htmlLink": "https://www.google.com/calendar/event?eid=MjIyYTBzaGpmaWZiaGJtcDdncjNxbGdja2MgamVzc2ljYUB0aGVpbXBsYW50ZW5naW5lLmNvbQ",
+          "iCalUID": "222a0shjfifbhbmp7gr3qlgckc@google.com",
+          "id": "222a0shjfifbhbmp7gr3qlgckc",
+          "kind": "calendar#event",
+          "location": "https://us06web.zoom.us/j/85157167821",
+          "organizer": {
+            "email": "jessica@theimplantengine.com",
+            "self": true
+          },
+          "reminders": {
+            "useDefault": true
+          },
+          "sequence": 0,
+          "start": {
+            "dateTime": "2026-08-23T23:00:00-06:00",
+            "timeZone": "America/Denver"
+          },
+          "status": "confirmed",
+          "summary": "Moark dental and implants- The Implant Engine ",
+          "updated": "2026-08-18T17:37:39.563Z"
+        },
+        "id": "222a0shjfifbhbmp7gr3qlgckc"
+      },
+      "createdBy": {
+        "channel": "web_app",
+        "source": "contactdetails_page",
+        "timestamp": "2026-08-18T17:37:38.635Z",
+        "traceId": "2f46bb20-2241-4b9b-b2e6-5785e017a236",
+        "userId": "l3yZMOcJLNBTaynbCNU7"
+      },
+      "lastUpdatedBy": {
+        "channel": "web_app",
+        "source": "contactdetails_page",
+        "timestamp": "2026-08-18T17:37:38.635Z",
+        "traceId": "2f46bb20-2241-4b9b-b2e6-5785e017a236",
+        "userId": "l3yZMOcJLNBTaynbCNU7"
+      },
+      "appointmentMeta": {
+        "slotType": "custom"
+      },
+      "locationConfigurationMeta": {
+        "id": "zoom_conference_0",
+        "oauthId": "KwUjBghyqSLuKgz00Ej4",
+        "overrideLocationConfig": false,
+        "type": "zoom",
+        "externalMeetingIdV2": "85157167821"
+      },
+      "isRecurrenceEnded": false,
+      "reportingSource": {
+        "creation": "user",
+        "mode": "user",
+        "parentId": "l3yZMOcJLNBTaynbCNU7"
+      },
+      "collectiveUsers": [
+        "l3yZMOcJLNBTaynbCNU7"
+      ],
+      "collectiveContacts": [
+        "RwiT6lDjX3Yu2NxrJ5Cw"
+      ],
+      "eventMetaType": {
+        "user": "single_user",
+        "contact": "single_contact",
+        "isRecurring": false,
+        "isFullDay": false,
+        "isFree": false,
+        "isCancelled": false
+      },
+      "integrationMeta": {
+        "externalCalendarId": "CQTPE5pscSDcbwjbiI8F",
+        "altType": "google",
+        "altId": "222a0shjfifbhbmp7gr3qlgckc",
+        "sync": {
+          "status": "success",
+          "error": null
+        },
+        "extras": {
+          "recurringEventId": null,
+          "RRule": null
+        }
+      },
+      "startTime": "2026-08-24T05:00:00.000Z",
+      "endTime": "2026-08-24T05:30:00.000Z",
+      "dateAdded": "2026-08-18T17:37:38.635Z",
+      "dateUpdated": "2026-08-18T17:37:38.635Z",
+      "groupId": "fqTO5gNwzrdF2iavTXvS",
+      "categoryId": "fqTO5gNwzrdF2iavTXvS",
+      "appointmentStatus": "confirmed",
+      "isOccupied": true,
+      "paymentMeta": {},
+      "permissionMeta": {
+        "canRead": true,
+        "canWrite": true
+      }
+    },
+    {
+      "id": "8KNKNkz2MocqzayXnBAq",
+      "commonPrimaryId": "8KNKNkz2MocqzayXnBAq",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "calendarId": "o7UCzGGqAJR6HDnhra2v",
+      "contactId": "uRefTQY92BZD3ORDzKxo",
+      "assignedUserId": "l3yZMOcJLNBTaynbCNU7",
+      "assignedResources": [],
+      "userCalendarId": "CQTPE5pscSDcbwjbiI8F",
+      "calendarProviderId": "fqTO5gNwzrdF2iavTXvS",
+      "title": " Nashville Dental Implant Center - The Implant Engine ",
+      "address": "https://us06web.zoom.us/j/81240698445",
+      "selectedTimezone": "America/Chicago",
+      "status": "booked",
+      "appoinmentStatus": "confirmed",
+      "source": "api",
+      "channel": "web",
+      "isRecurring": false,
+      "isFree": false,
+      "isCancelled": false,
+      "isFullDay": false,
+      "local": true,
+      "deleted": false,
+      "version": 4,
+      "google": {
+        "data": {
+          "attendees": [
+            {
+              "email": "jessica@theimplantengine.com",
+              "organizer": true,
+              "responseStatus": "accepted",
+              "self": true
+            },
+            {
+              "displayName": "Ramin Heidari",
+              "email": "raminheidaridmd@gmail.com",
+              "responseStatus": "accepted"
+            }
+          ],
+          "colorId": "7",
+          "created": "2026-06-29T14:55:27.000Z",
+          "creator": {
+            "email": "jessica@theimplantengine.com",
+            "self": true
+          },
+          "description": "\n\n==========\n\nLet's discover effective approaches to fuel substantial growth in dental implant procedures for your practice.\n\nMeeting Time - Monday, August 24, 2026 10:00 AM\n\nMeeting Location - https://us06web.zoom.us/j/81240698445\n\nName:- Ramin Heidari\nPhone:- (615) 944-0357\nEmail:- raminheidaridmd@gmail.com\n\nNeed to make a change to this event?\nReschedule:-\nhttps://schedule.theimplantengine.com/widget/booking/o7UCzGGqAJR6HDnhra2v?event_id=8KNKNkz2MocqzayXnBAq\n\nCancel:-\nhttps://schedule.theimplantengine.com/widget/cancel-booking?event_id=8KNKNkz2MocqzayXnBAq",
+          "end": {
+            "dateTime": "2026-08-24T10:00:00-06:00",
+            "timeZone": "America/Denver"
+          },
+          "etag": "\"3565489856476862\"",
+          "eventType": "default",
+          "extendedProperties": {
+            "private": {
+              "calendarId": "o7UCzGGqAJR6HDnhra2v",
+              "eventId": "8KNKNkz2MocqzayXnBAq",
+              "linkedCalendarId": "2pbRnB4jGjGlTEpu8oTT",
+              "userCalendarId": "CQTPE5pscSDcbwjbiI8F",
+              "userId": "l3yZMOcJLNBTaynbCNU7"
+            }
+          },
+          "htmlLink": "https://www.google.com/calendar/event?eid=cDcwanIxYzVsbW5yZ3E2cjM3cGJ1M3VlbGMgamVzc2ljYUB0aGVpbXBsYW50ZW5naW5lLmNvbQ",
+          "iCalUID": "p70jr1c5lmnrgq6r37pbu3uelc@google.com",
+          "id": "p70jr1c5lmnrgq6r37pbu3uelc",
+          "kind": "calendar#event",
+          "location": "https://us06web.zoom.us/j/81240698445",
+          "organizer": {
+            "email": "jessica@theimplantengine.com",
+            "self": true
+          },
+          "reminders": {
+            "useDefault": true
+          },
+          "sequence": 0,
+          "start": {
+            "dateTime": "2026-08-24T09:00:00-06:00",
+            "timeZone": "America/Denver"
+          },
+          "status": "confirmed",
+          "summary": " Nashville Dental Implant Center - The Implant Engine ",
+          "updated": "2026-06-29T14:55:28.238Z"
+        },
+        "id": "p70jr1c5lmnrgq6r37pbu3uelc"
+      },
+      "createdBy": {
+        "channel": "web_app",
+        "source": "contactdetails_page",
+        "timestamp": "2026-06-29T14:55:27.439Z",
+        "traceId": "480b176d-d82f-4326-86f6-21f806844996",
+        "userId": "l3yZMOcJLNBTaynbCNU7"
+      },
+      "lastUpdatedBy": {
+        "channel": "web_app",
+        "source": "contactdetails_page",
+        "timestamp": "2026-06-29T14:55:27.439Z",
+        "traceId": "480b176d-d82f-4326-86f6-21f806844996",
+        "userId": "l3yZMOcJLNBTaynbCNU7"
+      },
+      "appointmentMeta": {
+        "slotType": "default"
+      },
+      "locationConfigurationMeta": {
+        "id": "zoom_conference_0",
+        "oauthId": "KwUjBghyqSLuKgz00Ej4",
+        "overrideLocationConfig": false,
+        "type": "zoom",
+        "externalMeetingIdV2": "81240698445"
+      },
+      "isRecurrenceEnded": false,
+      "reportingSource": {
+        "creation": "user",
+        "mode": "user",
+        "parentId": "l3yZMOcJLNBTaynbCNU7"
+      },
+      "collectiveUsers": [
+        "l3yZMOcJLNBTaynbCNU7"
+      ],
+      "collectiveContacts": [
+        "uRefTQY92BZD3ORDzKxo"
+      ],
+      "eventMetaType": {
+        "user": "single_user",
+        "contact": "single_contact",
+        "isRecurring": false,
+        "isFullDay": false,
+        "isFree": false,
+        "isCancelled": false
+      },
+      "integrationMeta": {
+        "externalCalendarId": "CQTPE5pscSDcbwjbiI8F",
+        "altType": "google",
+        "altId": "p70jr1c5lmnrgq6r37pbu3uelc",
+        "sync": {
+          "status": "success",
+          "error": null
+        },
+        "extras": {
+          "recurringEventId": null,
+          "RRule": null
+        }
+      },
+      "startTime": "2026-08-24T15:00:00.000Z",
+      "endTime": "2026-08-24T16:00:00.000Z",
+      "dateAdded": "2026-06-29T14:55:27.439Z",
+      "dateUpdated": "2026-06-29T14:55:27.439Z",
+      "groupId": "fqTO5gNwzrdF2iavTXvS",
+      "categoryId": "fqTO5gNwzrdF2iavTXvS",
+      "appointmentStatus": "confirmed",
+      "isOccupied": true,
+      "paymentMeta": {},
+      "permissionMeta": {
+        "canRead": true,
+        "canWrite": true
+      }
+    },
+    {
+      "id": "cu4kLPh6XVAJPHTB5YqH",
+      "commonPrimaryId": "cu4kLPh6XVAJPHTB5YqH",
+      "locationId": "9oIMDhYHEoDYgQDAByby",
+      "calendarId": "H8dTqUBcZzEyXPUlJrka",
+      "contactId": "OAf9UMRhyPNeKD9KncFt",
+      "assignedUserId": "l3yZMOcJLNBTaynbCNU7",
+      "assignedResources": [],
+      "userCalendarId": "CQTPE5pscSDcbwjbiI8F",
+      "calendarProviderId": "fqTO5gNwzrdF2iavTXvS",
+      "title": "Happy Smiles - The Implant Engine ",
+      "address": "https://us06web.zoom.us/j/85755826897",
+      "notes": "",
+      "selectedTimezone": "America/Los_Angeles",
+      "status": "booked",
+      "appoinmentStatus": "confirmed",
+      "source": "api",
+      "channel": "web",
+      "type": "g",
+      "isRecurring": false,
+      "isFree": false,
+      "isCancelled": false,
+      "isFullDay": false,
+      "local": true,
+      "deleted": false,
+      "version": 4,
+      "google": {
+        "data": {
+          "attendees": [
+            {
+              "email": "jessica@theimplantengine.com",
+              "organizer": true,
+              "responseStatus": "accepted",
+              "self": true
+            },
+            {
+              "displayName": "Oddie Dardon  ",
+              "email": "happysmilesla@gmail.com",
+              "responseStatus": "needsAction"
+            }
+          ],
+          "colorId": "1",
+          "created": "2026-08-17T15:46:32.000Z",
+          "creator": {
+            "email": "jessica@theimplantengine.com",
+            "self": true
+          },
+          "description": "\n\n==========\n\nLet's discover effective approaches to fuel substantial growth in dental implant procedures for your practice. 🦷🚀\n\nMeeting Time - Monday, August 24, 2026 10:00 AM\n\nMeeting Location - https://us06web.zoom.us/j/85755826897\n\nName:- Oddie Dardon  \nPhone:- (562) 552-2968\nEmail:- happysmilesla@gmail.com\n\n\nPractice Name: - \n\n\nNeed to make a change to this event?\nReschedule:-\nhttps://schedule.theimplantengine.com/widget/booking/H8dTqUBcZzEyXPUlJrka?event_id=cu4kLPh6XVAJPHTB5YqH\n\nCancel:-\nhttps://schedule.theimplantengine.com/widget/cancel-booking?event_id=cu4kLPh6XVAJPHTB5YqH",
+          "end": {
+            "dateTime": "2026-08-24T11:30:00-06:00",
+            "timeZone": "America/Denver"
+          },
+          "etag": "\"3574149469243582\"",
+          "eventLabelId": "2a24e3e8-b0ad-4d05-bb63-265ca5c99d62",
+          "eventType": "default",
+          "extendedProperties": {
+            "private": {
+              "calendarId": "H8dTqUBcZzEyXPUlJrka",
+              "eventId": "cu4kLPh6XVAJPHTB5YqH",
+              "linkedCalendarId": "2pbRnB4jGjGlTEpu8oTT",
+              "userCalendarId": "CQTPE5pscSDcbwjbiI8F",
+              "userId": "l3yZMOcJLNBTaynbCNU7"
+            }
+          },
+          "htmlLink": "https://www.google.com/calendar/event?eid=aDVlYW5kZTlnNm10b2YzNWxqODE1ZWxhaHMgamVzc2ljYUB0aGVpbXBsYW50ZW5naW5lLmNvbQ",
+          "iCalUID": "h5eande9g6mtof35lj815elahs@google.com",
+          "id": "h5eande9g6mtof35lj815elahs",
+          "kind": "calendar#event",
+          "location": "https://us06web.zoom.us/j/85755826897",
+          "organizer": {
+            "email": "jessica@theimplantengine.com",
+            "self": true
+          },
+          "reminders": {
+            "useDefault": true
+          },
+          "sequence": 2,
+          "start": {
+            "dateTime": "2026-08-24T11:00:00-06:00",
+            "timeZone": "America/Denver"
+          },
+          "status": "confirmed",
+          "summary": "Happy Smiles - The Implant Engine ",
+          "updated": "2026-08-18T17:38:54.621Z"
+        },
+        "id": "h5eande9g6mtof35lj815elahs"
+      },
+      "createdBy": {
+        "channel": "web_app",
+        "source": "contactdetails_page",
+        "timestamp": "2026-08-17T15:46:31.583Z",
+        "traceId": "b3b6654d-7e9c-414c-b0a3-96679e26b64a",
+        "userId": "l3yZMOcJLNBTaynbCNU7"
+      },
+      "lastUpdatedBy": {
+        "channel": "event_sync",
+        "source": "google_calendar",
+        "timestamp": "2026-08-18T17:39:12.017Z",
+        "traceId": "bafcbfd7-bb4e-4138-b2c9-36207a71f5b3"
+      },
+      "appointmentMeta": {
+        "slotType": "default"
+      },
+      "locationConfigurationMeta": {
+        "id": "zoom_conference_0",
+        "oauthId": "KwUjBghyqSLuKgz00Ej4",
+        "overrideLocationConfig": false,
+        "type": "zoom",
+        "externalMeetingIdV2": "85755826897"
+      },
+      "reportingSource": {
+        "creation": "user",
+        "mode": "user",
+        "parentId": "l3yZMOcJLNBTaynbCNU7"
+      },
+      "rescheduleMeta": {
+        "channel": "event_sync",
+        "originalEndTime": "2026-08-24T17:30:00.000Z",
+        "originalStartTime": "2026-08-24T17:00:00.000Z",
+        "previousEndTime": "2026-08-24T16:30:00.000Z",
+        "previousStartTime": "2026-08-24T16:00:00.000Z",
+        "rescheduledAt": "2026-08-18T17:39:12.016Z",
+        "rescheduledBy": "",
+        "source": "google_calendar",
+        "traceId": "bafcbfd7-bb4e-4138-b2c9-36207a71f5b3"
+      },
+      "collectiveUsers": [
+        "l3yZMOcJLNBTaynbCNU7"
+      ],
+      "collectiveContacts": [
+        "OAf9UMRhyPNeKD9KncFt"
+      ],
+      "eventMetaType": {
+        "user": "single_user",
+        "contact": "single_contact",
+        "isRecurring": false,
+        "isFullDay": false,
+        "isFree": false,
+        "isCancelled": false
+      },
+      "integrationMeta": {
+        "externalCalendarId": "CQTPE5pscSDcbwjbiI8F",
+        "altType": "google",
+        "altId": "h5eande9g6mtof35lj815elahs",
+        "sync": {
+          "status": "success",
+          "error": null
+        },
+        "extras": {
+          "recurringEventId": null,
+          "RRule": null
+        }
+      },
+      "startTime": "2026-08-24T17:00:00.000Z",
+      "endTime": "2026-08-24T17:30:00.000Z",
+      "dateAdded": "2026-08-17T15:46:31.583Z",
+      "dateUpdated": "2026-08-18T17:39:12.017Z",
+      "rescheduledAt": "2026-08-18T17:39:12.016Z",
+      "groupId": "fqTO5gNwzrdF2iavTXvS",
+      "categoryId": "fqTO5gNwzrdF2iavTXvS",
+      "appointmentStatus": "confirmed",
+      "isOccupied": true,
+      "paymentMeta": {},
+      "permissionMeta": {
+        "canRead": true,
+        "canWrite": true
+      }
+    }
+  ],
+  "errors": {},
+  "traceId": "db476f31-9360-4524-b5f7-fec38d7e5f3e"
+}
