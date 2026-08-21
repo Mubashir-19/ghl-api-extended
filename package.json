@@ -1,6 +1,6 @@
 {
   "name": "ghl-api-extended",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Typed wrapper around GoHighLevel's internal search-v2 endpoints (contacts, opportunities, appointments) — filter the way the GHL UI does, with date-range fetch helpers and its own OAuth token store.",
   "license": "Apache-2.0",
   "author": "Mubashir",
